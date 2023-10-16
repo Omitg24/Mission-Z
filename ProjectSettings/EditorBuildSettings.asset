@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MenuVR.unity
+    path: Assets/Scenes/Game.unity
     guid: c72266273b87f47498eea4d48bb02c61
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c8face35e7cb33446b76821934b7928c, type: 2}
