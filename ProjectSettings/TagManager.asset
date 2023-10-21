@@ -10,6 +10,8 @@ TagManager:
   - wehrmacht_b
   - wehrmacht_a
   - Hitler
+  - WayPoint
+  - EndPoint
   layers:
   - Default
   - TransparentFX
