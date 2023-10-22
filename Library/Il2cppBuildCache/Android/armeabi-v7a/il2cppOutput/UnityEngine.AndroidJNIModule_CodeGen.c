@@ -13,567 +13,567 @@
 
 
 // 0x00000001 System.Boolean UnityEngine.AndroidJNIHelper::get_debug()
-extern void AndroidJNIHelper_get_debug_m7E1648C60EAF6EB001123CB2FC4C0B2261B88876 (void);
+extern void AndroidJNIHelper_get_debug_m57E106902A5D19E7D96E63E3A5A3B8AE1AD0CFE8 (void);
 // 0x00000002 System.Void UnityEngine.AndroidJNIHelper::set_debug(System.Boolean)
-extern void AndroidJNIHelper_set_debug_mEBA1803E5D5578B076C996085702CD879390EE53 (void);
+extern void AndroidJNIHelper_set_debug_m52258592F935A3438314DA47C7522A8E89B89174 (void);
 // 0x00000003 System.IntPtr UnityEngine.AndroidJNIHelper::GetConstructorID(System.IntPtr)
-extern void AndroidJNIHelper_GetConstructorID_m10F7D3AE577997C89642D1926164DB494F3403C3 (void);
+extern void AndroidJNIHelper_GetConstructorID_m25FFB9C32B1538A3346138B662E9D865C992F390 (void);
 // 0x00000004 System.IntPtr UnityEngine.AndroidJNIHelper::GetConstructorID(System.IntPtr,System.String)
-extern void AndroidJNIHelper_GetConstructorID_m22710C39375F8A965C70F995413D4B3C62E85E30 (void);
+extern void AndroidJNIHelper_GetConstructorID_m06EE0475AA9AA8D8656E1F5835FFCE2C0EFB92BC (void);
 // 0x00000005 System.IntPtr UnityEngine.AndroidJNIHelper::GetMethodID(System.IntPtr,System.String)
-extern void AndroidJNIHelper_GetMethodID_mF6814E0A71886C5D2381CF52E62FD65DF902C93C (void);
+extern void AndroidJNIHelper_GetMethodID_mB66763731E2A6B3BAA56B6C83804231D2DD93578 (void);
 // 0x00000006 System.IntPtr UnityEngine.AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.String)
-extern void AndroidJNIHelper_GetMethodID_m236E063458900400759E825844E3C3015D2E2764 (void);
+extern void AndroidJNIHelper_GetMethodID_mDFC5066D8D09F1D8C8567065419D21015856330E (void);
 // 0x00000007 System.IntPtr UnityEngine.AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.String,System.Boolean)
-extern void AndroidJNIHelper_GetMethodID_m2B5E7C9B05905F6C6B60A735B8A6E97BBA468535 (void);
+extern void AndroidJNIHelper_GetMethodID_m25A23BE9C141B9575BB8A332CD7B6F7F394202E3 (void);
 // 0x00000008 System.IntPtr UnityEngine.AndroidJNIHelper::GetFieldID(System.IntPtr,System.String)
-extern void AndroidJNIHelper_GetFieldID_m62EB337F7FE5081CF7AB43B8314DE1BCAD95EB85 (void);
+extern void AndroidJNIHelper_GetFieldID_mF3E48238D989137C782513ACEE15BCE75C9001BA (void);
 // 0x00000009 System.IntPtr UnityEngine.AndroidJNIHelper::GetFieldID(System.IntPtr,System.String,System.String)
-extern void AndroidJNIHelper_GetFieldID_m9D3959C9FA55DBF4B93CFD5FF9824461DBF745FA (void);
+extern void AndroidJNIHelper_GetFieldID_mF66493A229E3C43F5DD621BF9273344ED361C5D7 (void);
 // 0x0000000A System.IntPtr UnityEngine.AndroidJNIHelper::GetFieldID(System.IntPtr,System.String,System.String,System.Boolean)
-extern void AndroidJNIHelper_GetFieldID_mCDDF095C790C66CB19342E3A143A104020F5E170 (void);
+extern void AndroidJNIHelper_GetFieldID_m9ABAB24D635611ADEDF376E9B4F7E3E0D271D38E (void);
 // 0x0000000B System.IntPtr UnityEngine.AndroidJNIHelper::CreateJavaRunnable(UnityEngine.AndroidJavaRunnable)
-extern void AndroidJNIHelper_CreateJavaRunnable_m789E333B57BE23010719477567A818C88A529153 (void);
+extern void AndroidJNIHelper_CreateJavaRunnable_m1B89587372069109C43FAD8C4C96DA816DA04A03 (void);
 // 0x0000000C System.IntPtr UnityEngine.AndroidJNIHelper::CreateJavaProxy(UnityEngine.AndroidJavaProxy)
-extern void AndroidJNIHelper_CreateJavaProxy_mF3E9256AF65CC078B82DD0E1DC65306AA79DBBEC (void);
+extern void AndroidJNIHelper_CreateJavaProxy_m9E58A55A573E055FA242C5C6251C715522FC91DB (void);
 // 0x0000000D System.IntPtr UnityEngine.AndroidJNIHelper::ConvertToJNIArray(System.Array)
-extern void AndroidJNIHelper_ConvertToJNIArray_m0D2294EA1145D09C6A00BFF04446C8AB638FB914 (void);
+extern void AndroidJNIHelper_ConvertToJNIArray_mE000D137752927EA9CF47D17784A8256D9310D31 (void);
 // 0x0000000E UnityEngine.jvalue[] UnityEngine.AndroidJNIHelper::CreateJNIArgArray(System.Object[])
-extern void AndroidJNIHelper_CreateJNIArgArray_m3B928C14D5B3E86B38331427E0605478402DFDCE (void);
+extern void AndroidJNIHelper_CreateJNIArgArray_mB806BBD1920C763CCDB0BA6DE336425A45D4C361 (void);
 // 0x0000000F System.Void UnityEngine.AndroidJNIHelper::DeleteJNIArgArray(System.Object[],UnityEngine.jvalue[])
-extern void AndroidJNIHelper_DeleteJNIArgArray_mF43CDD1F690C9E843FE622B9A5F7B21F7556408A (void);
+extern void AndroidJNIHelper_DeleteJNIArgArray_m672B3991A3FF891888AFFF4D6F22767F17C05EA5 (void);
 // 0x00000010 System.IntPtr UnityEngine.AndroidJNIHelper::GetConstructorID(System.IntPtr,System.Object[])
-extern void AndroidJNIHelper_GetConstructorID_mDC08F55A8FFF5D4E2B6CB5FB6808935EC8211007 (void);
+extern void AndroidJNIHelper_GetConstructorID_m075C4952D43C603134C0D4CD6FDF98F3041956A6 (void);
 // 0x00000011 System.IntPtr UnityEngine.AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.Object[],System.Boolean)
-extern void AndroidJNIHelper_GetMethodID_mEEF27AD42E6F67E8FDC2633BDCBC705E2D28A9C9 (void);
+extern void AndroidJNIHelper_GetMethodID_m8F55F58B1EC4C8011E42FD6C800176D3D3AE0EE6 (void);
 // 0x00000012 System.String UnityEngine.AndroidJNIHelper::GetSignature(System.Object)
-extern void AndroidJNIHelper_GetSignature_m4FC5ED78932593A3F1D91F13DBA2B14061E2A78D (void);
+extern void AndroidJNIHelper_GetSignature_m5025AD4D56D4A3192B0857BBFAFF5D7058F7C8AD (void);
 // 0x00000013 System.String UnityEngine.AndroidJNIHelper::GetSignature(System.Object[])
-extern void AndroidJNIHelper_GetSignature_m118C14C93F52338B48F0C601B11D201DB9DE96B9 (void);
+extern void AndroidJNIHelper_GetSignature_m3C5C3F72D08BBDA349D467FED803F488B3D3A03C (void);
 // 0x00000014 ArrayType UnityEngine.AndroidJNIHelper::ConvertFromJNIArray(System.IntPtr)
 // 0x00000015 System.IntPtr UnityEngine.AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.Object[],System.Boolean)
 // 0x00000016 System.IntPtr UnityEngine.AndroidJNIHelper::GetFieldID(System.IntPtr,System.String,System.Boolean)
 // 0x00000017 System.String UnityEngine.AndroidJNIHelper::GetSignature(System.Object[])
 // 0x00000018 System.Int32 UnityEngine.AndroidJNI::AttachCurrentThread()
-extern void AndroidJNI_AttachCurrentThread_mB19891A8E6DFF2548BEC09881D3DD282F4A4F83E (void);
+extern void AndroidJNI_AttachCurrentThread_m4BDA2604BFEF76FD133EECB511C87486387A542F (void);
 // 0x00000019 System.Int32 UnityEngine.AndroidJNI::DetachCurrentThread()
-extern void AndroidJNI_DetachCurrentThread_m7BF42C3D636234700C9E2642022413F16205607B (void);
+extern void AndroidJNI_DetachCurrentThread_m5ED036BCF88773D2E42DE529F09B88739A5EEC5F (void);
 // 0x0000001A System.Int32 UnityEngine.AndroidJNI::GetVersion()
-extern void AndroidJNI_GetVersion_m8AB577F0FA156B46CB78B17676DB3FB3C4547F1A (void);
+extern void AndroidJNI_GetVersion_m7E93547DCA7DEEDFD05A45E51070193A349A24D5 (void);
 // 0x0000001B System.IntPtr UnityEngine.AndroidJNI::FindClass(System.String)
-extern void AndroidJNI_FindClass_m9271648050957874E8489952E493156991C511F5 (void);
+extern void AndroidJNI_FindClass_m35CA47A458527E778188E0DAB30E5C7123568C6A (void);
 // 0x0000001C System.IntPtr UnityEngine.AndroidJNI::FromReflectedMethod(System.IntPtr)
-extern void AndroidJNI_FromReflectedMethod_mBF204982142E2EA82F66F562F5661F2A459F34F5 (void);
+extern void AndroidJNI_FromReflectedMethod_m5CD5D729593B5F0847D47CBDBE9A8945302C1CE3 (void);
 // 0x0000001D System.IntPtr UnityEngine.AndroidJNI::FromReflectedField(System.IntPtr)
-extern void AndroidJNI_FromReflectedField_m953A229E24DBC929776979079A0D2CD4739D65C9 (void);
+extern void AndroidJNI_FromReflectedField_mC3764CF5056B1D5C8A13E495B00C5CB8C2C5AA2E (void);
 // 0x0000001E System.IntPtr UnityEngine.AndroidJNI::ToReflectedMethod(System.IntPtr,System.IntPtr,System.Boolean)
-extern void AndroidJNI_ToReflectedMethod_m3840E627EAFC81835240F0EC2B6240E05F8D504C (void);
+extern void AndroidJNI_ToReflectedMethod_m2192F9DE56A21FA90DB632EDA435EECEBD2AD9EF (void);
 // 0x0000001F System.IntPtr UnityEngine.AndroidJNI::ToReflectedField(System.IntPtr,System.IntPtr,System.Boolean)
-extern void AndroidJNI_ToReflectedField_mD2CEB5AAAB8F970F4CC71C091870C821955283FF (void);
+extern void AndroidJNI_ToReflectedField_m18F926C0366B8F4858B32A22CD1D113E430F8CFC (void);
 // 0x00000020 System.IntPtr UnityEngine.AndroidJNI::GetSuperclass(System.IntPtr)
-extern void AndroidJNI_GetSuperclass_m6DD617604F3257293C6082A6938C7E86321B642D (void);
+extern void AndroidJNI_GetSuperclass_mB4D022920F05E709C4A47BD40280A1188628EB6F (void);
 // 0x00000021 System.Boolean UnityEngine.AndroidJNI::IsAssignableFrom(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_IsAssignableFrom_m3157A254A289162FB5E8A6ED9D5EA28A3661B51F (void);
+extern void AndroidJNI_IsAssignableFrom_m1269DF68F64C0C88AC3E019D377C5620A01B8997 (void);
 // 0x00000022 System.Int32 UnityEngine.AndroidJNI::Throw(System.IntPtr)
-extern void AndroidJNI_Throw_m47938C57149E2B71FA1A41F478323A6DBC6D8BA0 (void);
+extern void AndroidJNI_Throw_m7D922C270A9F4BAD8CA524BC977052A7C9DED3CB (void);
 // 0x00000023 System.Int32 UnityEngine.AndroidJNI::ThrowNew(System.IntPtr,System.String)
-extern void AndroidJNI_ThrowNew_m2026B533581907527794C83A32E3387F5E088D12 (void);
+extern void AndroidJNI_ThrowNew_m57AAF3928186C1ED41A696C78BCE9D7055A200CE (void);
 // 0x00000024 System.IntPtr UnityEngine.AndroidJNI::ExceptionOccurred()
-extern void AndroidJNI_ExceptionOccurred_m347473FDF70118E17D092961232E7EAF0BCF2991 (void);
+extern void AndroidJNI_ExceptionOccurred_mFC131075AAAFFD4A8D511363B749E42B172B42C0 (void);
 // 0x00000025 System.Void UnityEngine.AndroidJNI::ExceptionDescribe()
-extern void AndroidJNI_ExceptionDescribe_mA46A449AEF75F9433FBCFC60C9FB9BD80A738C68 (void);
+extern void AndroidJNI_ExceptionDescribe_m06934CD71438E34E7AD23A6C68857DEAFDD92CE7 (void);
 // 0x00000026 System.Void UnityEngine.AndroidJNI::ExceptionClear()
-extern void AndroidJNI_ExceptionClear_mE1961C9BD4984AF52712BFF181B6B95F435531B7 (void);
+extern void AndroidJNI_ExceptionClear_m6FA4D64946FB39496A416E7CE6868E337A8C29FB (void);
 // 0x00000027 System.Void UnityEngine.AndroidJNI::FatalError(System.String)
-extern void AndroidJNI_FatalError_m8CF48E3EB9A551B6B777F549F6D0C0774E55BBAB (void);
+extern void AndroidJNI_FatalError_mFBAB27A149174340F6132F1C6044DE290E4878E8 (void);
 // 0x00000028 System.Int32 UnityEngine.AndroidJNI::PushLocalFrame(System.Int32)
-extern void AndroidJNI_PushLocalFrame_m50EAB8EF4BAAE44BCEF28F578917506AFA5AF757 (void);
+extern void AndroidJNI_PushLocalFrame_mBE32A038C6E4E5FE5C0661981EDCC57D79D5B20D (void);
 // 0x00000029 System.IntPtr UnityEngine.AndroidJNI::PopLocalFrame(System.IntPtr)
-extern void AndroidJNI_PopLocalFrame_mCC5DA39EFA179BDA7D70E5D52B03D81A22D3BB3E (void);
+extern void AndroidJNI_PopLocalFrame_m0BE71C6B792A2E3F744FEBCC799FD5511F74CD6E (void);
 // 0x0000002A System.IntPtr UnityEngine.AndroidJNI::NewGlobalRef(System.IntPtr)
-extern void AndroidJNI_NewGlobalRef_m34740B5AECF82CE97986D6E67F5E1D8CBF7DB837 (void);
+extern void AndroidJNI_NewGlobalRef_m0CBCEAE2F24C059B441287FD8878E69C97A4609C (void);
 // 0x0000002B System.Void UnityEngine.AndroidJNI::DeleteGlobalRef(System.IntPtr)
-extern void AndroidJNI_DeleteGlobalRef_m0B4945EEFFCA6F7CC0808310DD6FA8BFB58A4F53 (void);
+extern void AndroidJNI_DeleteGlobalRef_m5D1E60290B99019EB4CFF1FF2BB965E5B690F5DD (void);
 // 0x0000002C System.IntPtr UnityEngine.AndroidJNI::NewWeakGlobalRef(System.IntPtr)
-extern void AndroidJNI_NewWeakGlobalRef_mB62AFFE361315D8C045F6EF4D961C5501839E295 (void);
+extern void AndroidJNI_NewWeakGlobalRef_m984CDA34234D997E64ACCBCC71D53A97454EA162 (void);
 // 0x0000002D System.Void UnityEngine.AndroidJNI::DeleteWeakGlobalRef(System.IntPtr)
-extern void AndroidJNI_DeleteWeakGlobalRef_m972079D94C174FA5F427AC16C92B2B3179175F46 (void);
+extern void AndroidJNI_DeleteWeakGlobalRef_m49B0AC00D8B95435A95013BCE656E3F04A72598E (void);
 // 0x0000002E System.IntPtr UnityEngine.AndroidJNI::NewLocalRef(System.IntPtr)
-extern void AndroidJNI_NewLocalRef_m9309F714C7C9C3C47EA48218FB6B0BE810E42EAE (void);
+extern void AndroidJNI_NewLocalRef_m87E92FA6F371946D739C72EE34A021C9E5779DF6 (void);
 // 0x0000002F System.Void UnityEngine.AndroidJNI::DeleteLocalRef(System.IntPtr)
-extern void AndroidJNI_DeleteLocalRef_m5EEFE4C0CA9F65208C117ECE9D893A993A477DB4 (void);
+extern void AndroidJNI_DeleteLocalRef_m0640E773BAD2A500DB3A70F13072B5155B855D91 (void);
 // 0x00000030 System.Boolean UnityEngine.AndroidJNI::IsSameObject(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_IsSameObject_m8F9EB5AEEB5CFC5057784D1EDAF76B74800DAE9E (void);
+extern void AndroidJNI_IsSameObject_m86CE217DB7CB72215A9161A925B050FFC947CD58 (void);
 // 0x00000031 System.Int32 UnityEngine.AndroidJNI::EnsureLocalCapacity(System.Int32)
-extern void AndroidJNI_EnsureLocalCapacity_m6EF7523782FFB3FA7EBB6B3D178F2212136DADF0 (void);
+extern void AndroidJNI_EnsureLocalCapacity_mAD1DA6E509A9540B77F9BCCA4F43E7C27DBAFC3F (void);
 // 0x00000032 System.IntPtr UnityEngine.AndroidJNI::AllocObject(System.IntPtr)
-extern void AndroidJNI_AllocObject_mF9A043D00FCBFF6019969FB90CBCD74BB5EAFF5C (void);
+extern void AndroidJNI_AllocObject_m8B987D4A2F86788BFDD7FDB3C528CF855C1D6CBD (void);
 // 0x00000033 System.IntPtr UnityEngine.AndroidJNI::NewObject(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_NewObject_m8D445E11DAFC786997C16BF296C0BB844F6E7D60 (void);
+extern void AndroidJNI_NewObject_m02A159629121FF8B03A612F2B7BB412E95BEED9C (void);
 // 0x00000034 System.IntPtr UnityEngine.AndroidJNI::GetObjectClass(System.IntPtr)
-extern void AndroidJNI_GetObjectClass_m38B1858A3F6F7336FBEC67F36E998D61DE93988A (void);
+extern void AndroidJNI_GetObjectClass_mDF3386F6A5A606B1772741A6706B69861CCBFDFE (void);
 // 0x00000035 System.Boolean UnityEngine.AndroidJNI::IsInstanceOf(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_IsInstanceOf_mDE65CF5CA37FCA98D2EFEE2162FBD5F85773B676 (void);
+extern void AndroidJNI_IsInstanceOf_m0113B9BE54712FE44473A8544DB166779301E5CF (void);
 // 0x00000036 System.IntPtr UnityEngine.AndroidJNI::GetMethodID(System.IntPtr,System.String,System.String)
-extern void AndroidJNI_GetMethodID_m4A0DBC91C300B8F342333561BA237258E12D0A3B (void);
+extern void AndroidJNI_GetMethodID_mFF49BAEF9F697F41B4325F9C6B2E7443D91AA0B3 (void);
 // 0x00000037 System.IntPtr UnityEngine.AndroidJNI::GetFieldID(System.IntPtr,System.String,System.String)
-extern void AndroidJNI_GetFieldID_mC4C0EAE4D7F680F02090DD7B42D9FFA6B0F48B51 (void);
+extern void AndroidJNI_GetFieldID_m7E66B43BBF9FFF6578039F549C33DC531C17ADAE (void);
 // 0x00000038 System.IntPtr UnityEngine.AndroidJNI::GetStaticMethodID(System.IntPtr,System.String,System.String)
-extern void AndroidJNI_GetStaticMethodID_mB2C04328A527EB6EAC74F048CC10DEB3099C4826 (void);
+extern void AndroidJNI_GetStaticMethodID_m501CE9457D8834DB97B45AB1EF3FBCF5C0052B36 (void);
 // 0x00000039 System.IntPtr UnityEngine.AndroidJNI::GetStaticFieldID(System.IntPtr,System.String,System.String)
-extern void AndroidJNI_GetStaticFieldID_m4A0EB1679C7A473DDDBE9FA904C64EEC4DBDEEFE (void);
+extern void AndroidJNI_GetStaticFieldID_m2A9971AE72A90833F8610F069D7E57D44D78F2AB (void);
 // 0x0000003A System.IntPtr UnityEngine.AndroidJNI::NewString(System.String)
-extern void AndroidJNI_NewString_m39B9E7C930BE075D93850E925F808720BEB5C673 (void);
+extern void AndroidJNI_NewString_m67DD4C3BF62BE2EF854288AE991E9C49CA97C8E8 (void);
 // 0x0000003B System.IntPtr UnityEngine.AndroidJNI::NewStringFromStr(System.String)
-extern void AndroidJNI_NewStringFromStr_m2FA0D93FE6ABFD5D1B3546B797EDE6ABB37208CC (void);
+extern void AndroidJNI_NewStringFromStr_mF0F3F777C3349DFFBCA76B342D1CC885C13BC52C (void);
 // 0x0000003C System.IntPtr UnityEngine.AndroidJNI::NewString(System.Char[])
-extern void AndroidJNI_NewString_m23E94D1BE4BDAC8424D4A176022D66B3EB7F1128 (void);
+extern void AndroidJNI_NewString_mCE065DFA2528A52D60EE6845A4B8919262EA819A (void);
 // 0x0000003D System.IntPtr UnityEngine.AndroidJNI::NewStringUTF(System.String)
-extern void AndroidJNI_NewStringUTF_m1620DE5AE08CC5460E99D221E936C5100D6498B8 (void);
+extern void AndroidJNI_NewStringUTF_m2B647D8594E23100D845FC1E86FC8AB18B091471 (void);
 // 0x0000003E System.String UnityEngine.AndroidJNI::GetStringChars(System.IntPtr)
-extern void AndroidJNI_GetStringChars_m95FBBCDB48D425FBDC19710D92C7D6D175041778 (void);
+extern void AndroidJNI_GetStringChars_mA34525423F3506039FFF8F4E6F3F0F263A5FE723 (void);
 // 0x0000003F System.Int32 UnityEngine.AndroidJNI::GetStringLength(System.IntPtr)
-extern void AndroidJNI_GetStringLength_m81093878D7A41B377BAA97F92F832F20DF437CED (void);
+extern void AndroidJNI_GetStringLength_m0286C3FACCD9C7FF69FDB1CD7BB757D49DF506FF (void);
 // 0x00000040 System.Int32 UnityEngine.AndroidJNI::GetStringUTFLength(System.IntPtr)
-extern void AndroidJNI_GetStringUTFLength_mE733555F4F22497F5E48E7BB084BFD98BCC243C6 (void);
+extern void AndroidJNI_GetStringUTFLength_m16F74DBB35125A1518B3144FF6853D11B9240847 (void);
 // 0x00000041 System.String UnityEngine.AndroidJNI::GetStringUTFChars(System.IntPtr)
-extern void AndroidJNI_GetStringUTFChars_m3E0D54C47F2234366A810E0CFBF6CC54B72ABF63 (void);
+extern void AndroidJNI_GetStringUTFChars_mE3564ACEEB53CA4418CED0CB1618483ED5C8F676 (void);
 // 0x00000042 System.String UnityEngine.AndroidJNI::CallStringMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStringMethod_m8D44F815C76333C22FF73753CF8289089E633261 (void);
+extern void AndroidJNI_CallStringMethod_mE09892DC06071212833B3C708EC47EE5EC059C80 (void);
 // 0x00000043 System.IntPtr UnityEngine.AndroidJNI::CallObjectMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallObjectMethod_m29CAA840E7ECD2A6B835EAF9E119F8E3E5B99495 (void);
+extern void AndroidJNI_CallObjectMethod_m3EBB2273B0EA84B457CBCF76A5E9F090EEA093A8 (void);
 // 0x00000044 System.Int32 UnityEngine.AndroidJNI::CallIntMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallIntMethod_m3A49D0808C1D0C3EAF25B3F2DC7890B483B00CDF (void);
+extern void AndroidJNI_CallIntMethod_m127D249914A292870FAB52D12B28144FC8E7275E (void);
 // 0x00000045 System.Boolean UnityEngine.AndroidJNI::CallBooleanMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallBooleanMethod_mCC2BF562D42946CC90BB9E5489C9311DB38A6F8A (void);
+extern void AndroidJNI_CallBooleanMethod_m0CDF725FF2C96E5B72EA5F2343A2B8FD8BDA20A7 (void);
 // 0x00000046 System.Int16 UnityEngine.AndroidJNI::CallShortMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallShortMethod_m719565EF3E0DB80078F924283F72E3492BCED486 (void);
+extern void AndroidJNI_CallShortMethod_m663510B7F4E94A030DE4A05E70682A6EFA90F13C (void);
 // 0x00000047 System.Byte UnityEngine.AndroidJNI::CallByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallByteMethod_m1DE38A73575B182367C588A6231FC849119F8421 (void);
+extern void AndroidJNI_CallByteMethod_mDF75D266569801FCBECDC3954863F788384EA997 (void);
 // 0x00000048 System.SByte UnityEngine.AndroidJNI::CallSByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallSByteMethod_mD99C2871A4ED3D2228B6F9EA97484D71E529C5EA (void);
+extern void AndroidJNI_CallSByteMethod_mE213EDEB1EEF789DE37BEA74A05D046E7807E20E (void);
 // 0x00000049 System.Char UnityEngine.AndroidJNI::CallCharMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallCharMethod_m6D9AB75BB4E6E6F40C12654EADB9CB3AC441F257 (void);
+extern void AndroidJNI_CallCharMethod_m17E6E525A5D1B048FDAE20B99C61A43BA32FC8E2 (void);
 // 0x0000004A System.Single UnityEngine.AndroidJNI::CallFloatMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallFloatMethod_mB40ADB8EFB34D674AF586B65E3B443AF51B62CD9 (void);
+extern void AndroidJNI_CallFloatMethod_mD2438B99FF13BFFE6D834FC7C1C3D925E47CA317 (void);
 // 0x0000004B System.Double UnityEngine.AndroidJNI::CallDoubleMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallDoubleMethod_mC6B84A261650B29C19C304F07D1080B38ABC7186 (void);
+extern void AndroidJNI_CallDoubleMethod_m810BC723EBEFFCFF698965D9A588064CFC40232C (void);
 // 0x0000004C System.Int64 UnityEngine.AndroidJNI::CallLongMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallLongMethod_m566FBCF6E3D1B11ECBA4DBB51E3712F2EE9A7FE9 (void);
+extern void AndroidJNI_CallLongMethod_m9232E3B51D89ABAA7D9BC58B42B444156102EABC (void);
 // 0x0000004D System.Void UnityEngine.AndroidJNI::CallVoidMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallVoidMethod_m73DDDA8EB846555AD558EF887EAC6CC2C58DD9E1 (void);
+extern void AndroidJNI_CallVoidMethod_m0BF2683A2CD5BA81C057DFC07F417115310B0283 (void);
 // 0x0000004E System.String UnityEngine.AndroidJNI::GetStringField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStringField_mA73AF6FD2567B072CD2B0001141572E828631895 (void);
+extern void AndroidJNI_GetStringField_m15CDC58189B81C49C19276E00BE3F80656342DDF (void);
 // 0x0000004F System.IntPtr UnityEngine.AndroidJNI::GetObjectField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetObjectField_m8B8ED51F25AB8BB21B7438403A2BF270F46A84AC (void);
+extern void AndroidJNI_GetObjectField_m2ECDAF74FFF7EFC858205F87C7264C25C976ED28 (void);
 // 0x00000050 System.Boolean UnityEngine.AndroidJNI::GetBooleanField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetBooleanField_mDB55052FA51572A300A676EEDCB30DEEFC0693E1 (void);
+extern void AndroidJNI_GetBooleanField_mC6F5A0CC5D55A970EB7AAC480395BC8FD6CB17C8 (void);
 // 0x00000051 System.Byte UnityEngine.AndroidJNI::GetByteField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetByteField_m3DF31B18F5B17A174806408A56F058D0BD9E8F15 (void);
+extern void AndroidJNI_GetByteField_m5A9BF4A500957174ABF838DF7F37FC186A8C2EB3 (void);
 // 0x00000052 System.SByte UnityEngine.AndroidJNI::GetSByteField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetSByteField_m1C62131E459A7806DA4397A3C1B2C51706C93A02 (void);
+extern void AndroidJNI_GetSByteField_m0B33376868BE72599A879612BD4968A3451AB3F7 (void);
 // 0x00000053 System.Char UnityEngine.AndroidJNI::GetCharField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetCharField_m25CABF409E496A1932176877D571C62112FA8A64 (void);
+extern void AndroidJNI_GetCharField_mA62DC950E6EE8C88F8126389843A0F9408F33554 (void);
 // 0x00000054 System.Int16 UnityEngine.AndroidJNI::GetShortField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetShortField_m423F6120226D41E28A04AB3052CB0545053E0BAF (void);
+extern void AndroidJNI_GetShortField_mC3CD99C2CBFA7F0B11C8527D64FE023344F59E2C (void);
 // 0x00000055 System.Int32 UnityEngine.AndroidJNI::GetIntField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetIntField_m29E6AA1A73F6D13F7B51CCD6EA7F4887C65D1106 (void);
+extern void AndroidJNI_GetIntField_m5404C0E1CF43B015DE5BA6B27E8BA3EFEA596098 (void);
 // 0x00000056 System.Int64 UnityEngine.AndroidJNI::GetLongField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetLongField_m68804BF10A449500A82829BBA41196757681F9E2 (void);
+extern void AndroidJNI_GetLongField_m96A3820B70125505E5A9134EB79E16687A992A59 (void);
 // 0x00000057 System.Single UnityEngine.AndroidJNI::GetFloatField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetFloatField_m5207D3460B1D8921002E2F7A1B063B5D83238337 (void);
+extern void AndroidJNI_GetFloatField_m3B29211A1F4FBD7DBFD3D6F39A2CAF30F02947F5 (void);
 // 0x00000058 System.Double UnityEngine.AndroidJNI::GetDoubleField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetDoubleField_m6C4D7C556681ED4828EEFA819EAA5334F7753E5F (void);
+extern void AndroidJNI_GetDoubleField_mA9724BDC49822C2C8F1E733B3333FB27207FB122 (void);
 // 0x00000059 System.Void UnityEngine.AndroidJNI::SetStringField(System.IntPtr,System.IntPtr,System.String)
-extern void AndroidJNI_SetStringField_mF37BDAF661F6FBBDD773315390EB32FB58C10C5F (void);
+extern void AndroidJNI_SetStringField_mF27A80EDDDE5368DB6BD80BA90703E111F0089BA (void);
 // 0x0000005A System.Void UnityEngine.AndroidJNI::SetObjectField(System.IntPtr,System.IntPtr,System.IntPtr)
-extern void AndroidJNI_SetObjectField_m0DAAA36226C6725EC4083E1D0A23D19BB2DE3E85 (void);
+extern void AndroidJNI_SetObjectField_m5BF0CCFB5A9C3B8B44237CB68DC6598E3FA290B2 (void);
 // 0x0000005B System.Void UnityEngine.AndroidJNI::SetBooleanField(System.IntPtr,System.IntPtr,System.Boolean)
-extern void AndroidJNI_SetBooleanField_m76A515BB149DA8AF1DF6E66E35F3C6B66AB1B4CA (void);
+extern void AndroidJNI_SetBooleanField_m2B5CE4C256449AAAFE7E4D067570FDC05ACAB66A (void);
 // 0x0000005C System.Void UnityEngine.AndroidJNI::SetByteField(System.IntPtr,System.IntPtr,System.Byte)
-extern void AndroidJNI_SetByteField_m1793693EB40B97BB57B95864B43CBCF3784D48EA (void);
+extern void AndroidJNI_SetByteField_m049DAA6C39F42D9360AA02A8F6904CED938C4E7C (void);
 // 0x0000005D System.Void UnityEngine.AndroidJNI::SetSByteField(System.IntPtr,System.IntPtr,System.SByte)
-extern void AndroidJNI_SetSByteField_m5D083BA0FD1B1E0A906057E21AEF66F23F2FC029 (void);
+extern void AndroidJNI_SetSByteField_m6DA65F56C2F70D82558BD693460E3576DE499084 (void);
 // 0x0000005E System.Void UnityEngine.AndroidJNI::SetCharField(System.IntPtr,System.IntPtr,System.Char)
-extern void AndroidJNI_SetCharField_m79A092244968A2437B8EAD649C93194D5CE3D977 (void);
+extern void AndroidJNI_SetCharField_mFAEF7DEC5A75F371D331534E57D2C28058CBA34D (void);
 // 0x0000005F System.Void UnityEngine.AndroidJNI::SetShortField(System.IntPtr,System.IntPtr,System.Int16)
-extern void AndroidJNI_SetShortField_mE3A295DA43368980BE7ED8938810D185570EB9E2 (void);
+extern void AndroidJNI_SetShortField_mFB10E21E17DA935E38D438678CDE0843EB376FC0 (void);
 // 0x00000060 System.Void UnityEngine.AndroidJNI::SetIntField(System.IntPtr,System.IntPtr,System.Int32)
-extern void AndroidJNI_SetIntField_mA1B11C1ADD446CAB6E07DCC7161BC66025E1482D (void);
+extern void AndroidJNI_SetIntField_mB2BED3DDB77A83C258B0DBDC8D78BAA2B6110FED (void);
 // 0x00000061 System.Void UnityEngine.AndroidJNI::SetLongField(System.IntPtr,System.IntPtr,System.Int64)
-extern void AndroidJNI_SetLongField_mEC4F5165235EAA39BF6685F46975BB5D70898643 (void);
+extern void AndroidJNI_SetLongField_mAB602617DF0098E1CEA6179A5310A99373AEDB30 (void);
 // 0x00000062 System.Void UnityEngine.AndroidJNI::SetFloatField(System.IntPtr,System.IntPtr,System.Single)
-extern void AndroidJNI_SetFloatField_mA772469C7407926D8FA090CEC3DBD23638D5AD67 (void);
+extern void AndroidJNI_SetFloatField_mD05BC7B5BC96CFE51D1C837E10B2E944605A0C53 (void);
 // 0x00000063 System.Void UnityEngine.AndroidJNI::SetDoubleField(System.IntPtr,System.IntPtr,System.Double)
-extern void AndroidJNI_SetDoubleField_m6B4BF40ADCB50B649BE2338436C3DF75132201C7 (void);
+extern void AndroidJNI_SetDoubleField_m84C6D8C178081527ACD047F331FA9B365216F06C (void);
 // 0x00000064 System.String UnityEngine.AndroidJNI::CallStaticStringMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticStringMethod_m4089540DF5B52F735C6C70988D73FE69463B7B44 (void);
+extern void AndroidJNI_CallStaticStringMethod_m864F9AB1371B0FDF09703634526B10347F2C2F15 (void);
 // 0x00000065 System.IntPtr UnityEngine.AndroidJNI::CallStaticObjectMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticObjectMethod_m41962AB7EBBC53ACB5ACD5D7CC175EC8CFF22B13 (void);
+extern void AndroidJNI_CallStaticObjectMethod_m0601132D53321BDD71EC8825442D425D6A62AD85 (void);
 // 0x00000066 System.Int32 UnityEngine.AndroidJNI::CallStaticIntMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticIntMethod_mE05BBCE19901EED01DB88DCE7775D2EC75266F6F (void);
+extern void AndroidJNI_CallStaticIntMethod_m55AFC39C5E59C66C4773524231A41002A9A301C1 (void);
 // 0x00000067 System.Boolean UnityEngine.AndroidJNI::CallStaticBooleanMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticBooleanMethod_mA658B97E472490DCEF41A9C9BE9E2808FD4D8649 (void);
+extern void AndroidJNI_CallStaticBooleanMethod_mF0CF8B276B05D318DD21001D33C717D623CF0AE7 (void);
 // 0x00000068 System.Int16 UnityEngine.AndroidJNI::CallStaticShortMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticShortMethod_m06B921F4634800E6E42691920E9DD1697491061A (void);
+extern void AndroidJNI_CallStaticShortMethod_mBBA7160FA2070E2062D8A2CFDD1C5B77643B15C8 (void);
 // 0x00000069 System.Byte UnityEngine.AndroidJNI::CallStaticByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticByteMethod_m8993BEE7B4E82AD0B620C178421DFD134532CB61 (void);
+extern void AndroidJNI_CallStaticByteMethod_m3575B3E1E23C35444C23351ACEE146A35CB462BA (void);
 // 0x0000006A System.SByte UnityEngine.AndroidJNI::CallStaticSByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticSByteMethod_m5E1FBD3B228299120E15BC39A97BB98BFD8CEA68 (void);
+extern void AndroidJNI_CallStaticSByteMethod_m72D27748B5B1FD9446F2820039D17F5BFF6E94A4 (void);
 // 0x0000006B System.Char UnityEngine.AndroidJNI::CallStaticCharMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticCharMethod_mA3E1C0CA79C37C0E8CA480305C0195D87C4EBBF7 (void);
+extern void AndroidJNI_CallStaticCharMethod_m9C08344C6A639451AABE718F0ED27D24C7EDD6A5 (void);
 // 0x0000006C System.Single UnityEngine.AndroidJNI::CallStaticFloatMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticFloatMethod_m0DA71B5E200550A66C4880BFF404225B063ACDFE (void);
+extern void AndroidJNI_CallStaticFloatMethod_m01779727D9A97191F0A4C54B5241E8D7D81CEEF3 (void);
 // 0x0000006D System.Double UnityEngine.AndroidJNI::CallStaticDoubleMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticDoubleMethod_m705917C9F0238B4C0E040C9156424FB1BD2FC4DA (void);
+extern void AndroidJNI_CallStaticDoubleMethod_m120E0E4E343D41C41FB8E0B37272E6D4AB284ECA (void);
 // 0x0000006E System.Int64 UnityEngine.AndroidJNI::CallStaticLongMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticLongMethod_mA9AAA7D40F0F6D5BB9EB183ED5E9ADD05714648B (void);
+extern void AndroidJNI_CallStaticLongMethod_m432BF984FAD4465BD4A4B4ED18430063EEA6AFEB (void);
 // 0x0000006F System.Void UnityEngine.AndroidJNI::CallStaticVoidMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNI_CallStaticVoidMethod_mE35981047575D7C0028FC4EF205B05909911F0E3 (void);
+extern void AndroidJNI_CallStaticVoidMethod_mB21A9A17469B148C29C36852C91C835D621B8B31 (void);
 // 0x00000070 System.String UnityEngine.AndroidJNI::GetStaticStringField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticStringField_mE2A560DA43E00261DFDDA8B01B14079D4BFC991D (void);
+extern void AndroidJNI_GetStaticStringField_m42CE78EBEFF78787FBD077F75B30616ACF924312 (void);
 // 0x00000071 System.IntPtr UnityEngine.AndroidJNI::GetStaticObjectField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticObjectField_mF0B7E3A4F176948EEDEAB889556A40CD3367A82E (void);
+extern void AndroidJNI_GetStaticObjectField_m94337EA629C5FE55CFB37F8F02A609434FEB5D89 (void);
 // 0x00000072 System.Boolean UnityEngine.AndroidJNI::GetStaticBooleanField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticBooleanField_m20FDB9C59C5B477D43C101AC39D1ADD1C5B43EB6 (void);
+extern void AndroidJNI_GetStaticBooleanField_m909A15A903875C5D6B3BFA29A67570F96A701C0D (void);
 // 0x00000073 System.Byte UnityEngine.AndroidJNI::GetStaticByteField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticByteField_m3F4846EA0FA9F5EF07771E6D0CCA5C0064CF59F1 (void);
+extern void AndroidJNI_GetStaticByteField_mBCCA31F18EFFAC33D829DE13F4CCAB20177EDA09 (void);
 // 0x00000074 System.SByte UnityEngine.AndroidJNI::GetStaticSByteField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticSByteField_mE13559FDAD40898D97AEC9CBE29BEA9703E59F1A (void);
+extern void AndroidJNI_GetStaticSByteField_m591172C28B493955970211BF6AD6F8C7B37AA035 (void);
 // 0x00000075 System.Char UnityEngine.AndroidJNI::GetStaticCharField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticCharField_m084D95E7ED2D5022B036F280E1D183C7B00B5227 (void);
+extern void AndroidJNI_GetStaticCharField_m5832AF70C4800FFF72B41A16E388A2CB720202B8 (void);
 // 0x00000076 System.Int16 UnityEngine.AndroidJNI::GetStaticShortField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticShortField_mAB0D32048E578260AC30D46E7F57594AE29065EF (void);
+extern void AndroidJNI_GetStaticShortField_m407C3A7C748C7E740CF0E5672D839F6ACF14DC05 (void);
 // 0x00000077 System.Int32 UnityEngine.AndroidJNI::GetStaticIntField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticIntField_m8B2E4B5F3430756A627A14DBA175DC9A3E095A9E (void);
+extern void AndroidJNI_GetStaticIntField_mC9C4BFE272E82E8DC6628BA07AA0ADDEB5433217 (void);
 // 0x00000078 System.Int64 UnityEngine.AndroidJNI::GetStaticLongField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticLongField_mFC6C7CB64391C4F6E6D1A979B0729352CB005609 (void);
+extern void AndroidJNI_GetStaticLongField_m9C1B0514A77EB5D18C5251B8B9F4A3156BD3F28A (void);
 // 0x00000079 System.Single UnityEngine.AndroidJNI::GetStaticFloatField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticFloatField_m8F419006E1DB6BBFF173E4C1FD5B86C6090F46B5 (void);
+extern void AndroidJNI_GetStaticFloatField_m475E8F19BCF56B33B4CF70FF00E44C6E2592E5B1 (void);
 // 0x0000007A System.Double UnityEngine.AndroidJNI::GetStaticDoubleField(System.IntPtr,System.IntPtr)
-extern void AndroidJNI_GetStaticDoubleField_mC503C45EF1AF9B94E924AD87B310F4D50BED2ED3 (void);
+extern void AndroidJNI_GetStaticDoubleField_mED2640B91B2C70640ED82CE175D8B3DF8CE581F7 (void);
 // 0x0000007B System.Void UnityEngine.AndroidJNI::SetStaticStringField(System.IntPtr,System.IntPtr,System.String)
-extern void AndroidJNI_SetStaticStringField_mF891918A5B8138BFD1174DECADCD78AD3C124FDA (void);
+extern void AndroidJNI_SetStaticStringField_mF2D3B4DA22AAA391BDB8966BBF93C11901E08AC0 (void);
 // 0x0000007C System.Void UnityEngine.AndroidJNI::SetStaticObjectField(System.IntPtr,System.IntPtr,System.IntPtr)
-extern void AndroidJNI_SetStaticObjectField_m7E96D963B14258055D17C0CF4F75DE69CF1E4C4B (void);
+extern void AndroidJNI_SetStaticObjectField_m7EEFE1625CE0108C099A95916D99ADFF5C6E66E0 (void);
 // 0x0000007D System.Void UnityEngine.AndroidJNI::SetStaticBooleanField(System.IntPtr,System.IntPtr,System.Boolean)
-extern void AndroidJNI_SetStaticBooleanField_m437022CF80A2B4DD8937D35E6FC9AB97DCC2194A (void);
+extern void AndroidJNI_SetStaticBooleanField_m4692292793FD22884A29F37CF94156354016CF4A (void);
 // 0x0000007E System.Void UnityEngine.AndroidJNI::SetStaticByteField(System.IntPtr,System.IntPtr,System.Byte)
-extern void AndroidJNI_SetStaticByteField_m76665CE78512BE56F456DDA65F970F5DE5F44ACF (void);
+extern void AndroidJNI_SetStaticByteField_m71B327DBC55011F8D158FCC8DAD1BA3802071CC2 (void);
 // 0x0000007F System.Void UnityEngine.AndroidJNI::SetStaticSByteField(System.IntPtr,System.IntPtr,System.SByte)
-extern void AndroidJNI_SetStaticSByteField_m6783E6F23D3EB249A53DEF836D2AF2A713A928A3 (void);
+extern void AndroidJNI_SetStaticSByteField_mAD2E0501AF1543EA0EAB3EC06805F289C285FEE1 (void);
 // 0x00000080 System.Void UnityEngine.AndroidJNI::SetStaticCharField(System.IntPtr,System.IntPtr,System.Char)
-extern void AndroidJNI_SetStaticCharField_m786E10049AA82B1F7279686EC2AB6CD7D93BD078 (void);
+extern void AndroidJNI_SetStaticCharField_m70BC109B15FFF9869C8489FA7F705BA29D077349 (void);
 // 0x00000081 System.Void UnityEngine.AndroidJNI::SetStaticShortField(System.IntPtr,System.IntPtr,System.Int16)
-extern void AndroidJNI_SetStaticShortField_mBE90596812741F948E2F0EC5DEA31A2DCC6C2EF8 (void);
+extern void AndroidJNI_SetStaticShortField_m1D93C5C1855910E4325C6A0303F3CB449BA6F57E (void);
 // 0x00000082 System.Void UnityEngine.AndroidJNI::SetStaticIntField(System.IntPtr,System.IntPtr,System.Int32)
-extern void AndroidJNI_SetStaticIntField_m451F3621E6B294A92C7FE78B640562602E1FEBF6 (void);
+extern void AndroidJNI_SetStaticIntField_m4EBC369AE098567347522F13045E0E419F157846 (void);
 // 0x00000083 System.Void UnityEngine.AndroidJNI::SetStaticLongField(System.IntPtr,System.IntPtr,System.Int64)
-extern void AndroidJNI_SetStaticLongField_mC0216916DF96F79D2B9352A407E6A9BD7D7AD40A (void);
+extern void AndroidJNI_SetStaticLongField_m7D1CB72059F8E08C69C7140BE833A18E1785B556 (void);
 // 0x00000084 System.Void UnityEngine.AndroidJNI::SetStaticFloatField(System.IntPtr,System.IntPtr,System.Single)
-extern void AndroidJNI_SetStaticFloatField_m11B4CC3F8B8C389FB7060058E0B1A3821FB65CA6 (void);
+extern void AndroidJNI_SetStaticFloatField_m4DF45682CBEF0BBE142C42DB5357FBB1E4DCFC96 (void);
 // 0x00000085 System.Void UnityEngine.AndroidJNI::SetStaticDoubleField(System.IntPtr,System.IntPtr,System.Double)
-extern void AndroidJNI_SetStaticDoubleField_m795EBCC9C07F83E7846B6A93D402C27E1C07B634 (void);
+extern void AndroidJNI_SetStaticDoubleField_m0A173744EC30E7E66788B7D49016469EDE175B94 (void);
 // 0x00000086 System.IntPtr UnityEngine.AndroidJNI::ToBooleanArray(System.Boolean[])
-extern void AndroidJNI_ToBooleanArray_m105D3745D21CE3B0780C3861BB455A9E29B0B9F6 (void);
+extern void AndroidJNI_ToBooleanArray_m0F6247E9CD971CFC3195DF56228139AD6944C454 (void);
 // 0x00000087 System.IntPtr UnityEngine.AndroidJNI::ToByteArray(System.Byte[])
-extern void AndroidJNI_ToByteArray_m099C6F143979F050C4A6AECF70854153CE8B58CC (void);
+extern void AndroidJNI_ToByteArray_m1D13415CE31007C396246CFD721D7CC0B6BE3D89 (void);
 // 0x00000088 System.IntPtr UnityEngine.AndroidJNI::ToSByteArray(System.SByte[])
-extern void AndroidJNI_ToSByteArray_m91EBEA7CBDBCCDF759D77AB5BD1AE8BF00030B5F (void);
+extern void AndroidJNI_ToSByteArray_m3733221CDDCBE6F6E16CFD52194998F49F5739B2 (void);
 // 0x00000089 System.IntPtr UnityEngine.AndroidJNI::ToCharArray(System.Char[])
-extern void AndroidJNI_ToCharArray_mC48F010177FFBC2F0CCAAE1B675B6C4882EBA257 (void);
+extern void AndroidJNI_ToCharArray_m7A762D085ECCE53C849F82DE1F7D31D0FC0ECCE6 (void);
 // 0x0000008A System.IntPtr UnityEngine.AndroidJNI::ToShortArray(System.Int16[])
-extern void AndroidJNI_ToShortArray_m37FFD5AD4C5CC07127F2E64598FCD5A0924B246F (void);
+extern void AndroidJNI_ToShortArray_mE291B1FC62FC5C4C97A1BEDBF79CFE087873E44B (void);
 // 0x0000008B System.IntPtr UnityEngine.AndroidJNI::ToIntArray(System.Int32[])
-extern void AndroidJNI_ToIntArray_mB2B766977213FA271EE9044B5B781112CA274317 (void);
+extern void AndroidJNI_ToIntArray_m746B3A15E782ED454B6EB8574C887FE7E5B0E1C3 (void);
 // 0x0000008C System.IntPtr UnityEngine.AndroidJNI::ToLongArray(System.Int64[])
-extern void AndroidJNI_ToLongArray_m784C3156DDD9D0D74E21F394CDFEB3C87538355F (void);
+extern void AndroidJNI_ToLongArray_m6C231C8FE5E31C148C644FD4EEEEE7A824EFA5E5 (void);
 // 0x0000008D System.IntPtr UnityEngine.AndroidJNI::ToFloatArray(System.Single[])
-extern void AndroidJNI_ToFloatArray_m197E51BD1D14272F35DA0FF57B9C158E3DC5DA8D (void);
+extern void AndroidJNI_ToFloatArray_mB0C6CEEFAD5F590F6E7DD8D6C039F724012B6DA9 (void);
 // 0x0000008E System.IntPtr UnityEngine.AndroidJNI::ToDoubleArray(System.Double[])
-extern void AndroidJNI_ToDoubleArray_m00242343670C4CC0103A07CB766D80F53E36130D (void);
+extern void AndroidJNI_ToDoubleArray_m222C645E8DDA4E4ED85528396DB67012B0BC25F8 (void);
 // 0x0000008F System.IntPtr UnityEngine.AndroidJNI::ToObjectArray(System.IntPtr[],System.IntPtr)
-extern void AndroidJNI_ToObjectArray_m1C7B8259B04AC6D68F56BF5F108026882B039F24 (void);
+extern void AndroidJNI_ToObjectArray_mABBA3396E1FAB07B18841109375EA9FE6EC7D638 (void);
 // 0x00000090 System.IntPtr UnityEngine.AndroidJNI::ToObjectArray(System.IntPtr[])
-extern void AndroidJNI_ToObjectArray_m0DEED7D031FBACF3538904D9921372226D12AD8B (void);
+extern void AndroidJNI_ToObjectArray_m7F7CF6065077A60537B8E6B082877AD8D06009C6 (void);
 // 0x00000091 System.Boolean[] UnityEngine.AndroidJNI::FromBooleanArray(System.IntPtr)
-extern void AndroidJNI_FromBooleanArray_m082FF870EE916B9603686E35776D5369B95D207E (void);
+extern void AndroidJNI_FromBooleanArray_m720A735A65351612CAE3B2A945CDB0D5F28410D0 (void);
 // 0x00000092 System.Byte[] UnityEngine.AndroidJNI::FromByteArray(System.IntPtr)
-extern void AndroidJNI_FromByteArray_m8EC58D6AE31ADD634490F84A4F4E36831DB2EC87 (void);
+extern void AndroidJNI_FromByteArray_mF9E0A8B97ADE25C3DDC59AB6CECF597AB346AAB2 (void);
 // 0x00000093 System.SByte[] UnityEngine.AndroidJNI::FromSByteArray(System.IntPtr)
-extern void AndroidJNI_FromSByteArray_m5372FB70B8027721C47BE0359F538A90128288CD (void);
+extern void AndroidJNI_FromSByteArray_mA20709B6C87AF63CBD8DDD4D2DDD57E299A52B3E (void);
 // 0x00000094 System.Char[] UnityEngine.AndroidJNI::FromCharArray(System.IntPtr)
-extern void AndroidJNI_FromCharArray_mCDE27061131471E18F064241982F7C58921B4BCE (void);
+extern void AndroidJNI_FromCharArray_m856090D7B9D19A40FFE562BA46F4DAF43D43D883 (void);
 // 0x00000095 System.Int16[] UnityEngine.AndroidJNI::FromShortArray(System.IntPtr)
-extern void AndroidJNI_FromShortArray_mAD7FEF4EEAEC6A3DEF148C02EF4E00002A70542E (void);
+extern void AndroidJNI_FromShortArray_m2730004110D2EEB54E1476957F268792DE68F2F6 (void);
 // 0x00000096 System.Int32[] UnityEngine.AndroidJNI::FromIntArray(System.IntPtr)
-extern void AndroidJNI_FromIntArray_mA60A708BA57B6F520260D4DC6B10E07C54E29C1F (void);
+extern void AndroidJNI_FromIntArray_m774925C30510F5504BEA17EA9B863E97955D6EAA (void);
 // 0x00000097 System.Int64[] UnityEngine.AndroidJNI::FromLongArray(System.IntPtr)
-extern void AndroidJNI_FromLongArray_m62518A89509FAD6404628618EA05A63911DB0941 (void);
+extern void AndroidJNI_FromLongArray_m7112B7F6C234E7CD36DEC86064790C59B8DE0C6F (void);
 // 0x00000098 System.Single[] UnityEngine.AndroidJNI::FromFloatArray(System.IntPtr)
-extern void AndroidJNI_FromFloatArray_m01E10AC1773DE0878B8875994E74B205E42EE2E4 (void);
+extern void AndroidJNI_FromFloatArray_mCD844F6AC98D81C0089CE1332D5E660EAC8A45F5 (void);
 // 0x00000099 System.Double[] UnityEngine.AndroidJNI::FromDoubleArray(System.IntPtr)
-extern void AndroidJNI_FromDoubleArray_mB8DA303F2DC6FB96E45D6C2DEC2B1C7AF9A7D9BE (void);
+extern void AndroidJNI_FromDoubleArray_m4214A1F5FE02F602A573257C7D8933F0AC851712 (void);
 // 0x0000009A System.IntPtr[] UnityEngine.AndroidJNI::FromObjectArray(System.IntPtr)
-extern void AndroidJNI_FromObjectArray_m155A9CB96BB1E9605C00F0F7FD2B798794D805BC (void);
+extern void AndroidJNI_FromObjectArray_mF9799243ED88465FFBC945CC590A1016BACBAB6C (void);
 // 0x0000009B System.Int32 UnityEngine.AndroidJNI::GetArrayLength(System.IntPtr)
-extern void AndroidJNI_GetArrayLength_m48A34992E6BF0EF5510037EA38EB2D348634C9DE (void);
+extern void AndroidJNI_GetArrayLength_m4FF062F3EA299E730221E1F704C0EF5754289628 (void);
 // 0x0000009C System.IntPtr UnityEngine.AndroidJNI::NewBooleanArray(System.Int32)
-extern void AndroidJNI_NewBooleanArray_m288913FC9091FC441A40E01CCDDB95B25AC523FA (void);
+extern void AndroidJNI_NewBooleanArray_m3EEE42B2D06EA2E2BB83FF61CA6D91FC45BA66A4 (void);
 // 0x0000009D System.IntPtr UnityEngine.AndroidJNI::NewByteArray(System.Int32)
-extern void AndroidJNI_NewByteArray_mF1A7DAE382AAD63B006B83F95B5E307003E6B048 (void);
+extern void AndroidJNI_NewByteArray_m672FC4C62B9A0FE207B9803CD0C1FEE7AD9C50AE (void);
 // 0x0000009E System.IntPtr UnityEngine.AndroidJNI::NewSByteArray(System.Int32)
-extern void AndroidJNI_NewSByteArray_m0DD8F2C3047DB1FF939DEE1A589F0607B15486AC (void);
+extern void AndroidJNI_NewSByteArray_mCDCAD69117FB709F5BA846B1D4F32BB8C62286C0 (void);
 // 0x0000009F System.IntPtr UnityEngine.AndroidJNI::NewCharArray(System.Int32)
-extern void AndroidJNI_NewCharArray_mEF4480F9A43AD9A53007A35B444B144B84CB05EA (void);
+extern void AndroidJNI_NewCharArray_mCB0F2E31E7E4B5F9A1F5645AD81CC5D684C7CC86 (void);
 // 0x000000A0 System.IntPtr UnityEngine.AndroidJNI::NewShortArray(System.Int32)
-extern void AndroidJNI_NewShortArray_m3869C59165D2950D47EBE844560BB4B084F76FA5 (void);
+extern void AndroidJNI_NewShortArray_mA62CBF85A8C18B08ACB48994A45CEF25EAFDCCD2 (void);
 // 0x000000A1 System.IntPtr UnityEngine.AndroidJNI::NewIntArray(System.Int32)
-extern void AndroidJNI_NewIntArray_mC6D3180B723E581E9F798137D85F31EB2CCD6D45 (void);
+extern void AndroidJNI_NewIntArray_mFB2F9D2999B033964F0EBC729427A850990E4DCD (void);
 // 0x000000A2 System.IntPtr UnityEngine.AndroidJNI::NewLongArray(System.Int32)
-extern void AndroidJNI_NewLongArray_mE561C4FB9BCCC7ADF906BD12CA00E6E9F2630D97 (void);
+extern void AndroidJNI_NewLongArray_mD93687120B3995283240FC90D3B1EC000C30BC4A (void);
 // 0x000000A3 System.IntPtr UnityEngine.AndroidJNI::NewFloatArray(System.Int32)
-extern void AndroidJNI_NewFloatArray_m3692A4761F6C31FE75E75D971EFA4A874B1B17FF (void);
+extern void AndroidJNI_NewFloatArray_m9BF2DC6A5AC363C21FF7DD4F5CE3CBDB9434370A (void);
 // 0x000000A4 System.IntPtr UnityEngine.AndroidJNI::NewDoubleArray(System.Int32)
-extern void AndroidJNI_NewDoubleArray_m3A893E448054D9BF227B707DAD3DE0CBE70D22A9 (void);
+extern void AndroidJNI_NewDoubleArray_m000781D638E736BDC2D6E440A1A31D85DE29148F (void);
 // 0x000000A5 System.IntPtr UnityEngine.AndroidJNI::NewObjectArray(System.Int32,System.IntPtr,System.IntPtr)
-extern void AndroidJNI_NewObjectArray_m40592BC65B199B1AAE32F2682D8E9236E07929EE (void);
+extern void AndroidJNI_NewObjectArray_m0DB0214451F4A4D19F04652627B2F47026E63BCA (void);
 // 0x000000A6 System.Boolean UnityEngine.AndroidJNI::GetBooleanArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetBooleanArrayElement_m698A286EFC3A694BC412C2482E806E2C9D3E0C81 (void);
+extern void AndroidJNI_GetBooleanArrayElement_m3E51FAA68D3352ACA5911CE0E2032E5FF1DA57F6 (void);
 // 0x000000A7 System.Byte UnityEngine.AndroidJNI::GetByteArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetByteArrayElement_mFACF46553B435156C3847FBEDEBE4B41310403B4 (void);
+extern void AndroidJNI_GetByteArrayElement_mE29893FA1EB00299D8AF4B495B2B192FD58D46DB (void);
 // 0x000000A8 System.SByte UnityEngine.AndroidJNI::GetSByteArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetSByteArrayElement_mB9F127D877A6DA5AAD84F899D5F77B82B8D93CFF (void);
+extern void AndroidJNI_GetSByteArrayElement_m3CDF3A7E65954B99C7C4843E50C026AD6E275950 (void);
 // 0x000000A9 System.Char UnityEngine.AndroidJNI::GetCharArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetCharArrayElement_mC4BF5565AAE43E2DC99F0B21AFD909F687A10ED5 (void);
+extern void AndroidJNI_GetCharArrayElement_mED8D5721ACDE21AD1790FD15A91197A6F1F90A08 (void);
 // 0x000000AA System.Int16 UnityEngine.AndroidJNI::GetShortArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetShortArrayElement_m97198A97EEBB73AF2255C2416633D9799837C6EA (void);
+extern void AndroidJNI_GetShortArrayElement_m5079ED9866E6A1754042CEA454207C1FCEFA7C0B (void);
 // 0x000000AB System.Int32 UnityEngine.AndroidJNI::GetIntArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetIntArrayElement_m864DFCF1978E21DCE1C3C1CDA14FACD7C5B2659D (void);
+extern void AndroidJNI_GetIntArrayElement_mB5952072ED8300A93B8780697ABCC075F4204233 (void);
 // 0x000000AC System.Int64 UnityEngine.AndroidJNI::GetLongArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetLongArrayElement_mFF25076CBF6921F65D9E12D7BE3908449B152919 (void);
+extern void AndroidJNI_GetLongArrayElement_mB8AD82005A3DA5E7DA3A486A194FC31D7430C879 (void);
 // 0x000000AD System.Single UnityEngine.AndroidJNI::GetFloatArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetFloatArrayElement_m2217AA906251687E85E03A4E9DD02F90166F91F4 (void);
+extern void AndroidJNI_GetFloatArrayElement_m83D21486623E436E454E2947D8A002E1644C12C8 (void);
 // 0x000000AE System.Double UnityEngine.AndroidJNI::GetDoubleArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetDoubleArrayElement_m470B213238906EADA40F02225E01085EA60A5C1D (void);
+extern void AndroidJNI_GetDoubleArrayElement_m1B3CC7B6E35842FC3F3D56D11770915F18F0B6FE (void);
 // 0x000000AF System.IntPtr UnityEngine.AndroidJNI::GetObjectArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNI_GetObjectArrayElement_m502026BF77232EE45D03661E4923C2E5E99FDE18 (void);
+extern void AndroidJNI_GetObjectArrayElement_m9D4E78BE1E314141634A26ACB948719708054727 (void);
 // 0x000000B0 System.Void UnityEngine.AndroidJNI::SetBooleanArrayElement(System.IntPtr,System.Int32,System.Byte)
-extern void AndroidJNI_SetBooleanArrayElement_m2396E54505477FDF194DF7F1169E4B7C4B1B2D2D (void);
+extern void AndroidJNI_SetBooleanArrayElement_m4E69F5646DC1664E2E10A97F8CD7C0C8A12D5B00 (void);
 // 0x000000B1 System.Void UnityEngine.AndroidJNI::SetBooleanArrayElement(System.IntPtr,System.Int32,System.Boolean)
-extern void AndroidJNI_SetBooleanArrayElement_m1BA9401BADF300A1E3590AD81F62A754DCCA8646 (void);
+extern void AndroidJNI_SetBooleanArrayElement_mA2D81F8F7D268354E7D801FF8F0D7E4D49ED34B0 (void);
 // 0x000000B2 System.Void UnityEngine.AndroidJNI::SetByteArrayElement(System.IntPtr,System.Int32,System.SByte)
-extern void AndroidJNI_SetByteArrayElement_mA823EA2446BD26D31A9F41B329D47555C3ABD4A9 (void);
+extern void AndroidJNI_SetByteArrayElement_mC43F35089DE3344FDA6B98C42B627EDF8E78FA72 (void);
 // 0x000000B3 System.Void UnityEngine.AndroidJNI::SetSByteArrayElement(System.IntPtr,System.Int32,System.SByte)
-extern void AndroidJNI_SetSByteArrayElement_m1C1ED4D9FC7CAF82F30B367AD6E16458A45C401D (void);
+extern void AndroidJNI_SetSByteArrayElement_mE278CF45D35DAD1652B24947F0ECB5FDAD9085E9 (void);
 // 0x000000B4 System.Void UnityEngine.AndroidJNI::SetCharArrayElement(System.IntPtr,System.Int32,System.Char)
-extern void AndroidJNI_SetCharArrayElement_mB048BA66E395BF0C097DE775A70013E153B3B4E4 (void);
+extern void AndroidJNI_SetCharArrayElement_m07CB14646AF9354E06FCC5B9788F3D9DB8170698 (void);
 // 0x000000B5 System.Void UnityEngine.AndroidJNI::SetShortArrayElement(System.IntPtr,System.Int32,System.Int16)
-extern void AndroidJNI_SetShortArrayElement_m0CCF2F84EE7F3A7820E77306B82B07B70C014575 (void);
+extern void AndroidJNI_SetShortArrayElement_m88874061CF3F49D18A03A4C1BBA4B9C4A9E0D490 (void);
 // 0x000000B6 System.Void UnityEngine.AndroidJNI::SetIntArrayElement(System.IntPtr,System.Int32,System.Int32)
-extern void AndroidJNI_SetIntArrayElement_mA7C939CE03F3984533CC1617F0B8F241290DD91F (void);
+extern void AndroidJNI_SetIntArrayElement_mBEA799839B9FB3F618EB011A0BB8EC821E7ED9D0 (void);
 // 0x000000B7 System.Void UnityEngine.AndroidJNI::SetLongArrayElement(System.IntPtr,System.Int32,System.Int64)
-extern void AndroidJNI_SetLongArrayElement_m15EFF4DBF7679B4C6BD9E51D104BEEEC856A75A5 (void);
+extern void AndroidJNI_SetLongArrayElement_m8F8017844496B62EEEB7EA4B21B09C6B49D472A5 (void);
 // 0x000000B8 System.Void UnityEngine.AndroidJNI::SetFloatArrayElement(System.IntPtr,System.Int32,System.Single)
-extern void AndroidJNI_SetFloatArrayElement_mAA6F77E2510042BE652DC58626D4E49B00B71638 (void);
+extern void AndroidJNI_SetFloatArrayElement_m6B53916489A13CC3CF9F90F9542BD80E040325E0 (void);
 // 0x000000B9 System.Void UnityEngine.AndroidJNI::SetDoubleArrayElement(System.IntPtr,System.Int32,System.Double)
-extern void AndroidJNI_SetDoubleArrayElement_mBB1EFA8814F34FF3E7514E41F16F3A491B3B27E7 (void);
+extern void AndroidJNI_SetDoubleArrayElement_mCC9DFD37707F271CA997C20AD66694DC20D748C1 (void);
 // 0x000000BA System.Void UnityEngine.AndroidJNI::SetObjectArrayElement(System.IntPtr,System.Int32,System.IntPtr)
-extern void AndroidJNI_SetObjectArrayElement_m1C6E498550EF9FCA24DBD3E6D4F2BF6764FB315D (void);
+extern void AndroidJNI_SetObjectArrayElement_mDD16A48E1DA055EE8ACD4065552B2D5EA9CAA0E0 (void);
 // 0x000000BB System.Void UnityEngine.AndroidJNISafe::CheckException()
-extern void AndroidJNISafe_CheckException_m3F9EF56511586B0A605D2706DB0E0D225D14C249 (void);
+extern void AndroidJNISafe_CheckException_mB129CD38BBE25FCA12F4566ED2DDC0216D7201D9 (void);
 // 0x000000BC System.Void UnityEngine.AndroidJNISafe::DeleteGlobalRef(System.IntPtr)
-extern void AndroidJNISafe_DeleteGlobalRef_m7651FA0BAEE0F4D660393C5CC6914F21270B0288 (void);
+extern void AndroidJNISafe_DeleteGlobalRef_m3F1A798E9B36CFADA2B4D9642AB518D97FB9A975 (void);
 // 0x000000BD System.Void UnityEngine.AndroidJNISafe::DeleteWeakGlobalRef(System.IntPtr)
-extern void AndroidJNISafe_DeleteWeakGlobalRef_m0FC9348DE2D937798DB6D6A5461021AFEBC7506D (void);
+extern void AndroidJNISafe_DeleteWeakGlobalRef_m680EB63DEF7D2B378CD76EC14270F436D7E9CCA6 (void);
 // 0x000000BE System.Void UnityEngine.AndroidJNISafe::DeleteLocalRef(System.IntPtr)
-extern void AndroidJNISafe_DeleteLocalRef_m7AB242A76D13A3BF4C04831D77960C020D6ADA39 (void);
+extern void AndroidJNISafe_DeleteLocalRef_mA01249A781F9364DFEA78DE907B9CDA1A174E8AE (void);
 // 0x000000BF System.IntPtr UnityEngine.AndroidJNISafe::NewString(System.String)
-extern void AndroidJNISafe_NewString_m5F5B2B700BDE2D0D1D105687D4ACC9567CEE7A23 (void);
+extern void AndroidJNISafe_NewString_mB3309A8C075C006A7C1E0EC91C69374EA6AE5356 (void);
 // 0x000000C0 System.String UnityEngine.AndroidJNISafe::GetStringChars(System.IntPtr)
-extern void AndroidJNISafe_GetStringChars_mD59FFDE4192F837E1380B51569B5803E09BE58C8 (void);
+extern void AndroidJNISafe_GetStringChars_m9BF01A532EDDB97D55A552AD493FCA0F556669E8 (void);
 // 0x000000C1 System.IntPtr UnityEngine.AndroidJNISafe::GetObjectClass(System.IntPtr)
-extern void AndroidJNISafe_GetObjectClass_m6FD726927BEAAA70778766E29215A6CA63A93DC3 (void);
+extern void AndroidJNISafe_GetObjectClass_m51FDFF60A2A56B970BE41A28D7CBF53D9BA6FC24 (void);
 // 0x000000C2 System.IntPtr UnityEngine.AndroidJNISafe::GetStaticMethodID(System.IntPtr,System.String,System.String)
-extern void AndroidJNISafe_GetStaticMethodID_m883F40A297071B64F8DE3572FDBB8B9834EF1163 (void);
+extern void AndroidJNISafe_GetStaticMethodID_m9A12CADA3B27CFC904F060CA20D52EF5ED789CCE (void);
 // 0x000000C3 System.IntPtr UnityEngine.AndroidJNISafe::GetMethodID(System.IntPtr,System.String,System.String)
-extern void AndroidJNISafe_GetMethodID_mB6545767927E1F859540D99EBD39E464811E5F8F (void);
+extern void AndroidJNISafe_GetMethodID_m8F93B005622C963DBB76F72E9A308D2B63EF1CAC (void);
 // 0x000000C4 System.IntPtr UnityEngine.AndroidJNISafe::GetFieldID(System.IntPtr,System.String,System.String)
-extern void AndroidJNISafe_GetFieldID_m964429E31A5E6BDA924A8917155C4D3705B9B345 (void);
+extern void AndroidJNISafe_GetFieldID_m9236F3315104F566CD96C3FC88804357D04F3D22 (void);
 // 0x000000C5 System.IntPtr UnityEngine.AndroidJNISafe::GetStaticFieldID(System.IntPtr,System.String,System.String)
-extern void AndroidJNISafe_GetStaticFieldID_mDAB49A2099123C513F789814BC9441BC220F9D66 (void);
+extern void AndroidJNISafe_GetStaticFieldID_m1069199092B17A90933B51436F4F1EEE07FADF5E (void);
 // 0x000000C6 System.IntPtr UnityEngine.AndroidJNISafe::FromReflectedMethod(System.IntPtr)
-extern void AndroidJNISafe_FromReflectedMethod_m21A25975498B872199E7B9708AF0AD6E1248E3A7 (void);
+extern void AndroidJNISafe_FromReflectedMethod_mA8CBBABDB2EBF0E44052B4E622AB175F79DFF02A (void);
 // 0x000000C7 System.IntPtr UnityEngine.AndroidJNISafe::FindClass(System.String)
-extern void AndroidJNISafe_FindClass_mD96E72414A78F50B07019D26B87A93799D85BB0A (void);
+extern void AndroidJNISafe_FindClass_m6A098856373606201AE9A3FB503865D788AE6906 (void);
 // 0x000000C8 System.IntPtr UnityEngine.AndroidJNISafe::NewObject(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_NewObject_m8B3CE344FE9144B92096F0A36CF75DA56C380BF7 (void);
+extern void AndroidJNISafe_NewObject_mA904997739C2D552EB2E63ED33D2555BB399A3FB (void);
 // 0x000000C9 System.Void UnityEngine.AndroidJNISafe::SetStaticObjectField(System.IntPtr,System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_SetStaticObjectField_m5938A3A9EC23DAEB2B95D5A0E6992B135F3049C0 (void);
+extern void AndroidJNISafe_SetStaticObjectField_m8FFE78AB38419540607BEEE047D99AF9C359EA37 (void);
 // 0x000000CA System.Void UnityEngine.AndroidJNISafe::SetStaticStringField(System.IntPtr,System.IntPtr,System.String)
-extern void AndroidJNISafe_SetStaticStringField_m68211F8AE7199583B906254A0AFCCF3FFCA505DD (void);
+extern void AndroidJNISafe_SetStaticStringField_mA9D55DC197672C5313ADADBDE191E6A0306666F6 (void);
 // 0x000000CB System.Void UnityEngine.AndroidJNISafe::SetStaticCharField(System.IntPtr,System.IntPtr,System.Char)
-extern void AndroidJNISafe_SetStaticCharField_m6140744247C135F241F084636BABF259CD4C4B88 (void);
+extern void AndroidJNISafe_SetStaticCharField_m18330C213AEE66B8BCEA612F5FDD3BE790160204 (void);
 // 0x000000CC System.Void UnityEngine.AndroidJNISafe::SetStaticDoubleField(System.IntPtr,System.IntPtr,System.Double)
-extern void AndroidJNISafe_SetStaticDoubleField_m014570DE677A8903D99BDB58DA34937ABBE1CE3C (void);
+extern void AndroidJNISafe_SetStaticDoubleField_m86A31B9564A67E4C0F58E8EC8C230F6546EFE2C9 (void);
 // 0x000000CD System.Void UnityEngine.AndroidJNISafe::SetStaticFloatField(System.IntPtr,System.IntPtr,System.Single)
-extern void AndroidJNISafe_SetStaticFloatField_m8B35F134FD9F75B9900F81E0610D4E1A3A70866B (void);
+extern void AndroidJNISafe_SetStaticFloatField_mE978F5D7EBBCF8C55E2AE5F9BE48BB5E882AB30A (void);
 // 0x000000CE System.Void UnityEngine.AndroidJNISafe::SetStaticLongField(System.IntPtr,System.IntPtr,System.Int64)
-extern void AndroidJNISafe_SetStaticLongField_mA092D3B6F8B5B161CC13BADE218DF3285FD2BCAC (void);
+extern void AndroidJNISafe_SetStaticLongField_mDB641FC92EF909F23D7DFF7D394923C68DED65D1 (void);
 // 0x000000CF System.Void UnityEngine.AndroidJNISafe::SetStaticShortField(System.IntPtr,System.IntPtr,System.Int16)
-extern void AndroidJNISafe_SetStaticShortField_m1F90C02B48C5351718EE274FDB4551B69D10845A (void);
+extern void AndroidJNISafe_SetStaticShortField_m76C9352B7035BAA31DCAE6EA7F4F0CA72C6300F1 (void);
 // 0x000000D0 System.Void UnityEngine.AndroidJNISafe::SetStaticSByteField(System.IntPtr,System.IntPtr,System.SByte)
-extern void AndroidJNISafe_SetStaticSByteField_m8D6553A2869EEFC09BA10E907FB65605C0EB3854 (void);
+extern void AndroidJNISafe_SetStaticSByteField_mBD64B7587AC84F05DED4072D8E9FF96E1D89EF5C (void);
 // 0x000000D1 System.Void UnityEngine.AndroidJNISafe::SetStaticBooleanField(System.IntPtr,System.IntPtr,System.Boolean)
-extern void AndroidJNISafe_SetStaticBooleanField_mEDC856B661301A176B45185A66B95C6CC76401F4 (void);
+extern void AndroidJNISafe_SetStaticBooleanField_m9E13187D1C48F0077BC8445B5664665B8BC771CA (void);
 // 0x000000D2 System.Void UnityEngine.AndroidJNISafe::SetStaticIntField(System.IntPtr,System.IntPtr,System.Int32)
-extern void AndroidJNISafe_SetStaticIntField_m5205AC5C40883B55275112F9CFAB9EB734F2392C (void);
+extern void AndroidJNISafe_SetStaticIntField_m49FD103762D5BDAABB57C984E3C2D9D64C5F602C (void);
 // 0x000000D3 System.IntPtr UnityEngine.AndroidJNISafe::GetStaticObjectField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticObjectField_m615DFE457A25AD2FB394BDF6F3DD55850AF009FD (void);
+extern void AndroidJNISafe_GetStaticObjectField_m1E160752B81117A3011BA08491C76D605C928A3A (void);
 // 0x000000D4 System.String UnityEngine.AndroidJNISafe::GetStaticStringField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticStringField_m064C1A3DEA07C1612D33AA338908A7D24751072A (void);
+extern void AndroidJNISafe_GetStaticStringField_m797C4BF9E360C59AEA19CEB7D968B4F890AFCB92 (void);
 // 0x000000D5 System.Char UnityEngine.AndroidJNISafe::GetStaticCharField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticCharField_mF6A3901A482E2EEC61B45AB8BE09BA165DCB3E92 (void);
+extern void AndroidJNISafe_GetStaticCharField_m4FF6966837A76028C6DEF9F9627596BF15AF853D (void);
 // 0x000000D6 System.Double UnityEngine.AndroidJNISafe::GetStaticDoubleField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticDoubleField_mD1EA08A4F28B0BB02D661F46C3956E56CD24D366 (void);
+extern void AndroidJNISafe_GetStaticDoubleField_mD3FC8D3BF793D3EEF5E09C323EFD1AA9940713BE (void);
 // 0x000000D7 System.Single UnityEngine.AndroidJNISafe::GetStaticFloatField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticFloatField_m585BFE09FF627D8BB2F7C5275D899F4DB1A5B9F3 (void);
+extern void AndroidJNISafe_GetStaticFloatField_m9A0B6D8422348C435BF0B162BBA3BF2398C367E7 (void);
 // 0x000000D8 System.Int64 UnityEngine.AndroidJNISafe::GetStaticLongField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticLongField_mE4CC316A81EC6F5298C5418DA5B23F2C1DBCCC7F (void);
+extern void AndroidJNISafe_GetStaticLongField_mE21F6072A6C667F03099C76251D3AD55F7290B3C (void);
 // 0x000000D9 System.Int16 UnityEngine.AndroidJNISafe::GetStaticShortField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticShortField_m2269F01B6B358EEE10FE687CB88B703E36FAF256 (void);
+extern void AndroidJNISafe_GetStaticShortField_m27844C1495DC221421632E69F435BE06FA358AE8 (void);
 // 0x000000DA System.SByte UnityEngine.AndroidJNISafe::GetStaticSByteField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticSByteField_mAAA8D590F4FBC97301674A7D7E0D9345399AF744 (void);
+extern void AndroidJNISafe_GetStaticSByteField_mEFF4FF349D74554A04B46AAD9BAD2FC38D127FA8 (void);
 // 0x000000DB System.Boolean UnityEngine.AndroidJNISafe::GetStaticBooleanField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticBooleanField_mC7BEB084630E9EB8CBB14C89D93E213473CF3723 (void);
+extern void AndroidJNISafe_GetStaticBooleanField_m4BE0DB50C689A33BD2155CA3E374F8DCDA1D3175 (void);
 // 0x000000DC System.Int32 UnityEngine.AndroidJNISafe::GetStaticIntField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStaticIntField_m92B115F5D5A9F64F577F3C3A4725CB72A0AB036A (void);
+extern void AndroidJNISafe_GetStaticIntField_m72F81AA991CA4BD8FAD87B3EE2A6531A1B049424 (void);
 // 0x000000DD System.Void UnityEngine.AndroidJNISafe::CallStaticVoidMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticVoidMethod_m6D6C21C3489E19241A6856D7642CDC56752D7128 (void);
+extern void AndroidJNISafe_CallStaticVoidMethod_m82D3FEEC204FB4AC380A38D21F3CBA1C39C96641 (void);
 // 0x000000DE System.IntPtr UnityEngine.AndroidJNISafe::CallStaticObjectMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticObjectMethod_mE83D4A0C1BF62925F8B9D4B49040A90CBA1B8860 (void);
+extern void AndroidJNISafe_CallStaticObjectMethod_m4D0D7694AF57731B895D3EE6624EEE24B90264B2 (void);
 // 0x000000DF System.String UnityEngine.AndroidJNISafe::CallStaticStringMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticStringMethod_m07A63C912305DF8135F004AAD0D4CB1C5581B759 (void);
+extern void AndroidJNISafe_CallStaticStringMethod_mAA0A83FC01520241CE71A63608D0930FD2CCC49B (void);
 // 0x000000E0 System.Char UnityEngine.AndroidJNISafe::CallStaticCharMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticCharMethod_m88B2D927CACB988E16F44DD2A8AC987474401B5F (void);
+extern void AndroidJNISafe_CallStaticCharMethod_mA7DABFA2640148CE4D78623C74BD07ADBB798E09 (void);
 // 0x000000E1 System.Double UnityEngine.AndroidJNISafe::CallStaticDoubleMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticDoubleMethod_m689EC57B2A63DA127AEF67654FC9DE7CB1663475 (void);
+extern void AndroidJNISafe_CallStaticDoubleMethod_m91329AD3D9164B4805FF3129D226F5E176F544F9 (void);
 // 0x000000E2 System.Single UnityEngine.AndroidJNISafe::CallStaticFloatMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticFloatMethod_mD83AA80C049145FF339EEEF1D8EE4FF9A49DB75F (void);
+extern void AndroidJNISafe_CallStaticFloatMethod_mD2EE2202A22B2DE17B216401EC9806CBDF6A5023 (void);
 // 0x000000E3 System.Int64 UnityEngine.AndroidJNISafe::CallStaticLongMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticLongMethod_mC9068CBB054C422BBC4D20AE922D192C0F1207FA (void);
+extern void AndroidJNISafe_CallStaticLongMethod_mBEF3828B588E18CE4366429338D06A1D2C7D70E5 (void);
 // 0x000000E4 System.Int16 UnityEngine.AndroidJNISafe::CallStaticShortMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticShortMethod_mDD995D10C2A525A86D1CF2E3BD5470B9ADC75FAD (void);
+extern void AndroidJNISafe_CallStaticShortMethod_m9ECDEE47679B84EF709795E9FCA95BA0153E1D72 (void);
 // 0x000000E5 System.SByte UnityEngine.AndroidJNISafe::CallStaticSByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticSByteMethod_mF88F61AA2AB1756827141DA8933761D56335619B (void);
+extern void AndroidJNISafe_CallStaticSByteMethod_mF76AA217926E57302DB89470B5C089FFE0D667E6 (void);
 // 0x000000E6 System.Boolean UnityEngine.AndroidJNISafe::CallStaticBooleanMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticBooleanMethod_mD860E0894BD76E4F2D3EB07511162C5AB31098F3 (void);
+extern void AndroidJNISafe_CallStaticBooleanMethod_m6A4705BF643A65F96244E6CF6FE72AB583049A9E (void);
 // 0x000000E7 System.Int32 UnityEngine.AndroidJNISafe::CallStaticIntMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStaticIntMethod_mA8298D893A80C85FA91F7B49FB158EEAAFBD9E8B (void);
+extern void AndroidJNISafe_CallStaticIntMethod_mE3503898F47B13B069695EB68CA11C93D7B112EB (void);
 // 0x000000E8 System.Void UnityEngine.AndroidJNISafe::SetObjectField(System.IntPtr,System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_SetObjectField_m7A14D8635FA369DC469AB07A8551ABB1390BEA65 (void);
+extern void AndroidJNISafe_SetObjectField_mBD1B995DAF02018A0A544314BE0E0DA9A0F5171C (void);
 // 0x000000E9 System.Void UnityEngine.AndroidJNISafe::SetStringField(System.IntPtr,System.IntPtr,System.String)
-extern void AndroidJNISafe_SetStringField_m1D921E9B91AA27939969F5AADB785BB27AE2DFE1 (void);
+extern void AndroidJNISafe_SetStringField_m485D3FFD91A4BF2629900B1FB63CCC25BC4191CB (void);
 // 0x000000EA System.Void UnityEngine.AndroidJNISafe::SetCharField(System.IntPtr,System.IntPtr,System.Char)
-extern void AndroidJNISafe_SetCharField_mD8DFA656C127EBE3810BEF1DA0C422562BA44BE3 (void);
+extern void AndroidJNISafe_SetCharField_m6B7DF1E7EA39D7646FF22E9F63DD469C37F37554 (void);
 // 0x000000EB System.Void UnityEngine.AndroidJNISafe::SetDoubleField(System.IntPtr,System.IntPtr,System.Double)
-extern void AndroidJNISafe_SetDoubleField_m63F58A1A6DAF0157763A962DBB7FE21A1A891EA4 (void);
+extern void AndroidJNISafe_SetDoubleField_m2BDF48FE66AB33385A6BBFFF72680C4591A5E288 (void);
 // 0x000000EC System.Void UnityEngine.AndroidJNISafe::SetFloatField(System.IntPtr,System.IntPtr,System.Single)
-extern void AndroidJNISafe_SetFloatField_m338F61DB5996FF75790987DB6651F5ECFFB1CAE8 (void);
+extern void AndroidJNISafe_SetFloatField_m00A0FEA9D4E45BC31CAE6C19680E25EBF837B532 (void);
 // 0x000000ED System.Void UnityEngine.AndroidJNISafe::SetLongField(System.IntPtr,System.IntPtr,System.Int64)
-extern void AndroidJNISafe_SetLongField_m2D3B6DD5A09A0CE21AF74D681914CE30F5308986 (void);
+extern void AndroidJNISafe_SetLongField_m9971F7F5928B458074164C1DBBE2C6B422809179 (void);
 // 0x000000EE System.Void UnityEngine.AndroidJNISafe::SetShortField(System.IntPtr,System.IntPtr,System.Int16)
-extern void AndroidJNISafe_SetShortField_m0208B6F3C1F2D11F67D96013CEA2467D2FA2C524 (void);
+extern void AndroidJNISafe_SetShortField_mAC818C765BEA95F71BF943F64AA53D5832489636 (void);
 // 0x000000EF System.Void UnityEngine.AndroidJNISafe::SetSByteField(System.IntPtr,System.IntPtr,System.SByte)
-extern void AndroidJNISafe_SetSByteField_m104442F50E9EDCE2A82FAD351026715BAF4451EE (void);
+extern void AndroidJNISafe_SetSByteField_m5AC7C7E7D316D9E5785A0DA1C134BC1694D001F6 (void);
 // 0x000000F0 System.Void UnityEngine.AndroidJNISafe::SetBooleanField(System.IntPtr,System.IntPtr,System.Boolean)
-extern void AndroidJNISafe_SetBooleanField_mB5B3413BF7C5DE2AA0EDFE184636D5131A5C8625 (void);
+extern void AndroidJNISafe_SetBooleanField_mC9B41F7DD26C36CDBD9C644EE6036BD0979A1F7F (void);
 // 0x000000F1 System.Void UnityEngine.AndroidJNISafe::SetIntField(System.IntPtr,System.IntPtr,System.Int32)
-extern void AndroidJNISafe_SetIntField_m89BFF10436169519D325417BAF21B2FFBA370543 (void);
+extern void AndroidJNISafe_SetIntField_mF55C710759D8512C175ED69AB4BF736E570DB45A (void);
 // 0x000000F2 System.IntPtr UnityEngine.AndroidJNISafe::GetObjectField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetObjectField_m79CC9295C593F2C177B9F0089EA33AFA85078AAC (void);
+extern void AndroidJNISafe_GetObjectField_m91545B311AC4DAA8F38A937F0679277917FA7892 (void);
 // 0x000000F3 System.String UnityEngine.AndroidJNISafe::GetStringField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetStringField_m8B26A09A763D5456676A45C9E71F1F246FC3E1F8 (void);
+extern void AndroidJNISafe_GetStringField_mBC1716407F932E89B1110ECE547770480EEE07CA (void);
 // 0x000000F4 System.Char UnityEngine.AndroidJNISafe::GetCharField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetCharField_mD2D8E5CD82A247059483E123F21EB5A6E0609847 (void);
+extern void AndroidJNISafe_GetCharField_m007EC43BEB159100767F6485C768824DC9EF90B2 (void);
 // 0x000000F5 System.Double UnityEngine.AndroidJNISafe::GetDoubleField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetDoubleField_m3234939B331872123584A3E269591F66163B262D (void);
+extern void AndroidJNISafe_GetDoubleField_mEDE5E15ACDDA40E0F673D88BE62784F5A0A06957 (void);
 // 0x000000F6 System.Single UnityEngine.AndroidJNISafe::GetFloatField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetFloatField_mCBB67A610BEF6A2A5F9CF95C2742909223BF4916 (void);
+extern void AndroidJNISafe_GetFloatField_m9637EF8B8E964B7F7CF9C23871EDE411A3362746 (void);
 // 0x000000F7 System.Int64 UnityEngine.AndroidJNISafe::GetLongField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetLongField_m63DAB3972DC308BA93D8B5ED004BE953F92FBB2E (void);
+extern void AndroidJNISafe_GetLongField_mCBB0B800D627FF2A3EBDFB0117B6A5AB1890BC70 (void);
 // 0x000000F8 System.Int16 UnityEngine.AndroidJNISafe::GetShortField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetShortField_m3C1E30E3B9925351B5A9AB76506AD181F7D18574 (void);
+extern void AndroidJNISafe_GetShortField_mF275D46B8DA641949E39B250C338F147F8BFB701 (void);
 // 0x000000F9 System.SByte UnityEngine.AndroidJNISafe::GetSByteField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetSByteField_m14164367920831F6BFF08FFA40B35EDE5683B940 (void);
+extern void AndroidJNISafe_GetSByteField_mB5DD4AA1B8986BD295A8EA4E638E456BCCFAE566 (void);
 // 0x000000FA System.Boolean UnityEngine.AndroidJNISafe::GetBooleanField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetBooleanField_m4437FA6D516AA5992470EA1411F8313880547556 (void);
+extern void AndroidJNISafe_GetBooleanField_m32AF9A0F0538463F3475B3DF86CAA20482C97EFA (void);
 // 0x000000FB System.Int32 UnityEngine.AndroidJNISafe::GetIntField(System.IntPtr,System.IntPtr)
-extern void AndroidJNISafe_GetIntField_m01C6A33228FB20906508F9AEA78BA69A4C411F9A (void);
+extern void AndroidJNISafe_GetIntField_mC6BE70ED933532599667024D89F5AE1029DDA1E0 (void);
 // 0x000000FC System.Void UnityEngine.AndroidJNISafe::CallVoidMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallVoidMethod_m2695A49851FB9538D74814002D8DB04CDEEEBA26 (void);
+extern void AndroidJNISafe_CallVoidMethod_mC2A5489151E3D56467FEA9762684A1FBCC201C76 (void);
 // 0x000000FD System.IntPtr UnityEngine.AndroidJNISafe::CallObjectMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallObjectMethod_m4460C901E09ABB037442FB973BAC678C70687875 (void);
+extern void AndroidJNISafe_CallObjectMethod_m223C63966A73E23145180079470BD49C56D2F9BA (void);
 // 0x000000FE System.String UnityEngine.AndroidJNISafe::CallStringMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallStringMethod_m09F6D302969373907F07432407FAA64F33FDD941 (void);
+extern void AndroidJNISafe_CallStringMethod_mB268997CA18EF3343019308959A619C4C3820891 (void);
 // 0x000000FF System.Char UnityEngine.AndroidJNISafe::CallCharMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallCharMethod_m84323BEB15D11EE402FB095AE4F936CE8DEDF233 (void);
+extern void AndroidJNISafe_CallCharMethod_mB306445351D496DBAC531F3DAB699A30024AEA07 (void);
 // 0x00000100 System.Double UnityEngine.AndroidJNISafe::CallDoubleMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallDoubleMethod_mF204165E66900998B64E8F66B47903C4DECD95E0 (void);
+extern void AndroidJNISafe_CallDoubleMethod_mB5942D848CF372EADF39CCF3CF5B5F4385C927C0 (void);
 // 0x00000101 System.Single UnityEngine.AndroidJNISafe::CallFloatMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallFloatMethod_m74BA67E88AF91520E756C51B6CB4A5C74A34D5B4 (void);
+extern void AndroidJNISafe_CallFloatMethod_mB14DBDEB900A35991155EE7C1739C1DEB112B28F (void);
 // 0x00000102 System.Int64 UnityEngine.AndroidJNISafe::CallLongMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallLongMethod_m1FA0BF14125D8B346FDD85251F2D27A0BF6C0D07 (void);
+extern void AndroidJNISafe_CallLongMethod_m41D5D8467D274916EC33C33AC7540F88F8F46172 (void);
 // 0x00000103 System.Int16 UnityEngine.AndroidJNISafe::CallShortMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallShortMethod_mCD55A084D3F33698BB673E23DCDE909B12A9F706 (void);
+extern void AndroidJNISafe_CallShortMethod_m5FA668201182B432D880AF3F035C1DD542FC6D6B (void);
 // 0x00000104 System.SByte UnityEngine.AndroidJNISafe::CallSByteMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallSByteMethod_mA8EBD62443BBEF0F2152F2CDF0C505EA6A954F02 (void);
+extern void AndroidJNISafe_CallSByteMethod_m04C4E22429DCA9E3271A905387CBA406DD170F16 (void);
 // 0x00000105 System.Boolean UnityEngine.AndroidJNISafe::CallBooleanMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallBooleanMethod_m4D26DBA1123583C6C53D88116871073A8B3A9C70 (void);
+extern void AndroidJNISafe_CallBooleanMethod_m3253095C758D3CE4C3C1FCB2E55B956BB6D832A4 (void);
 // 0x00000106 System.Int32 UnityEngine.AndroidJNISafe::CallIntMethod(System.IntPtr,System.IntPtr,UnityEngine.jvalue[])
-extern void AndroidJNISafe_CallIntMethod_m2F86750DC70184A72557E555BE389E6B8C99F9F9 (void);
+extern void AndroidJNISafe_CallIntMethod_m2B2E4495CF5E2135E8F42D3E90F7C0902AD78771 (void);
 // 0x00000107 System.Char[] UnityEngine.AndroidJNISafe::FromCharArray(System.IntPtr)
-extern void AndroidJNISafe_FromCharArray_mA49DB27755EF3B2AE81487E0FCFE06E23F617305 (void);
+extern void AndroidJNISafe_FromCharArray_m89C34EFEB01E5CD0BE1BC887DCDAFEA08D109CC5 (void);
 // 0x00000108 System.Double[] UnityEngine.AndroidJNISafe::FromDoubleArray(System.IntPtr)
-extern void AndroidJNISafe_FromDoubleArray_m9438B5668E8B2DB3B18CACFF0CC9CAEAB5EC73C8 (void);
+extern void AndroidJNISafe_FromDoubleArray_mE04CDB2DB5C370D911932A6E39129373BCA61F78 (void);
 // 0x00000109 System.Single[] UnityEngine.AndroidJNISafe::FromFloatArray(System.IntPtr)
-extern void AndroidJNISafe_FromFloatArray_mF6A63CA1B7C10BC27EEC033F0E390772DFDD652D (void);
+extern void AndroidJNISafe_FromFloatArray_m6AAD54CA85C4DDBCE6B97452C70C9499D87C1870 (void);
 // 0x0000010A System.Int64[] UnityEngine.AndroidJNISafe::FromLongArray(System.IntPtr)
-extern void AndroidJNISafe_FromLongArray_m0E7C56CB8CFD0EC240F0D86ECBBFD635FFE55CDA (void);
+extern void AndroidJNISafe_FromLongArray_mF288E2462595D10E09175957923103B5AA77AE81 (void);
 // 0x0000010B System.Int16[] UnityEngine.AndroidJNISafe::FromShortArray(System.IntPtr)
-extern void AndroidJNISafe_FromShortArray_mCDF5B796D950D31035BD35A2E463D41509E4A5CD (void);
+extern void AndroidJNISafe_FromShortArray_m967E0145E1CCD91B7A71A8CA1EC571887B637808 (void);
 // 0x0000010C System.Byte[] UnityEngine.AndroidJNISafe::FromByteArray(System.IntPtr)
-extern void AndroidJNISafe_FromByteArray_m81760A688AECE368E1CFF7DAAC8E141F1B8FA8A8 (void);
+extern void AndroidJNISafe_FromByteArray_mD8574154381ED1F115082B1C729FDFB6B38AB452 (void);
 // 0x0000010D System.SByte[] UnityEngine.AndroidJNISafe::FromSByteArray(System.IntPtr)
-extern void AndroidJNISafe_FromSByteArray_m01F6539AF10F86B3927436955B57CC809C52416D (void);
+extern void AndroidJNISafe_FromSByteArray_m09370C783EB0D689FF1BBF662BD14EC6E83967B2 (void);
 // 0x0000010E System.Boolean[] UnityEngine.AndroidJNISafe::FromBooleanArray(System.IntPtr)
-extern void AndroidJNISafe_FromBooleanArray_m77A66C34FCB94ADB1AD5E1D88262500C930A5DBF (void);
+extern void AndroidJNISafe_FromBooleanArray_m59EBFEDF2F02FBBC0E6F5C438DDC1046D792283F (void);
 // 0x0000010F System.Int32[] UnityEngine.AndroidJNISafe::FromIntArray(System.IntPtr)
-extern void AndroidJNISafe_FromIntArray_mBF0C0B4309BA525BBA12D7FD3C2790C8FA7C4703 (void);
+extern void AndroidJNISafe_FromIntArray_m637AA08C7F6FFC5CCE3A548AFC9A5F649139E7FA (void);
 // 0x00000110 System.IntPtr UnityEngine.AndroidJNISafe::ToObjectArray(System.IntPtr[],System.IntPtr)
-extern void AndroidJNISafe_ToObjectArray_m669E5441604094D8A20E3C1F1F5407AE985F82B8 (void);
+extern void AndroidJNISafe_ToObjectArray_mC6B3036691E5731978E2CF792759AA10D7BBC337 (void);
 // 0x00000111 System.IntPtr UnityEngine.AndroidJNISafe::ToCharArray(System.Char[])
-extern void AndroidJNISafe_ToCharArray_mC1083C57846830CFA1A7CFFE5BE92F3B826FAC1D (void);
+extern void AndroidJNISafe_ToCharArray_mCA6E04C48615372BEF89C7FDF2CE7FDD1E001BF4 (void);
 // 0x00000112 System.IntPtr UnityEngine.AndroidJNISafe::ToDoubleArray(System.Double[])
-extern void AndroidJNISafe_ToDoubleArray_m0273BA7E9FBD2216215EBD176C8F329973BA53E0 (void);
+extern void AndroidJNISafe_ToDoubleArray_mC3E4F76BE9EA0FBF0F9C31D99DAC5A56C30BD58E (void);
 // 0x00000113 System.IntPtr UnityEngine.AndroidJNISafe::ToFloatArray(System.Single[])
-extern void AndroidJNISafe_ToFloatArray_m28D93667CB9E86FE20D0FC8B372BE26CEE9D8A19 (void);
+extern void AndroidJNISafe_ToFloatArray_m19DFDC1CBE592872AEB7B50021456C265687E07E (void);
 // 0x00000114 System.IntPtr UnityEngine.AndroidJNISafe::ToLongArray(System.Int64[])
-extern void AndroidJNISafe_ToLongArray_m0C3D6AD8D2D116C3F11AECD5317AC01EABE16727 (void);
+extern void AndroidJNISafe_ToLongArray_mE0E955A472A920B2F189B49DDADE22F00E2C8CB8 (void);
 // 0x00000115 System.IntPtr UnityEngine.AndroidJNISafe::ToShortArray(System.Int16[])
-extern void AndroidJNISafe_ToShortArray_m52204D9DB65374293E9D6954A2C9C4D47B4396D1 (void);
+extern void AndroidJNISafe_ToShortArray_mFA01F104310D594C3884A8BD697A963568D07B91 (void);
 // 0x00000116 System.IntPtr UnityEngine.AndroidJNISafe::ToByteArray(System.Byte[])
-extern void AndroidJNISafe_ToByteArray_mCA96D852C39F79F57A8B68B8B03AF9EC795EA6D9 (void);
+extern void AndroidJNISafe_ToByteArray_m7843B87143DAC4FC16F3C0B5D44BA44158D7DBCF (void);
 // 0x00000117 System.IntPtr UnityEngine.AndroidJNISafe::ToSByteArray(System.SByte[])
-extern void AndroidJNISafe_ToSByteArray_m6C05420E192FBA37D7B168EC98BE04F56492087B (void);
+extern void AndroidJNISafe_ToSByteArray_mF90F6599E51AA285738E2013753DEA1917C3B224 (void);
 // 0x00000118 System.IntPtr UnityEngine.AndroidJNISafe::ToBooleanArray(System.Boolean[])
-extern void AndroidJNISafe_ToBooleanArray_m2298F4521FD7F175F15B30FF7887D365BD1543BB (void);
+extern void AndroidJNISafe_ToBooleanArray_m423EA13D4D1D1B253DD04ED7EE2CAA8E916C5DD5 (void);
 // 0x00000119 System.IntPtr UnityEngine.AndroidJNISafe::ToIntArray(System.Int32[])
-extern void AndroidJNISafe_ToIntArray_mD2FB6E5F31F6FD8A12DD3E86E1022EC14AFF5D0C (void);
+extern void AndroidJNISafe_ToIntArray_m6942A9FD3416839F741B033C85E1ABFDF1549BE4 (void);
 // 0x0000011A System.IntPtr UnityEngine.AndroidJNISafe::GetObjectArrayElement(System.IntPtr,System.Int32)
-extern void AndroidJNISafe_GetObjectArrayElement_m3219215297449FA1854927E80F1B74EF7413EF73 (void);
+extern void AndroidJNISafe_GetObjectArrayElement_m58038654EA99F36B2B6E3B992DA845FF340D4B46 (void);
 // 0x0000011B System.Int32 UnityEngine.AndroidJNISafe::GetArrayLength(System.IntPtr)
-extern void AndroidJNISafe_GetArrayLength_m3015C191DBFC246946A88592731441A934507B56 (void);
+extern void AndroidJNISafe_GetArrayLength_m606B22284E0BB24E92FB7A3A8B5A878798281AA8 (void);
 // 0x0000011C System.Void UnityEngine.AndroidJavaRunnable::.ctor(System.Object,System.IntPtr)
 extern void AndroidJavaRunnable__ctor_m385F79E7C422595C3F8504D588807799A7CF4727 (void);
 // 0x0000011D System.Void UnityEngine.AndroidJavaRunnable::Invoke()
@@ -591,7 +591,7 @@ extern void GlobalJavaObjectRef__ctor_mC4872ABD6EDA3531D1012C2FB7B73EE2B1652C5D 
 // 0x00000123 System.Void UnityEngine.GlobalJavaObjectRef::Finalize()
 extern void GlobalJavaObjectRef_Finalize_m455E5786F72D4A0DBBA209EE67AE763130FBCE3A (void);
 // 0x00000124 System.IntPtr UnityEngine.GlobalJavaObjectRef::op_Implicit(UnityEngine.GlobalJavaObjectRef)
-extern void GlobalJavaObjectRef_op_Implicit_m7A992ACF399BAD3EFC96D88CE00B235D8B669B33 (void);
+extern void GlobalJavaObjectRef_op_Implicit_m8573DFC0939E91FAA4E32C87D7652907626D3746 (void);
 // 0x00000125 System.Void UnityEngine.GlobalJavaObjectRef::Dispose()
 extern void GlobalJavaObjectRef_Dispose_mDAF2DE01EBD608E63CB661954D0B50015D08FF28 (void);
 // 0x00000126 System.Void UnityEngine.AndroidJavaRunnableProxy::.ctor(UnityEngine.AndroidJavaRunnable)
@@ -619,7 +619,7 @@ extern void AndroidJavaProxy_GetProxyObject_mEDC1D96AAE0A4FC2B4E57E1FC3AE5C47C27
 // 0x00000131 System.IntPtr UnityEngine.AndroidJavaProxy::GetRawProxy()
 extern void AndroidJavaProxy_GetRawProxy_m125686B87104A00FD20DEB87F24074A3AD68D354 (void);
 // 0x00000132 System.Void UnityEngine.AndroidJavaProxy::.cctor()
-extern void AndroidJavaProxy__cctor_mB21449F424E38624821E1F87653DA4810F2809D7 (void);
+extern void AndroidJavaProxy__cctor_m495EBB573F2215B69BE68C609BAFAC202401C488 (void);
 // 0x00000133 System.Void UnityEngine.AndroidJavaObject::.ctor(System.String,System.String[])
 extern void AndroidJavaObject__ctor_mD77909E8ED7BADA1019AAFA030A3C483E29FDED6 (void);
 // 0x00000134 System.Void UnityEngine.AndroidJavaObject::.ctor(System.String,UnityEngine.AndroidJavaObject[])
@@ -677,16 +677,16 @@ extern void AndroidJavaObject__CallStatic_m69A43F99817AE27CF1EEAF0C7F5FCF56A11AD
 // 0x00000155 FieldType UnityEngine.AndroidJavaObject::_GetStatic(System.String)
 // 0x00000156 System.Void UnityEngine.AndroidJavaObject::_SetStatic(System.String,FieldType)
 // 0x00000157 UnityEngine.AndroidJavaObject UnityEngine.AndroidJavaObject::AndroidJavaObjectDeleteLocalRef(System.IntPtr)
-extern void AndroidJavaObject_AndroidJavaObjectDeleteLocalRef_mB977696EA6F6BB6369A8F783EFB5D99C445C11FD (void);
+extern void AndroidJavaObject_AndroidJavaObjectDeleteLocalRef_m894328C5BFEE7BE03298425049B09815D0CAB572 (void);
 // 0x00000158 UnityEngine.AndroidJavaClass UnityEngine.AndroidJavaObject::AndroidJavaClassDeleteLocalRef(System.IntPtr)
-extern void AndroidJavaObject_AndroidJavaClassDeleteLocalRef_mE5C858ECFE81960EA260B3F112FD8A30C4097842 (void);
+extern void AndroidJavaObject_AndroidJavaClassDeleteLocalRef_mB3FBC86ACFCE28F09F85D5D8777806294C5A2965 (void);
 // 0x00000159 ReturnType UnityEngine.AndroidJavaObject::FromJavaArrayDeleteLocalRef(System.IntPtr)
 // 0x0000015A System.IntPtr UnityEngine.AndroidJavaObject::_GetRawObject()
 extern void AndroidJavaObject__GetRawObject_mD52629909E16A092896CD884BB710F876BE14975 (void);
 // 0x0000015B System.IntPtr UnityEngine.AndroidJavaObject::_GetRawClass()
 extern void AndroidJavaObject__GetRawClass_mCEFEDEA158099706B9B2F1CB40C843D2E899932C (void);
 // 0x0000015C System.Void UnityEngine.AndroidJavaObject::.cctor()
-extern void AndroidJavaObject__cctor_mF33A7478608B7668DB4EF3D610695E2828A492CE (void);
+extern void AndroidJavaObject__cctor_m920EF92A44A20E2EA89BCF989E7855C2A0AF65F5 (void);
 // 0x0000015D System.Void UnityEngine.AndroidJavaClass::.ctor(System.String)
 extern void AndroidJavaClass__ctor_mEFF9F51871F231955D97DABDE9AB4A6B4EDA5541 (void);
 // 0x0000015E System.Void UnityEngine.AndroidJavaClass::_AndroidJavaClass(System.String)
@@ -694,66 +694,66 @@ extern void AndroidJavaClass__AndroidJavaClass_mD69A3836B7DD13F6514499FFE167BCB1
 // 0x0000015F System.Void UnityEngine.AndroidJavaClass::.ctor(System.IntPtr)
 extern void AndroidJavaClass__ctor_m61AE95F9D20CA648AEFC18AE922FE70F0B90786F (void);
 // 0x00000160 System.Boolean UnityEngine.AndroidReflection::IsPrimitive(System.Type)
-extern void AndroidReflection_IsPrimitive_mDD6A4050793DF2FA1EDF58010982C64A3F17376D (void);
+extern void AndroidReflection_IsPrimitive_m6AC935960F806BD35938B70EB70E9FF90F03521E (void);
 // 0x00000161 System.Boolean UnityEngine.AndroidReflection::IsAssignableFrom(System.Type,System.Type)
-extern void AndroidReflection_IsAssignableFrom_m7B46715954FFFBDFA63B681FAF87AEB2ECF0E47C (void);
+extern void AndroidReflection_IsAssignableFrom_mD2754AFA331CB318E960432DB3F4270B860A9284 (void);
 // 0x00000162 System.IntPtr UnityEngine.AndroidReflection::GetStaticMethodID(System.String,System.String,System.String)
-extern void AndroidReflection_GetStaticMethodID_m36025A22F483A7C1D53BFAA0505DC59A7B503EA1 (void);
+extern void AndroidReflection_GetStaticMethodID_m4C6530446E01E0CCD82437DC5E0301EA265699F3 (void);
 // 0x00000163 System.IntPtr UnityEngine.AndroidReflection::GetMethodID(System.String,System.String,System.String)
-extern void AndroidReflection_GetMethodID_m99B37E6A752683D8F77DA7319D9956E03BAC322E (void);
+extern void AndroidReflection_GetMethodID_m551139A025A4DDC58D0F076FD26E77879F50BA05 (void);
 // 0x00000164 System.IntPtr UnityEngine.AndroidReflection::GetConstructorMember(System.IntPtr,System.String)
-extern void AndroidReflection_GetConstructorMember_m4E88C8F6F83DB80D3313835CE760D8E7DC533C02 (void);
+extern void AndroidReflection_GetConstructorMember_mB320ED3A0990352093EAA566BAB4A57054FCF973 (void);
 // 0x00000165 System.IntPtr UnityEngine.AndroidReflection::GetMethodMember(System.IntPtr,System.String,System.String,System.Boolean)
-extern void AndroidReflection_GetMethodMember_m2959FEB7888CE8740DE1CF88C0CCB8A72F9F017B (void);
+extern void AndroidReflection_GetMethodMember_mEB2499209A0103545F59AF367168355BE863D93D (void);
 // 0x00000166 System.IntPtr UnityEngine.AndroidReflection::GetFieldMember(System.IntPtr,System.String,System.String,System.Boolean)
-extern void AndroidReflection_GetFieldMember_m1318EF8ED43B70C70C6A054207ED57C88B846D73 (void);
+extern void AndroidReflection_GetFieldMember_mDF940ADAC9599730E7673B122259222B70937F52 (void);
 // 0x00000167 System.IntPtr UnityEngine.AndroidReflection::GetFieldClass(System.IntPtr)
-extern void AndroidReflection_GetFieldClass_m9406AFE957E7C743F7F1695EF0ED834597AEB782 (void);
+extern void AndroidReflection_GetFieldClass_mE162BDF6E215EF685FEE87558868C0C0A92FF5EB (void);
 // 0x00000168 System.String UnityEngine.AndroidReflection::GetFieldSignature(System.IntPtr)
-extern void AndroidReflection_GetFieldSignature_m3827226FD015DF4C0D4FC370C4589BC7FA8EA2CD (void);
-// 0x00000169 System.IntPtr UnityEngine.AndroidReflection::NewProxyInstance(System.IntPtr,System.IntPtr)
-extern void AndroidReflection_NewProxyInstance_m53695E04979F0C45768004C5CC36A95A684C847C (void);
+extern void AndroidReflection_GetFieldSignature_m875FCA6402DFB60FB02EC45DF542525BD4328938 (void);
+// 0x00000169 System.IntPtr UnityEngine.AndroidReflection::NewProxyInstance(System.IntPtr,System.IntPtr,System.IntPtr)
+extern void AndroidReflection_NewProxyInstance_m0F4311ECD23AC3EBB415E5A1986F24AACB7F855E (void);
 // 0x0000016A System.Void UnityEngine.AndroidReflection::SetNativeExceptionOnProxy(System.IntPtr,System.Exception,System.Boolean)
-extern void AndroidReflection_SetNativeExceptionOnProxy_m3156C711782C12CDE0E994C37630F762C0FE0808 (void);
+extern void AndroidReflection_SetNativeExceptionOnProxy_m128E0E4E225DE9CE787306D76741E72D25CB1F8E (void);
 // 0x0000016B System.Void UnityEngine.AndroidReflection::.cctor()
-extern void AndroidReflection__cctor_m2B0369515D9A19D15703B34BD174D7CA683F1546 (void);
-// 0x0000016C System.IntPtr UnityEngine._AndroidJNIHelper::CreateJavaProxy(System.IntPtr,UnityEngine.AndroidJavaProxy)
-extern void _AndroidJNIHelper_CreateJavaProxy_mCE38F0AE360145E8ECD9B15364CF570EE1D57D5D (void);
+extern void AndroidReflection__cctor_mF0B578A28D9AE0EDA442E2DB3E5CC549CC221904 (void);
+// 0x0000016C System.IntPtr UnityEngine._AndroidJNIHelper::CreateJavaProxy(System.IntPtr,System.IntPtr,UnityEngine.AndroidJavaProxy)
+extern void _AndroidJNIHelper_CreateJavaProxy_mD55122FBE783E484184BB68E2F982CB521064D69 (void);
 // 0x0000016D System.IntPtr UnityEngine._AndroidJNIHelper::CreateJavaRunnable(UnityEngine.AndroidJavaRunnable)
-extern void _AndroidJNIHelper_CreateJavaRunnable_m9FEEC38F8F25D8A5E6DBD8329094C3C24D73EC52 (void);
+extern void _AndroidJNIHelper_CreateJavaRunnable_mC9F0EBABCA5C6FAFF1EBCDC6758F915417EEC5F2 (void);
 // 0x0000016E System.IntPtr UnityEngine._AndroidJNIHelper::InvokeJavaProxyMethod(UnityEngine.AndroidJavaProxy,System.IntPtr,System.IntPtr)
-extern void _AndroidJNIHelper_InvokeJavaProxyMethod_mEDA5EBF45CEDDBB775BD601270633625DE31CC25 (void);
+extern void _AndroidJNIHelper_InvokeJavaProxyMethod_m61E64CCD15A3694432F887DDE0AFE3ECF1ECC516 (void);
 // 0x0000016F UnityEngine.jvalue[] UnityEngine._AndroidJNIHelper::CreateJNIArgArray(System.Object[])
-extern void _AndroidJNIHelper_CreateJNIArgArray_m6CAC58535CA8F9F1A7A4458BA1BC855CB46609E2 (void);
+extern void _AndroidJNIHelper_CreateJNIArgArray_m1F064AACE1C251B395968F94C16089775E33EFCA (void);
 // 0x00000170 System.Object UnityEngine._AndroidJNIHelper::UnboxArray(UnityEngine.AndroidJavaObject)
-extern void _AndroidJNIHelper_UnboxArray_m6287C810F0A8190BA7A7D2B104437F28B785FE7F (void);
+extern void _AndroidJNIHelper_UnboxArray_mEBA7A10DBA37D9BA5308CD68E602DE7B17A1CBC9 (void);
 // 0x00000171 System.Object UnityEngine._AndroidJNIHelper::Unbox(UnityEngine.AndroidJavaObject)
-extern void _AndroidJNIHelper_Unbox_mE00F4AED2AAAACF5C617820A41A4F28F1D501708 (void);
+extern void _AndroidJNIHelper_Unbox_m9E2B0719D492499720FAC6CA08FF261BB1563FF5 (void);
 // 0x00000172 UnityEngine.AndroidJavaObject UnityEngine._AndroidJNIHelper::Box(System.Object)
-extern void _AndroidJNIHelper_Box_m36D8F62AEE89925F24BEB84DD91A5FF771255E28 (void);
+extern void _AndroidJNIHelper_Box_mCA5D1BD48FAAE9BD098E2CC61CA86857D7589F40 (void);
 // 0x00000173 System.Void UnityEngine._AndroidJNIHelper::DeleteJNIArgArray(System.Object[],UnityEngine.jvalue[])
-extern void _AndroidJNIHelper_DeleteJNIArgArray_m1ECC70D98768BD3E5C6C6EABC1162F43B297AD85 (void);
+extern void _AndroidJNIHelper_DeleteJNIArgArray_m376FFEE6187587454E7E20331B0473DFB1B1351E (void);
 // 0x00000174 System.IntPtr UnityEngine._AndroidJNIHelper::ConvertToJNIArray(System.Array)
-extern void _AndroidJNIHelper_ConvertToJNIArray_m8254063CFA125088D840280AEF8C2ACF1B1ED4D9 (void);
+extern void _AndroidJNIHelper_ConvertToJNIArray_m25F591EAFE69F17716AFBE9F079F2E259E051ACD (void);
 // 0x00000175 ArrayType UnityEngine._AndroidJNIHelper::ConvertFromJNIArray(System.IntPtr)
 // 0x00000176 System.IntPtr UnityEngine._AndroidJNIHelper::GetConstructorID(System.IntPtr,System.Object[])
-extern void _AndroidJNIHelper_GetConstructorID_m59BD3F866A86FC0FFDB26FFB820124E830CDB3E7 (void);
+extern void _AndroidJNIHelper_GetConstructorID_m2370ACC5A85EBDDBCE5F0C17753887CDCB878F43 (void);
 // 0x00000177 System.IntPtr UnityEngine._AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.Object[],System.Boolean)
-extern void _AndroidJNIHelper_GetMethodID_m11CB4DA78BA3971AE2D5A1005B77C484C2BC4BA4 (void);
+extern void _AndroidJNIHelper_GetMethodID_m922CE6031D2DDCF47B5C90931A46EE5C1F23F82A (void);
 // 0x00000178 System.IntPtr UnityEngine._AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.Object[],System.Boolean)
 // 0x00000179 System.IntPtr UnityEngine._AndroidJNIHelper::GetFieldID(System.IntPtr,System.String,System.Boolean)
 // 0x0000017A System.IntPtr UnityEngine._AndroidJNIHelper::GetConstructorID(System.IntPtr,System.String)
-extern void _AndroidJNIHelper_GetConstructorID_m0802B71B149170217E6FE75A7864A4BE7315215F (void);
+extern void _AndroidJNIHelper_GetConstructorID_m785D81C52A5063D9B4F308462927BCA1336DCE97 (void);
 // 0x0000017B System.IntPtr UnityEngine._AndroidJNIHelper::GetMethodID(System.IntPtr,System.String,System.String,System.Boolean)
-extern void _AndroidJNIHelper_GetMethodID_m74B615C2438AF4A05F5FDA31F871AA641799CC9C (void);
+extern void _AndroidJNIHelper_GetMethodID_mE97AC51E9CADFCEE717720FF1FC73779B03152AF (void);
 // 0x0000017C System.IntPtr UnityEngine._AndroidJNIHelper::GetMethodIDFallback(System.IntPtr,System.String,System.String,System.Boolean)
-extern void _AndroidJNIHelper_GetMethodIDFallback_mCAB1BB814895547718E10BA70AEA126CE98AD48C (void);
+extern void _AndroidJNIHelper_GetMethodIDFallback_mA7CE78D8661C476F05B8FE0C4CC9B14F94E7702A (void);
 // 0x0000017D System.IntPtr UnityEngine._AndroidJNIHelper::GetFieldID(System.IntPtr,System.String,System.String,System.Boolean)
-extern void _AndroidJNIHelper_GetFieldID_mEF3E4C58E7B9F40F7E0BBAE76D82AD2C9FA66D30 (void);
+extern void _AndroidJNIHelper_GetFieldID_m114CD556A40B3AE3BFC1183055B4CD71ECB70BEA (void);
 // 0x0000017E System.String UnityEngine._AndroidJNIHelper::GetSignature(System.Object)
-extern void _AndroidJNIHelper_GetSignature_m4A272D66518BF9A4C746B02B91AAB1361293232C (void);
+extern void _AndroidJNIHelper_GetSignature_m3A803B2695DB1EB9344C5596B97E8302A71BFD73 (void);
 // 0x0000017F System.String UnityEngine._AndroidJNIHelper::GetSignature(System.Object[])
-extern void _AndroidJNIHelper_GetSignature_m7621549E54EFD6362170628549B996BF5C52FBB7 (void);
+extern void _AndroidJNIHelper_GetSignature_m639489618B4D11AD75002B211C607CA794A01C7B (void);
 // 0x00000180 System.String UnityEngine._AndroidJNIHelper::GetSignature(System.Object[])
 // 0x00000181 System.Void UnityEngine._AndroidJNIHelper::.ctor()
 extern void _AndroidJNIHelper__ctor_m4231F0D297E72EDEEFE54850736BAB69F0BEA367 (void);
@@ -764,7 +764,7 @@ extern void AndroidAssetPackState__ctor_m898F1E41E26DC9773BF078D9DD637B2C7959D04
 // 0x00000184 System.Void UnityEngine.Android.AndroidAssetPackUseMobileDataRequestResult::.ctor(System.Boolean)
 extern void AndroidAssetPackUseMobileDataRequestResult__ctor_m09D1A94FF5ABB3E6DE5DAD5F3D558A94C60D194C (void);
 // 0x00000185 UnityEngine.AndroidJavaObject UnityEngine.Android.AndroidAssetPacks::GetAssetPackManager()
-extern void AndroidAssetPacks_GetAssetPackManager_m8B012D5102A49E01D14E01BB197B97C8ADCBF9E9 (void);
+extern void AndroidAssetPacks_GetAssetPackManager_m52F81266B7807A06DA69B7C5441CF7DDFBF30AB1 (void);
 // 0x00000186 System.Void UnityEngine.Android.AndroidAssetPacks/AssetPackManagerDownloadStatusCallback::onStatusUpdate(System.String,System.Int32,System.Int64,System.Int64,System.Int32,System.Int32)
 extern void AssetPackManagerDownloadStatusCallback_onStatusUpdate_m44D883114BD08904CBB400DCE804E717DE8ED013 (void);
 // 0x00000187 System.Void UnityEngine.Android.AndroidAssetPacks/AssetPackManagerMobileDataConfirmationCallback::onMobileDataConfirmationResult(System.Boolean)
@@ -777,291 +777,293 @@ extern void PermissionCallbacks_onPermissionGranted_mBB916DA5EB099196DD500F6D926
 extern void PermissionCallbacks_onPermissionDenied_mC74555C82B9CCFB6017BCCDD42E25BB1B9D87958 (void);
 // 0x0000018B System.Void UnityEngine.Android.PermissionCallbacks::onPermissionDeniedAndDontAskAgain(System.String)
 extern void PermissionCallbacks_onPermissionDeniedAndDontAskAgain_m12D7416B65ECDCF9CBB925DDBE73CF9F0C50058B (void);
-static Il2CppMethodPointer s_methodPointers[395] = 
+// 0x0000018C UnityEngine.AndroidJavaObject UnityEngine.Android.Permission::GetActivity()
+extern void Permission_GetActivity_m4C2DB9AC19D53AD609D4BAF65E10D5248DE928B2 (void);
+static Il2CppMethodPointer s_methodPointers[396] = 
 {
-	AndroidJNIHelper_get_debug_m7E1648C60EAF6EB001123CB2FC4C0B2261B88876,
-	AndroidJNIHelper_set_debug_mEBA1803E5D5578B076C996085702CD879390EE53,
-	AndroidJNIHelper_GetConstructorID_m10F7D3AE577997C89642D1926164DB494F3403C3,
-	AndroidJNIHelper_GetConstructorID_m22710C39375F8A965C70F995413D4B3C62E85E30,
-	AndroidJNIHelper_GetMethodID_mF6814E0A71886C5D2381CF52E62FD65DF902C93C,
-	AndroidJNIHelper_GetMethodID_m236E063458900400759E825844E3C3015D2E2764,
-	AndroidJNIHelper_GetMethodID_m2B5E7C9B05905F6C6B60A735B8A6E97BBA468535,
-	AndroidJNIHelper_GetFieldID_m62EB337F7FE5081CF7AB43B8314DE1BCAD95EB85,
-	AndroidJNIHelper_GetFieldID_m9D3959C9FA55DBF4B93CFD5FF9824461DBF745FA,
-	AndroidJNIHelper_GetFieldID_mCDDF095C790C66CB19342E3A143A104020F5E170,
-	AndroidJNIHelper_CreateJavaRunnable_m789E333B57BE23010719477567A818C88A529153,
-	AndroidJNIHelper_CreateJavaProxy_mF3E9256AF65CC078B82DD0E1DC65306AA79DBBEC,
-	AndroidJNIHelper_ConvertToJNIArray_m0D2294EA1145D09C6A00BFF04446C8AB638FB914,
-	AndroidJNIHelper_CreateJNIArgArray_m3B928C14D5B3E86B38331427E0605478402DFDCE,
-	AndroidJNIHelper_DeleteJNIArgArray_mF43CDD1F690C9E843FE622B9A5F7B21F7556408A,
-	AndroidJNIHelper_GetConstructorID_mDC08F55A8FFF5D4E2B6CB5FB6808935EC8211007,
-	AndroidJNIHelper_GetMethodID_mEEF27AD42E6F67E8FDC2633BDCBC705E2D28A9C9,
-	AndroidJNIHelper_GetSignature_m4FC5ED78932593A3F1D91F13DBA2B14061E2A78D,
-	AndroidJNIHelper_GetSignature_m118C14C93F52338B48F0C601B11D201DB9DE96B9,
+	AndroidJNIHelper_get_debug_m57E106902A5D19E7D96E63E3A5A3B8AE1AD0CFE8,
+	AndroidJNIHelper_set_debug_m52258592F935A3438314DA47C7522A8E89B89174,
+	AndroidJNIHelper_GetConstructorID_m25FFB9C32B1538A3346138B662E9D865C992F390,
+	AndroidJNIHelper_GetConstructorID_m06EE0475AA9AA8D8656E1F5835FFCE2C0EFB92BC,
+	AndroidJNIHelper_GetMethodID_mB66763731E2A6B3BAA56B6C83804231D2DD93578,
+	AndroidJNIHelper_GetMethodID_mDFC5066D8D09F1D8C8567065419D21015856330E,
+	AndroidJNIHelper_GetMethodID_m25A23BE9C141B9575BB8A332CD7B6F7F394202E3,
+	AndroidJNIHelper_GetFieldID_mF3E48238D989137C782513ACEE15BCE75C9001BA,
+	AndroidJNIHelper_GetFieldID_mF66493A229E3C43F5DD621BF9273344ED361C5D7,
+	AndroidJNIHelper_GetFieldID_m9ABAB24D635611ADEDF376E9B4F7E3E0D271D38E,
+	AndroidJNIHelper_CreateJavaRunnable_m1B89587372069109C43FAD8C4C96DA816DA04A03,
+	AndroidJNIHelper_CreateJavaProxy_m9E58A55A573E055FA242C5C6251C715522FC91DB,
+	AndroidJNIHelper_ConvertToJNIArray_mE000D137752927EA9CF47D17784A8256D9310D31,
+	AndroidJNIHelper_CreateJNIArgArray_mB806BBD1920C763CCDB0BA6DE336425A45D4C361,
+	AndroidJNIHelper_DeleteJNIArgArray_m672B3991A3FF891888AFFF4D6F22767F17C05EA5,
+	AndroidJNIHelper_GetConstructorID_m075C4952D43C603134C0D4CD6FDF98F3041956A6,
+	AndroidJNIHelper_GetMethodID_m8F55F58B1EC4C8011E42FD6C800176D3D3AE0EE6,
+	AndroidJNIHelper_GetSignature_m5025AD4D56D4A3192B0857BBFAFF5D7058F7C8AD,
+	AndroidJNIHelper_GetSignature_m3C5C3F72D08BBDA349D467FED803F488B3D3A03C,
 	NULL,
 	NULL,
 	NULL,
 	NULL,
-	AndroidJNI_AttachCurrentThread_mB19891A8E6DFF2548BEC09881D3DD282F4A4F83E,
-	AndroidJNI_DetachCurrentThread_m7BF42C3D636234700C9E2642022413F16205607B,
-	AndroidJNI_GetVersion_m8AB577F0FA156B46CB78B17676DB3FB3C4547F1A,
-	AndroidJNI_FindClass_m9271648050957874E8489952E493156991C511F5,
-	AndroidJNI_FromReflectedMethod_mBF204982142E2EA82F66F562F5661F2A459F34F5,
-	AndroidJNI_FromReflectedField_m953A229E24DBC929776979079A0D2CD4739D65C9,
-	AndroidJNI_ToReflectedMethod_m3840E627EAFC81835240F0EC2B6240E05F8D504C,
-	AndroidJNI_ToReflectedField_mD2CEB5AAAB8F970F4CC71C091870C821955283FF,
-	AndroidJNI_GetSuperclass_m6DD617604F3257293C6082A6938C7E86321B642D,
-	AndroidJNI_IsAssignableFrom_m3157A254A289162FB5E8A6ED9D5EA28A3661B51F,
-	AndroidJNI_Throw_m47938C57149E2B71FA1A41F478323A6DBC6D8BA0,
-	AndroidJNI_ThrowNew_m2026B533581907527794C83A32E3387F5E088D12,
-	AndroidJNI_ExceptionOccurred_m347473FDF70118E17D092961232E7EAF0BCF2991,
-	AndroidJNI_ExceptionDescribe_mA46A449AEF75F9433FBCFC60C9FB9BD80A738C68,
-	AndroidJNI_ExceptionClear_mE1961C9BD4984AF52712BFF181B6B95F435531B7,
-	AndroidJNI_FatalError_m8CF48E3EB9A551B6B777F549F6D0C0774E55BBAB,
-	AndroidJNI_PushLocalFrame_m50EAB8EF4BAAE44BCEF28F578917506AFA5AF757,
-	AndroidJNI_PopLocalFrame_mCC5DA39EFA179BDA7D70E5D52B03D81A22D3BB3E,
-	AndroidJNI_NewGlobalRef_m34740B5AECF82CE97986D6E67F5E1D8CBF7DB837,
-	AndroidJNI_DeleteGlobalRef_m0B4945EEFFCA6F7CC0808310DD6FA8BFB58A4F53,
-	AndroidJNI_NewWeakGlobalRef_mB62AFFE361315D8C045F6EF4D961C5501839E295,
-	AndroidJNI_DeleteWeakGlobalRef_m972079D94C174FA5F427AC16C92B2B3179175F46,
-	AndroidJNI_NewLocalRef_m9309F714C7C9C3C47EA48218FB6B0BE810E42EAE,
-	AndroidJNI_DeleteLocalRef_m5EEFE4C0CA9F65208C117ECE9D893A993A477DB4,
-	AndroidJNI_IsSameObject_m8F9EB5AEEB5CFC5057784D1EDAF76B74800DAE9E,
-	AndroidJNI_EnsureLocalCapacity_m6EF7523782FFB3FA7EBB6B3D178F2212136DADF0,
-	AndroidJNI_AllocObject_mF9A043D00FCBFF6019969FB90CBCD74BB5EAFF5C,
-	AndroidJNI_NewObject_m8D445E11DAFC786997C16BF296C0BB844F6E7D60,
-	AndroidJNI_GetObjectClass_m38B1858A3F6F7336FBEC67F36E998D61DE93988A,
-	AndroidJNI_IsInstanceOf_mDE65CF5CA37FCA98D2EFEE2162FBD5F85773B676,
-	AndroidJNI_GetMethodID_m4A0DBC91C300B8F342333561BA237258E12D0A3B,
-	AndroidJNI_GetFieldID_mC4C0EAE4D7F680F02090DD7B42D9FFA6B0F48B51,
-	AndroidJNI_GetStaticMethodID_mB2C04328A527EB6EAC74F048CC10DEB3099C4826,
-	AndroidJNI_GetStaticFieldID_m4A0EB1679C7A473DDDBE9FA904C64EEC4DBDEEFE,
-	AndroidJNI_NewString_m39B9E7C930BE075D93850E925F808720BEB5C673,
-	AndroidJNI_NewStringFromStr_m2FA0D93FE6ABFD5D1B3546B797EDE6ABB37208CC,
-	AndroidJNI_NewString_m23E94D1BE4BDAC8424D4A176022D66B3EB7F1128,
-	AndroidJNI_NewStringUTF_m1620DE5AE08CC5460E99D221E936C5100D6498B8,
-	AndroidJNI_GetStringChars_m95FBBCDB48D425FBDC19710D92C7D6D175041778,
-	AndroidJNI_GetStringLength_m81093878D7A41B377BAA97F92F832F20DF437CED,
-	AndroidJNI_GetStringUTFLength_mE733555F4F22497F5E48E7BB084BFD98BCC243C6,
-	AndroidJNI_GetStringUTFChars_m3E0D54C47F2234366A810E0CFBF6CC54B72ABF63,
-	AndroidJNI_CallStringMethod_m8D44F815C76333C22FF73753CF8289089E633261,
-	AndroidJNI_CallObjectMethod_m29CAA840E7ECD2A6B835EAF9E119F8E3E5B99495,
-	AndroidJNI_CallIntMethod_m3A49D0808C1D0C3EAF25B3F2DC7890B483B00CDF,
-	AndroidJNI_CallBooleanMethod_mCC2BF562D42946CC90BB9E5489C9311DB38A6F8A,
-	AndroidJNI_CallShortMethod_m719565EF3E0DB80078F924283F72E3492BCED486,
-	AndroidJNI_CallByteMethod_m1DE38A73575B182367C588A6231FC849119F8421,
-	AndroidJNI_CallSByteMethod_mD99C2871A4ED3D2228B6F9EA97484D71E529C5EA,
-	AndroidJNI_CallCharMethod_m6D9AB75BB4E6E6F40C12654EADB9CB3AC441F257,
-	AndroidJNI_CallFloatMethod_mB40ADB8EFB34D674AF586B65E3B443AF51B62CD9,
-	AndroidJNI_CallDoubleMethod_mC6B84A261650B29C19C304F07D1080B38ABC7186,
-	AndroidJNI_CallLongMethod_m566FBCF6E3D1B11ECBA4DBB51E3712F2EE9A7FE9,
-	AndroidJNI_CallVoidMethod_m73DDDA8EB846555AD558EF887EAC6CC2C58DD9E1,
-	AndroidJNI_GetStringField_mA73AF6FD2567B072CD2B0001141572E828631895,
-	AndroidJNI_GetObjectField_m8B8ED51F25AB8BB21B7438403A2BF270F46A84AC,
-	AndroidJNI_GetBooleanField_mDB55052FA51572A300A676EEDCB30DEEFC0693E1,
-	AndroidJNI_GetByteField_m3DF31B18F5B17A174806408A56F058D0BD9E8F15,
-	AndroidJNI_GetSByteField_m1C62131E459A7806DA4397A3C1B2C51706C93A02,
-	AndroidJNI_GetCharField_m25CABF409E496A1932176877D571C62112FA8A64,
-	AndroidJNI_GetShortField_m423F6120226D41E28A04AB3052CB0545053E0BAF,
-	AndroidJNI_GetIntField_m29E6AA1A73F6D13F7B51CCD6EA7F4887C65D1106,
-	AndroidJNI_GetLongField_m68804BF10A449500A82829BBA41196757681F9E2,
-	AndroidJNI_GetFloatField_m5207D3460B1D8921002E2F7A1B063B5D83238337,
-	AndroidJNI_GetDoubleField_m6C4D7C556681ED4828EEFA819EAA5334F7753E5F,
-	AndroidJNI_SetStringField_mF37BDAF661F6FBBDD773315390EB32FB58C10C5F,
-	AndroidJNI_SetObjectField_m0DAAA36226C6725EC4083E1D0A23D19BB2DE3E85,
-	AndroidJNI_SetBooleanField_m76A515BB149DA8AF1DF6E66E35F3C6B66AB1B4CA,
-	AndroidJNI_SetByteField_m1793693EB40B97BB57B95864B43CBCF3784D48EA,
-	AndroidJNI_SetSByteField_m5D083BA0FD1B1E0A906057E21AEF66F23F2FC029,
-	AndroidJNI_SetCharField_m79A092244968A2437B8EAD649C93194D5CE3D977,
-	AndroidJNI_SetShortField_mE3A295DA43368980BE7ED8938810D185570EB9E2,
-	AndroidJNI_SetIntField_mA1B11C1ADD446CAB6E07DCC7161BC66025E1482D,
-	AndroidJNI_SetLongField_mEC4F5165235EAA39BF6685F46975BB5D70898643,
-	AndroidJNI_SetFloatField_mA772469C7407926D8FA090CEC3DBD23638D5AD67,
-	AndroidJNI_SetDoubleField_m6B4BF40ADCB50B649BE2338436C3DF75132201C7,
-	AndroidJNI_CallStaticStringMethod_m4089540DF5B52F735C6C70988D73FE69463B7B44,
-	AndroidJNI_CallStaticObjectMethod_m41962AB7EBBC53ACB5ACD5D7CC175EC8CFF22B13,
-	AndroidJNI_CallStaticIntMethod_mE05BBCE19901EED01DB88DCE7775D2EC75266F6F,
-	AndroidJNI_CallStaticBooleanMethod_mA658B97E472490DCEF41A9C9BE9E2808FD4D8649,
-	AndroidJNI_CallStaticShortMethod_m06B921F4634800E6E42691920E9DD1697491061A,
-	AndroidJNI_CallStaticByteMethod_m8993BEE7B4E82AD0B620C178421DFD134532CB61,
-	AndroidJNI_CallStaticSByteMethod_m5E1FBD3B228299120E15BC39A97BB98BFD8CEA68,
-	AndroidJNI_CallStaticCharMethod_mA3E1C0CA79C37C0E8CA480305C0195D87C4EBBF7,
-	AndroidJNI_CallStaticFloatMethod_m0DA71B5E200550A66C4880BFF404225B063ACDFE,
-	AndroidJNI_CallStaticDoubleMethod_m705917C9F0238B4C0E040C9156424FB1BD2FC4DA,
-	AndroidJNI_CallStaticLongMethod_mA9AAA7D40F0F6D5BB9EB183ED5E9ADD05714648B,
-	AndroidJNI_CallStaticVoidMethod_mE35981047575D7C0028FC4EF205B05909911F0E3,
-	AndroidJNI_GetStaticStringField_mE2A560DA43E00261DFDDA8B01B14079D4BFC991D,
-	AndroidJNI_GetStaticObjectField_mF0B7E3A4F176948EEDEAB889556A40CD3367A82E,
-	AndroidJNI_GetStaticBooleanField_m20FDB9C59C5B477D43C101AC39D1ADD1C5B43EB6,
-	AndroidJNI_GetStaticByteField_m3F4846EA0FA9F5EF07771E6D0CCA5C0064CF59F1,
-	AndroidJNI_GetStaticSByteField_mE13559FDAD40898D97AEC9CBE29BEA9703E59F1A,
-	AndroidJNI_GetStaticCharField_m084D95E7ED2D5022B036F280E1D183C7B00B5227,
-	AndroidJNI_GetStaticShortField_mAB0D32048E578260AC30D46E7F57594AE29065EF,
-	AndroidJNI_GetStaticIntField_m8B2E4B5F3430756A627A14DBA175DC9A3E095A9E,
-	AndroidJNI_GetStaticLongField_mFC6C7CB64391C4F6E6D1A979B0729352CB005609,
-	AndroidJNI_GetStaticFloatField_m8F419006E1DB6BBFF173E4C1FD5B86C6090F46B5,
-	AndroidJNI_GetStaticDoubleField_mC503C45EF1AF9B94E924AD87B310F4D50BED2ED3,
-	AndroidJNI_SetStaticStringField_mF891918A5B8138BFD1174DECADCD78AD3C124FDA,
-	AndroidJNI_SetStaticObjectField_m7E96D963B14258055D17C0CF4F75DE69CF1E4C4B,
-	AndroidJNI_SetStaticBooleanField_m437022CF80A2B4DD8937D35E6FC9AB97DCC2194A,
-	AndroidJNI_SetStaticByteField_m76665CE78512BE56F456DDA65F970F5DE5F44ACF,
-	AndroidJNI_SetStaticSByteField_m6783E6F23D3EB249A53DEF836D2AF2A713A928A3,
-	AndroidJNI_SetStaticCharField_m786E10049AA82B1F7279686EC2AB6CD7D93BD078,
-	AndroidJNI_SetStaticShortField_mBE90596812741F948E2F0EC5DEA31A2DCC6C2EF8,
-	AndroidJNI_SetStaticIntField_m451F3621E6B294A92C7FE78B640562602E1FEBF6,
-	AndroidJNI_SetStaticLongField_mC0216916DF96F79D2B9352A407E6A9BD7D7AD40A,
-	AndroidJNI_SetStaticFloatField_m11B4CC3F8B8C389FB7060058E0B1A3821FB65CA6,
-	AndroidJNI_SetStaticDoubleField_m795EBCC9C07F83E7846B6A93D402C27E1C07B634,
-	AndroidJNI_ToBooleanArray_m105D3745D21CE3B0780C3861BB455A9E29B0B9F6,
-	AndroidJNI_ToByteArray_m099C6F143979F050C4A6AECF70854153CE8B58CC,
-	AndroidJNI_ToSByteArray_m91EBEA7CBDBCCDF759D77AB5BD1AE8BF00030B5F,
-	AndroidJNI_ToCharArray_mC48F010177FFBC2F0CCAAE1B675B6C4882EBA257,
-	AndroidJNI_ToShortArray_m37FFD5AD4C5CC07127F2E64598FCD5A0924B246F,
-	AndroidJNI_ToIntArray_mB2B766977213FA271EE9044B5B781112CA274317,
-	AndroidJNI_ToLongArray_m784C3156DDD9D0D74E21F394CDFEB3C87538355F,
-	AndroidJNI_ToFloatArray_m197E51BD1D14272F35DA0FF57B9C158E3DC5DA8D,
-	AndroidJNI_ToDoubleArray_m00242343670C4CC0103A07CB766D80F53E36130D,
-	AndroidJNI_ToObjectArray_m1C7B8259B04AC6D68F56BF5F108026882B039F24,
-	AndroidJNI_ToObjectArray_m0DEED7D031FBACF3538904D9921372226D12AD8B,
-	AndroidJNI_FromBooleanArray_m082FF870EE916B9603686E35776D5369B95D207E,
-	AndroidJNI_FromByteArray_m8EC58D6AE31ADD634490F84A4F4E36831DB2EC87,
-	AndroidJNI_FromSByteArray_m5372FB70B8027721C47BE0359F538A90128288CD,
-	AndroidJNI_FromCharArray_mCDE27061131471E18F064241982F7C58921B4BCE,
-	AndroidJNI_FromShortArray_mAD7FEF4EEAEC6A3DEF148C02EF4E00002A70542E,
-	AndroidJNI_FromIntArray_mA60A708BA57B6F520260D4DC6B10E07C54E29C1F,
-	AndroidJNI_FromLongArray_m62518A89509FAD6404628618EA05A63911DB0941,
-	AndroidJNI_FromFloatArray_m01E10AC1773DE0878B8875994E74B205E42EE2E4,
-	AndroidJNI_FromDoubleArray_mB8DA303F2DC6FB96E45D6C2DEC2B1C7AF9A7D9BE,
-	AndroidJNI_FromObjectArray_m155A9CB96BB1E9605C00F0F7FD2B798794D805BC,
-	AndroidJNI_GetArrayLength_m48A34992E6BF0EF5510037EA38EB2D348634C9DE,
-	AndroidJNI_NewBooleanArray_m288913FC9091FC441A40E01CCDDB95B25AC523FA,
-	AndroidJNI_NewByteArray_mF1A7DAE382AAD63B006B83F95B5E307003E6B048,
-	AndroidJNI_NewSByteArray_m0DD8F2C3047DB1FF939DEE1A589F0607B15486AC,
-	AndroidJNI_NewCharArray_mEF4480F9A43AD9A53007A35B444B144B84CB05EA,
-	AndroidJNI_NewShortArray_m3869C59165D2950D47EBE844560BB4B084F76FA5,
-	AndroidJNI_NewIntArray_mC6D3180B723E581E9F798137D85F31EB2CCD6D45,
-	AndroidJNI_NewLongArray_mE561C4FB9BCCC7ADF906BD12CA00E6E9F2630D97,
-	AndroidJNI_NewFloatArray_m3692A4761F6C31FE75E75D971EFA4A874B1B17FF,
-	AndroidJNI_NewDoubleArray_m3A893E448054D9BF227B707DAD3DE0CBE70D22A9,
-	AndroidJNI_NewObjectArray_m40592BC65B199B1AAE32F2682D8E9236E07929EE,
-	AndroidJNI_GetBooleanArrayElement_m698A286EFC3A694BC412C2482E806E2C9D3E0C81,
-	AndroidJNI_GetByteArrayElement_mFACF46553B435156C3847FBEDEBE4B41310403B4,
-	AndroidJNI_GetSByteArrayElement_mB9F127D877A6DA5AAD84F899D5F77B82B8D93CFF,
-	AndroidJNI_GetCharArrayElement_mC4BF5565AAE43E2DC99F0B21AFD909F687A10ED5,
-	AndroidJNI_GetShortArrayElement_m97198A97EEBB73AF2255C2416633D9799837C6EA,
-	AndroidJNI_GetIntArrayElement_m864DFCF1978E21DCE1C3C1CDA14FACD7C5B2659D,
-	AndroidJNI_GetLongArrayElement_mFF25076CBF6921F65D9E12D7BE3908449B152919,
-	AndroidJNI_GetFloatArrayElement_m2217AA906251687E85E03A4E9DD02F90166F91F4,
-	AndroidJNI_GetDoubleArrayElement_m470B213238906EADA40F02225E01085EA60A5C1D,
-	AndroidJNI_GetObjectArrayElement_m502026BF77232EE45D03661E4923C2E5E99FDE18,
-	AndroidJNI_SetBooleanArrayElement_m2396E54505477FDF194DF7F1169E4B7C4B1B2D2D,
-	AndroidJNI_SetBooleanArrayElement_m1BA9401BADF300A1E3590AD81F62A754DCCA8646,
-	AndroidJNI_SetByteArrayElement_mA823EA2446BD26D31A9F41B329D47555C3ABD4A9,
-	AndroidJNI_SetSByteArrayElement_m1C1ED4D9FC7CAF82F30B367AD6E16458A45C401D,
-	AndroidJNI_SetCharArrayElement_mB048BA66E395BF0C097DE775A70013E153B3B4E4,
-	AndroidJNI_SetShortArrayElement_m0CCF2F84EE7F3A7820E77306B82B07B70C014575,
-	AndroidJNI_SetIntArrayElement_mA7C939CE03F3984533CC1617F0B8F241290DD91F,
-	AndroidJNI_SetLongArrayElement_m15EFF4DBF7679B4C6BD9E51D104BEEEC856A75A5,
-	AndroidJNI_SetFloatArrayElement_mAA6F77E2510042BE652DC58626D4E49B00B71638,
-	AndroidJNI_SetDoubleArrayElement_mBB1EFA8814F34FF3E7514E41F16F3A491B3B27E7,
-	AndroidJNI_SetObjectArrayElement_m1C6E498550EF9FCA24DBD3E6D4F2BF6764FB315D,
-	AndroidJNISafe_CheckException_m3F9EF56511586B0A605D2706DB0E0D225D14C249,
-	AndroidJNISafe_DeleteGlobalRef_m7651FA0BAEE0F4D660393C5CC6914F21270B0288,
-	AndroidJNISafe_DeleteWeakGlobalRef_m0FC9348DE2D937798DB6D6A5461021AFEBC7506D,
-	AndroidJNISafe_DeleteLocalRef_m7AB242A76D13A3BF4C04831D77960C020D6ADA39,
-	AndroidJNISafe_NewString_m5F5B2B700BDE2D0D1D105687D4ACC9567CEE7A23,
-	AndroidJNISafe_GetStringChars_mD59FFDE4192F837E1380B51569B5803E09BE58C8,
-	AndroidJNISafe_GetObjectClass_m6FD726927BEAAA70778766E29215A6CA63A93DC3,
-	AndroidJNISafe_GetStaticMethodID_m883F40A297071B64F8DE3572FDBB8B9834EF1163,
-	AndroidJNISafe_GetMethodID_mB6545767927E1F859540D99EBD39E464811E5F8F,
-	AndroidJNISafe_GetFieldID_m964429E31A5E6BDA924A8917155C4D3705B9B345,
-	AndroidJNISafe_GetStaticFieldID_mDAB49A2099123C513F789814BC9441BC220F9D66,
-	AndroidJNISafe_FromReflectedMethod_m21A25975498B872199E7B9708AF0AD6E1248E3A7,
-	AndroidJNISafe_FindClass_mD96E72414A78F50B07019D26B87A93799D85BB0A,
-	AndroidJNISafe_NewObject_m8B3CE344FE9144B92096F0A36CF75DA56C380BF7,
-	AndroidJNISafe_SetStaticObjectField_m5938A3A9EC23DAEB2B95D5A0E6992B135F3049C0,
-	AndroidJNISafe_SetStaticStringField_m68211F8AE7199583B906254A0AFCCF3FFCA505DD,
-	AndroidJNISafe_SetStaticCharField_m6140744247C135F241F084636BABF259CD4C4B88,
-	AndroidJNISafe_SetStaticDoubleField_m014570DE677A8903D99BDB58DA34937ABBE1CE3C,
-	AndroidJNISafe_SetStaticFloatField_m8B35F134FD9F75B9900F81E0610D4E1A3A70866B,
-	AndroidJNISafe_SetStaticLongField_mA092D3B6F8B5B161CC13BADE218DF3285FD2BCAC,
-	AndroidJNISafe_SetStaticShortField_m1F90C02B48C5351718EE274FDB4551B69D10845A,
-	AndroidJNISafe_SetStaticSByteField_m8D6553A2869EEFC09BA10E907FB65605C0EB3854,
-	AndroidJNISafe_SetStaticBooleanField_mEDC856B661301A176B45185A66B95C6CC76401F4,
-	AndroidJNISafe_SetStaticIntField_m5205AC5C40883B55275112F9CFAB9EB734F2392C,
-	AndroidJNISafe_GetStaticObjectField_m615DFE457A25AD2FB394BDF6F3DD55850AF009FD,
-	AndroidJNISafe_GetStaticStringField_m064C1A3DEA07C1612D33AA338908A7D24751072A,
-	AndroidJNISafe_GetStaticCharField_mF6A3901A482E2EEC61B45AB8BE09BA165DCB3E92,
-	AndroidJNISafe_GetStaticDoubleField_mD1EA08A4F28B0BB02D661F46C3956E56CD24D366,
-	AndroidJNISafe_GetStaticFloatField_m585BFE09FF627D8BB2F7C5275D899F4DB1A5B9F3,
-	AndroidJNISafe_GetStaticLongField_mE4CC316A81EC6F5298C5418DA5B23F2C1DBCCC7F,
-	AndroidJNISafe_GetStaticShortField_m2269F01B6B358EEE10FE687CB88B703E36FAF256,
-	AndroidJNISafe_GetStaticSByteField_mAAA8D590F4FBC97301674A7D7E0D9345399AF744,
-	AndroidJNISafe_GetStaticBooleanField_mC7BEB084630E9EB8CBB14C89D93E213473CF3723,
-	AndroidJNISafe_GetStaticIntField_m92B115F5D5A9F64F577F3C3A4725CB72A0AB036A,
-	AndroidJNISafe_CallStaticVoidMethod_m6D6C21C3489E19241A6856D7642CDC56752D7128,
-	AndroidJNISafe_CallStaticObjectMethod_mE83D4A0C1BF62925F8B9D4B49040A90CBA1B8860,
-	AndroidJNISafe_CallStaticStringMethod_m07A63C912305DF8135F004AAD0D4CB1C5581B759,
-	AndroidJNISafe_CallStaticCharMethod_m88B2D927CACB988E16F44DD2A8AC987474401B5F,
-	AndroidJNISafe_CallStaticDoubleMethod_m689EC57B2A63DA127AEF67654FC9DE7CB1663475,
-	AndroidJNISafe_CallStaticFloatMethod_mD83AA80C049145FF339EEEF1D8EE4FF9A49DB75F,
-	AndroidJNISafe_CallStaticLongMethod_mC9068CBB054C422BBC4D20AE922D192C0F1207FA,
-	AndroidJNISafe_CallStaticShortMethod_mDD995D10C2A525A86D1CF2E3BD5470B9ADC75FAD,
-	AndroidJNISafe_CallStaticSByteMethod_mF88F61AA2AB1756827141DA8933761D56335619B,
-	AndroidJNISafe_CallStaticBooleanMethod_mD860E0894BD76E4F2D3EB07511162C5AB31098F3,
-	AndroidJNISafe_CallStaticIntMethod_mA8298D893A80C85FA91F7B49FB158EEAAFBD9E8B,
-	AndroidJNISafe_SetObjectField_m7A14D8635FA369DC469AB07A8551ABB1390BEA65,
-	AndroidJNISafe_SetStringField_m1D921E9B91AA27939969F5AADB785BB27AE2DFE1,
-	AndroidJNISafe_SetCharField_mD8DFA656C127EBE3810BEF1DA0C422562BA44BE3,
-	AndroidJNISafe_SetDoubleField_m63F58A1A6DAF0157763A962DBB7FE21A1A891EA4,
-	AndroidJNISafe_SetFloatField_m338F61DB5996FF75790987DB6651F5ECFFB1CAE8,
-	AndroidJNISafe_SetLongField_m2D3B6DD5A09A0CE21AF74D681914CE30F5308986,
-	AndroidJNISafe_SetShortField_m0208B6F3C1F2D11F67D96013CEA2467D2FA2C524,
-	AndroidJNISafe_SetSByteField_m104442F50E9EDCE2A82FAD351026715BAF4451EE,
-	AndroidJNISafe_SetBooleanField_mB5B3413BF7C5DE2AA0EDFE184636D5131A5C8625,
-	AndroidJNISafe_SetIntField_m89BFF10436169519D325417BAF21B2FFBA370543,
-	AndroidJNISafe_GetObjectField_m79CC9295C593F2C177B9F0089EA33AFA85078AAC,
-	AndroidJNISafe_GetStringField_m8B26A09A763D5456676A45C9E71F1F246FC3E1F8,
-	AndroidJNISafe_GetCharField_mD2D8E5CD82A247059483E123F21EB5A6E0609847,
-	AndroidJNISafe_GetDoubleField_m3234939B331872123584A3E269591F66163B262D,
-	AndroidJNISafe_GetFloatField_mCBB67A610BEF6A2A5F9CF95C2742909223BF4916,
-	AndroidJNISafe_GetLongField_m63DAB3972DC308BA93D8B5ED004BE953F92FBB2E,
-	AndroidJNISafe_GetShortField_m3C1E30E3B9925351B5A9AB76506AD181F7D18574,
-	AndroidJNISafe_GetSByteField_m14164367920831F6BFF08FFA40B35EDE5683B940,
-	AndroidJNISafe_GetBooleanField_m4437FA6D516AA5992470EA1411F8313880547556,
-	AndroidJNISafe_GetIntField_m01C6A33228FB20906508F9AEA78BA69A4C411F9A,
-	AndroidJNISafe_CallVoidMethod_m2695A49851FB9538D74814002D8DB04CDEEEBA26,
-	AndroidJNISafe_CallObjectMethod_m4460C901E09ABB037442FB973BAC678C70687875,
-	AndroidJNISafe_CallStringMethod_m09F6D302969373907F07432407FAA64F33FDD941,
-	AndroidJNISafe_CallCharMethod_m84323BEB15D11EE402FB095AE4F936CE8DEDF233,
-	AndroidJNISafe_CallDoubleMethod_mF204165E66900998B64E8F66B47903C4DECD95E0,
-	AndroidJNISafe_CallFloatMethod_m74BA67E88AF91520E756C51B6CB4A5C74A34D5B4,
-	AndroidJNISafe_CallLongMethod_m1FA0BF14125D8B346FDD85251F2D27A0BF6C0D07,
-	AndroidJNISafe_CallShortMethod_mCD55A084D3F33698BB673E23DCDE909B12A9F706,
-	AndroidJNISafe_CallSByteMethod_mA8EBD62443BBEF0F2152F2CDF0C505EA6A954F02,
-	AndroidJNISafe_CallBooleanMethod_m4D26DBA1123583C6C53D88116871073A8B3A9C70,
-	AndroidJNISafe_CallIntMethod_m2F86750DC70184A72557E555BE389E6B8C99F9F9,
-	AndroidJNISafe_FromCharArray_mA49DB27755EF3B2AE81487E0FCFE06E23F617305,
-	AndroidJNISafe_FromDoubleArray_m9438B5668E8B2DB3B18CACFF0CC9CAEAB5EC73C8,
-	AndroidJNISafe_FromFloatArray_mF6A63CA1B7C10BC27EEC033F0E390772DFDD652D,
-	AndroidJNISafe_FromLongArray_m0E7C56CB8CFD0EC240F0D86ECBBFD635FFE55CDA,
-	AndroidJNISafe_FromShortArray_mCDF5B796D950D31035BD35A2E463D41509E4A5CD,
-	AndroidJNISafe_FromByteArray_m81760A688AECE368E1CFF7DAAC8E141F1B8FA8A8,
-	AndroidJNISafe_FromSByteArray_m01F6539AF10F86B3927436955B57CC809C52416D,
-	AndroidJNISafe_FromBooleanArray_m77A66C34FCB94ADB1AD5E1D88262500C930A5DBF,
-	AndroidJNISafe_FromIntArray_mBF0C0B4309BA525BBA12D7FD3C2790C8FA7C4703,
-	AndroidJNISafe_ToObjectArray_m669E5441604094D8A20E3C1F1F5407AE985F82B8,
-	AndroidJNISafe_ToCharArray_mC1083C57846830CFA1A7CFFE5BE92F3B826FAC1D,
-	AndroidJNISafe_ToDoubleArray_m0273BA7E9FBD2216215EBD176C8F329973BA53E0,
-	AndroidJNISafe_ToFloatArray_m28D93667CB9E86FE20D0FC8B372BE26CEE9D8A19,
-	AndroidJNISafe_ToLongArray_m0C3D6AD8D2D116C3F11AECD5317AC01EABE16727,
-	AndroidJNISafe_ToShortArray_m52204D9DB65374293E9D6954A2C9C4D47B4396D1,
-	AndroidJNISafe_ToByteArray_mCA96D852C39F79F57A8B68B8B03AF9EC795EA6D9,
-	AndroidJNISafe_ToSByteArray_m6C05420E192FBA37D7B168EC98BE04F56492087B,
-	AndroidJNISafe_ToBooleanArray_m2298F4521FD7F175F15B30FF7887D365BD1543BB,
-	AndroidJNISafe_ToIntArray_mD2FB6E5F31F6FD8A12DD3E86E1022EC14AFF5D0C,
-	AndroidJNISafe_GetObjectArrayElement_m3219215297449FA1854927E80F1B74EF7413EF73,
-	AndroidJNISafe_GetArrayLength_m3015C191DBFC246946A88592731441A934507B56,
+	AndroidJNI_AttachCurrentThread_m4BDA2604BFEF76FD133EECB511C87486387A542F,
+	AndroidJNI_DetachCurrentThread_m5ED036BCF88773D2E42DE529F09B88739A5EEC5F,
+	AndroidJNI_GetVersion_m7E93547DCA7DEEDFD05A45E51070193A349A24D5,
+	AndroidJNI_FindClass_m35CA47A458527E778188E0DAB30E5C7123568C6A,
+	AndroidJNI_FromReflectedMethod_m5CD5D729593B5F0847D47CBDBE9A8945302C1CE3,
+	AndroidJNI_FromReflectedField_mC3764CF5056B1D5C8A13E495B00C5CB8C2C5AA2E,
+	AndroidJNI_ToReflectedMethod_m2192F9DE56A21FA90DB632EDA435EECEBD2AD9EF,
+	AndroidJNI_ToReflectedField_m18F926C0366B8F4858B32A22CD1D113E430F8CFC,
+	AndroidJNI_GetSuperclass_mB4D022920F05E709C4A47BD40280A1188628EB6F,
+	AndroidJNI_IsAssignableFrom_m1269DF68F64C0C88AC3E019D377C5620A01B8997,
+	AndroidJNI_Throw_m7D922C270A9F4BAD8CA524BC977052A7C9DED3CB,
+	AndroidJNI_ThrowNew_m57AAF3928186C1ED41A696C78BCE9D7055A200CE,
+	AndroidJNI_ExceptionOccurred_mFC131075AAAFFD4A8D511363B749E42B172B42C0,
+	AndroidJNI_ExceptionDescribe_m06934CD71438E34E7AD23A6C68857DEAFDD92CE7,
+	AndroidJNI_ExceptionClear_m6FA4D64946FB39496A416E7CE6868E337A8C29FB,
+	AndroidJNI_FatalError_mFBAB27A149174340F6132F1C6044DE290E4878E8,
+	AndroidJNI_PushLocalFrame_mBE32A038C6E4E5FE5C0661981EDCC57D79D5B20D,
+	AndroidJNI_PopLocalFrame_m0BE71C6B792A2E3F744FEBCC799FD5511F74CD6E,
+	AndroidJNI_NewGlobalRef_m0CBCEAE2F24C059B441287FD8878E69C97A4609C,
+	AndroidJNI_DeleteGlobalRef_m5D1E60290B99019EB4CFF1FF2BB965E5B690F5DD,
+	AndroidJNI_NewWeakGlobalRef_m984CDA34234D997E64ACCBCC71D53A97454EA162,
+	AndroidJNI_DeleteWeakGlobalRef_m49B0AC00D8B95435A95013BCE656E3F04A72598E,
+	AndroidJNI_NewLocalRef_m87E92FA6F371946D739C72EE34A021C9E5779DF6,
+	AndroidJNI_DeleteLocalRef_m0640E773BAD2A500DB3A70F13072B5155B855D91,
+	AndroidJNI_IsSameObject_m86CE217DB7CB72215A9161A925B050FFC947CD58,
+	AndroidJNI_EnsureLocalCapacity_mAD1DA6E509A9540B77F9BCCA4F43E7C27DBAFC3F,
+	AndroidJNI_AllocObject_m8B987D4A2F86788BFDD7FDB3C528CF855C1D6CBD,
+	AndroidJNI_NewObject_m02A159629121FF8B03A612F2B7BB412E95BEED9C,
+	AndroidJNI_GetObjectClass_mDF3386F6A5A606B1772741A6706B69861CCBFDFE,
+	AndroidJNI_IsInstanceOf_m0113B9BE54712FE44473A8544DB166779301E5CF,
+	AndroidJNI_GetMethodID_mFF49BAEF9F697F41B4325F9C6B2E7443D91AA0B3,
+	AndroidJNI_GetFieldID_m7E66B43BBF9FFF6578039F549C33DC531C17ADAE,
+	AndroidJNI_GetStaticMethodID_m501CE9457D8834DB97B45AB1EF3FBCF5C0052B36,
+	AndroidJNI_GetStaticFieldID_m2A9971AE72A90833F8610F069D7E57D44D78F2AB,
+	AndroidJNI_NewString_m67DD4C3BF62BE2EF854288AE991E9C49CA97C8E8,
+	AndroidJNI_NewStringFromStr_mF0F3F777C3349DFFBCA76B342D1CC885C13BC52C,
+	AndroidJNI_NewString_mCE065DFA2528A52D60EE6845A4B8919262EA819A,
+	AndroidJNI_NewStringUTF_m2B647D8594E23100D845FC1E86FC8AB18B091471,
+	AndroidJNI_GetStringChars_mA34525423F3506039FFF8F4E6F3F0F263A5FE723,
+	AndroidJNI_GetStringLength_m0286C3FACCD9C7FF69FDB1CD7BB757D49DF506FF,
+	AndroidJNI_GetStringUTFLength_m16F74DBB35125A1518B3144FF6853D11B9240847,
+	AndroidJNI_GetStringUTFChars_mE3564ACEEB53CA4418CED0CB1618483ED5C8F676,
+	AndroidJNI_CallStringMethod_mE09892DC06071212833B3C708EC47EE5EC059C80,
+	AndroidJNI_CallObjectMethod_m3EBB2273B0EA84B457CBCF76A5E9F090EEA093A8,
+	AndroidJNI_CallIntMethod_m127D249914A292870FAB52D12B28144FC8E7275E,
+	AndroidJNI_CallBooleanMethod_m0CDF725FF2C96E5B72EA5F2343A2B8FD8BDA20A7,
+	AndroidJNI_CallShortMethod_m663510B7F4E94A030DE4A05E70682A6EFA90F13C,
+	AndroidJNI_CallByteMethod_mDF75D266569801FCBECDC3954863F788384EA997,
+	AndroidJNI_CallSByteMethod_mE213EDEB1EEF789DE37BEA74A05D046E7807E20E,
+	AndroidJNI_CallCharMethod_m17E6E525A5D1B048FDAE20B99C61A43BA32FC8E2,
+	AndroidJNI_CallFloatMethod_mD2438B99FF13BFFE6D834FC7C1C3D925E47CA317,
+	AndroidJNI_CallDoubleMethod_m810BC723EBEFFCFF698965D9A588064CFC40232C,
+	AndroidJNI_CallLongMethod_m9232E3B51D89ABAA7D9BC58B42B444156102EABC,
+	AndroidJNI_CallVoidMethod_m0BF2683A2CD5BA81C057DFC07F417115310B0283,
+	AndroidJNI_GetStringField_m15CDC58189B81C49C19276E00BE3F80656342DDF,
+	AndroidJNI_GetObjectField_m2ECDAF74FFF7EFC858205F87C7264C25C976ED28,
+	AndroidJNI_GetBooleanField_mC6F5A0CC5D55A970EB7AAC480395BC8FD6CB17C8,
+	AndroidJNI_GetByteField_m5A9BF4A500957174ABF838DF7F37FC186A8C2EB3,
+	AndroidJNI_GetSByteField_m0B33376868BE72599A879612BD4968A3451AB3F7,
+	AndroidJNI_GetCharField_mA62DC950E6EE8C88F8126389843A0F9408F33554,
+	AndroidJNI_GetShortField_mC3CD99C2CBFA7F0B11C8527D64FE023344F59E2C,
+	AndroidJNI_GetIntField_m5404C0E1CF43B015DE5BA6B27E8BA3EFEA596098,
+	AndroidJNI_GetLongField_m96A3820B70125505E5A9134EB79E16687A992A59,
+	AndroidJNI_GetFloatField_m3B29211A1F4FBD7DBFD3D6F39A2CAF30F02947F5,
+	AndroidJNI_GetDoubleField_mA9724BDC49822C2C8F1E733B3333FB27207FB122,
+	AndroidJNI_SetStringField_mF27A80EDDDE5368DB6BD80BA90703E111F0089BA,
+	AndroidJNI_SetObjectField_m5BF0CCFB5A9C3B8B44237CB68DC6598E3FA290B2,
+	AndroidJNI_SetBooleanField_m2B5CE4C256449AAAFE7E4D067570FDC05ACAB66A,
+	AndroidJNI_SetByteField_m049DAA6C39F42D9360AA02A8F6904CED938C4E7C,
+	AndroidJNI_SetSByteField_m6DA65F56C2F70D82558BD693460E3576DE499084,
+	AndroidJNI_SetCharField_mFAEF7DEC5A75F371D331534E57D2C28058CBA34D,
+	AndroidJNI_SetShortField_mFB10E21E17DA935E38D438678CDE0843EB376FC0,
+	AndroidJNI_SetIntField_mB2BED3DDB77A83C258B0DBDC8D78BAA2B6110FED,
+	AndroidJNI_SetLongField_mAB602617DF0098E1CEA6179A5310A99373AEDB30,
+	AndroidJNI_SetFloatField_mD05BC7B5BC96CFE51D1C837E10B2E944605A0C53,
+	AndroidJNI_SetDoubleField_m84C6D8C178081527ACD047F331FA9B365216F06C,
+	AndroidJNI_CallStaticStringMethod_m864F9AB1371B0FDF09703634526B10347F2C2F15,
+	AndroidJNI_CallStaticObjectMethod_m0601132D53321BDD71EC8825442D425D6A62AD85,
+	AndroidJNI_CallStaticIntMethod_m55AFC39C5E59C66C4773524231A41002A9A301C1,
+	AndroidJNI_CallStaticBooleanMethod_mF0CF8B276B05D318DD21001D33C717D623CF0AE7,
+	AndroidJNI_CallStaticShortMethod_mBBA7160FA2070E2062D8A2CFDD1C5B77643B15C8,
+	AndroidJNI_CallStaticByteMethod_m3575B3E1E23C35444C23351ACEE146A35CB462BA,
+	AndroidJNI_CallStaticSByteMethod_m72D27748B5B1FD9446F2820039D17F5BFF6E94A4,
+	AndroidJNI_CallStaticCharMethod_m9C08344C6A639451AABE718F0ED27D24C7EDD6A5,
+	AndroidJNI_CallStaticFloatMethod_m01779727D9A97191F0A4C54B5241E8D7D81CEEF3,
+	AndroidJNI_CallStaticDoubleMethod_m120E0E4E343D41C41FB8E0B37272E6D4AB284ECA,
+	AndroidJNI_CallStaticLongMethod_m432BF984FAD4465BD4A4B4ED18430063EEA6AFEB,
+	AndroidJNI_CallStaticVoidMethod_mB21A9A17469B148C29C36852C91C835D621B8B31,
+	AndroidJNI_GetStaticStringField_m42CE78EBEFF78787FBD077F75B30616ACF924312,
+	AndroidJNI_GetStaticObjectField_m94337EA629C5FE55CFB37F8F02A609434FEB5D89,
+	AndroidJNI_GetStaticBooleanField_m909A15A903875C5D6B3BFA29A67570F96A701C0D,
+	AndroidJNI_GetStaticByteField_mBCCA31F18EFFAC33D829DE13F4CCAB20177EDA09,
+	AndroidJNI_GetStaticSByteField_m591172C28B493955970211BF6AD6F8C7B37AA035,
+	AndroidJNI_GetStaticCharField_m5832AF70C4800FFF72B41A16E388A2CB720202B8,
+	AndroidJNI_GetStaticShortField_m407C3A7C748C7E740CF0E5672D839F6ACF14DC05,
+	AndroidJNI_GetStaticIntField_mC9C4BFE272E82E8DC6628BA07AA0ADDEB5433217,
+	AndroidJNI_GetStaticLongField_m9C1B0514A77EB5D18C5251B8B9F4A3156BD3F28A,
+	AndroidJNI_GetStaticFloatField_m475E8F19BCF56B33B4CF70FF00E44C6E2592E5B1,
+	AndroidJNI_GetStaticDoubleField_mED2640B91B2C70640ED82CE175D8B3DF8CE581F7,
+	AndroidJNI_SetStaticStringField_mF2D3B4DA22AAA391BDB8966BBF93C11901E08AC0,
+	AndroidJNI_SetStaticObjectField_m7EEFE1625CE0108C099A95916D99ADFF5C6E66E0,
+	AndroidJNI_SetStaticBooleanField_m4692292793FD22884A29F37CF94156354016CF4A,
+	AndroidJNI_SetStaticByteField_m71B327DBC55011F8D158FCC8DAD1BA3802071CC2,
+	AndroidJNI_SetStaticSByteField_mAD2E0501AF1543EA0EAB3EC06805F289C285FEE1,
+	AndroidJNI_SetStaticCharField_m70BC109B15FFF9869C8489FA7F705BA29D077349,
+	AndroidJNI_SetStaticShortField_m1D93C5C1855910E4325C6A0303F3CB449BA6F57E,
+	AndroidJNI_SetStaticIntField_m4EBC369AE098567347522F13045E0E419F157846,
+	AndroidJNI_SetStaticLongField_m7D1CB72059F8E08C69C7140BE833A18E1785B556,
+	AndroidJNI_SetStaticFloatField_m4DF45682CBEF0BBE142C42DB5357FBB1E4DCFC96,
+	AndroidJNI_SetStaticDoubleField_m0A173744EC30E7E66788B7D49016469EDE175B94,
+	AndroidJNI_ToBooleanArray_m0F6247E9CD971CFC3195DF56228139AD6944C454,
+	AndroidJNI_ToByteArray_m1D13415CE31007C396246CFD721D7CC0B6BE3D89,
+	AndroidJNI_ToSByteArray_m3733221CDDCBE6F6E16CFD52194998F49F5739B2,
+	AndroidJNI_ToCharArray_m7A762D085ECCE53C849F82DE1F7D31D0FC0ECCE6,
+	AndroidJNI_ToShortArray_mE291B1FC62FC5C4C97A1BEDBF79CFE087873E44B,
+	AndroidJNI_ToIntArray_m746B3A15E782ED454B6EB8574C887FE7E5B0E1C3,
+	AndroidJNI_ToLongArray_m6C231C8FE5E31C148C644FD4EEEEE7A824EFA5E5,
+	AndroidJNI_ToFloatArray_mB0C6CEEFAD5F590F6E7DD8D6C039F724012B6DA9,
+	AndroidJNI_ToDoubleArray_m222C645E8DDA4E4ED85528396DB67012B0BC25F8,
+	AndroidJNI_ToObjectArray_mABBA3396E1FAB07B18841109375EA9FE6EC7D638,
+	AndroidJNI_ToObjectArray_m7F7CF6065077A60537B8E6B082877AD8D06009C6,
+	AndroidJNI_FromBooleanArray_m720A735A65351612CAE3B2A945CDB0D5F28410D0,
+	AndroidJNI_FromByteArray_mF9E0A8B97ADE25C3DDC59AB6CECF597AB346AAB2,
+	AndroidJNI_FromSByteArray_mA20709B6C87AF63CBD8DDD4D2DDD57E299A52B3E,
+	AndroidJNI_FromCharArray_m856090D7B9D19A40FFE562BA46F4DAF43D43D883,
+	AndroidJNI_FromShortArray_m2730004110D2EEB54E1476957F268792DE68F2F6,
+	AndroidJNI_FromIntArray_m774925C30510F5504BEA17EA9B863E97955D6EAA,
+	AndroidJNI_FromLongArray_m7112B7F6C234E7CD36DEC86064790C59B8DE0C6F,
+	AndroidJNI_FromFloatArray_mCD844F6AC98D81C0089CE1332D5E660EAC8A45F5,
+	AndroidJNI_FromDoubleArray_m4214A1F5FE02F602A573257C7D8933F0AC851712,
+	AndroidJNI_FromObjectArray_mF9799243ED88465FFBC945CC590A1016BACBAB6C,
+	AndroidJNI_GetArrayLength_m4FF062F3EA299E730221E1F704C0EF5754289628,
+	AndroidJNI_NewBooleanArray_m3EEE42B2D06EA2E2BB83FF61CA6D91FC45BA66A4,
+	AndroidJNI_NewByteArray_m672FC4C62B9A0FE207B9803CD0C1FEE7AD9C50AE,
+	AndroidJNI_NewSByteArray_mCDCAD69117FB709F5BA846B1D4F32BB8C62286C0,
+	AndroidJNI_NewCharArray_mCB0F2E31E7E4B5F9A1F5645AD81CC5D684C7CC86,
+	AndroidJNI_NewShortArray_mA62CBF85A8C18B08ACB48994A45CEF25EAFDCCD2,
+	AndroidJNI_NewIntArray_mFB2F9D2999B033964F0EBC729427A850990E4DCD,
+	AndroidJNI_NewLongArray_mD93687120B3995283240FC90D3B1EC000C30BC4A,
+	AndroidJNI_NewFloatArray_m9BF2DC6A5AC363C21FF7DD4F5CE3CBDB9434370A,
+	AndroidJNI_NewDoubleArray_m000781D638E736BDC2D6E440A1A31D85DE29148F,
+	AndroidJNI_NewObjectArray_m0DB0214451F4A4D19F04652627B2F47026E63BCA,
+	AndroidJNI_GetBooleanArrayElement_m3E51FAA68D3352ACA5911CE0E2032E5FF1DA57F6,
+	AndroidJNI_GetByteArrayElement_mE29893FA1EB00299D8AF4B495B2B192FD58D46DB,
+	AndroidJNI_GetSByteArrayElement_m3CDF3A7E65954B99C7C4843E50C026AD6E275950,
+	AndroidJNI_GetCharArrayElement_mED8D5721ACDE21AD1790FD15A91197A6F1F90A08,
+	AndroidJNI_GetShortArrayElement_m5079ED9866E6A1754042CEA454207C1FCEFA7C0B,
+	AndroidJNI_GetIntArrayElement_mB5952072ED8300A93B8780697ABCC075F4204233,
+	AndroidJNI_GetLongArrayElement_mB8AD82005A3DA5E7DA3A486A194FC31D7430C879,
+	AndroidJNI_GetFloatArrayElement_m83D21486623E436E454E2947D8A002E1644C12C8,
+	AndroidJNI_GetDoubleArrayElement_m1B3CC7B6E35842FC3F3D56D11770915F18F0B6FE,
+	AndroidJNI_GetObjectArrayElement_m9D4E78BE1E314141634A26ACB948719708054727,
+	AndroidJNI_SetBooleanArrayElement_m4E69F5646DC1664E2E10A97F8CD7C0C8A12D5B00,
+	AndroidJNI_SetBooleanArrayElement_mA2D81F8F7D268354E7D801FF8F0D7E4D49ED34B0,
+	AndroidJNI_SetByteArrayElement_mC43F35089DE3344FDA6B98C42B627EDF8E78FA72,
+	AndroidJNI_SetSByteArrayElement_mE278CF45D35DAD1652B24947F0ECB5FDAD9085E9,
+	AndroidJNI_SetCharArrayElement_m07CB14646AF9354E06FCC5B9788F3D9DB8170698,
+	AndroidJNI_SetShortArrayElement_m88874061CF3F49D18A03A4C1BBA4B9C4A9E0D490,
+	AndroidJNI_SetIntArrayElement_mBEA799839B9FB3F618EB011A0BB8EC821E7ED9D0,
+	AndroidJNI_SetLongArrayElement_m8F8017844496B62EEEB7EA4B21B09C6B49D472A5,
+	AndroidJNI_SetFloatArrayElement_m6B53916489A13CC3CF9F90F9542BD80E040325E0,
+	AndroidJNI_SetDoubleArrayElement_mCC9DFD37707F271CA997C20AD66694DC20D748C1,
+	AndroidJNI_SetObjectArrayElement_mDD16A48E1DA055EE8ACD4065552B2D5EA9CAA0E0,
+	AndroidJNISafe_CheckException_mB129CD38BBE25FCA12F4566ED2DDC0216D7201D9,
+	AndroidJNISafe_DeleteGlobalRef_m3F1A798E9B36CFADA2B4D9642AB518D97FB9A975,
+	AndroidJNISafe_DeleteWeakGlobalRef_m680EB63DEF7D2B378CD76EC14270F436D7E9CCA6,
+	AndroidJNISafe_DeleteLocalRef_mA01249A781F9364DFEA78DE907B9CDA1A174E8AE,
+	AndroidJNISafe_NewString_mB3309A8C075C006A7C1E0EC91C69374EA6AE5356,
+	AndroidJNISafe_GetStringChars_m9BF01A532EDDB97D55A552AD493FCA0F556669E8,
+	AndroidJNISafe_GetObjectClass_m51FDFF60A2A56B970BE41A28D7CBF53D9BA6FC24,
+	AndroidJNISafe_GetStaticMethodID_m9A12CADA3B27CFC904F060CA20D52EF5ED789CCE,
+	AndroidJNISafe_GetMethodID_m8F93B005622C963DBB76F72E9A308D2B63EF1CAC,
+	AndroidJNISafe_GetFieldID_m9236F3315104F566CD96C3FC88804357D04F3D22,
+	AndroidJNISafe_GetStaticFieldID_m1069199092B17A90933B51436F4F1EEE07FADF5E,
+	AndroidJNISafe_FromReflectedMethod_mA8CBBABDB2EBF0E44052B4E622AB175F79DFF02A,
+	AndroidJNISafe_FindClass_m6A098856373606201AE9A3FB503865D788AE6906,
+	AndroidJNISafe_NewObject_mA904997739C2D552EB2E63ED33D2555BB399A3FB,
+	AndroidJNISafe_SetStaticObjectField_m8FFE78AB38419540607BEEE047D99AF9C359EA37,
+	AndroidJNISafe_SetStaticStringField_mA9D55DC197672C5313ADADBDE191E6A0306666F6,
+	AndroidJNISafe_SetStaticCharField_m18330C213AEE66B8BCEA612F5FDD3BE790160204,
+	AndroidJNISafe_SetStaticDoubleField_m86A31B9564A67E4C0F58E8EC8C230F6546EFE2C9,
+	AndroidJNISafe_SetStaticFloatField_mE978F5D7EBBCF8C55E2AE5F9BE48BB5E882AB30A,
+	AndroidJNISafe_SetStaticLongField_mDB641FC92EF909F23D7DFF7D394923C68DED65D1,
+	AndroidJNISafe_SetStaticShortField_m76C9352B7035BAA31DCAE6EA7F4F0CA72C6300F1,
+	AndroidJNISafe_SetStaticSByteField_mBD64B7587AC84F05DED4072D8E9FF96E1D89EF5C,
+	AndroidJNISafe_SetStaticBooleanField_m9E13187D1C48F0077BC8445B5664665B8BC771CA,
+	AndroidJNISafe_SetStaticIntField_m49FD103762D5BDAABB57C984E3C2D9D64C5F602C,
+	AndroidJNISafe_GetStaticObjectField_m1E160752B81117A3011BA08491C76D605C928A3A,
+	AndroidJNISafe_GetStaticStringField_m797C4BF9E360C59AEA19CEB7D968B4F890AFCB92,
+	AndroidJNISafe_GetStaticCharField_m4FF6966837A76028C6DEF9F9627596BF15AF853D,
+	AndroidJNISafe_GetStaticDoubleField_mD3FC8D3BF793D3EEF5E09C323EFD1AA9940713BE,
+	AndroidJNISafe_GetStaticFloatField_m9A0B6D8422348C435BF0B162BBA3BF2398C367E7,
+	AndroidJNISafe_GetStaticLongField_mE21F6072A6C667F03099C76251D3AD55F7290B3C,
+	AndroidJNISafe_GetStaticShortField_m27844C1495DC221421632E69F435BE06FA358AE8,
+	AndroidJNISafe_GetStaticSByteField_mEFF4FF349D74554A04B46AAD9BAD2FC38D127FA8,
+	AndroidJNISafe_GetStaticBooleanField_m4BE0DB50C689A33BD2155CA3E374F8DCDA1D3175,
+	AndroidJNISafe_GetStaticIntField_m72F81AA991CA4BD8FAD87B3EE2A6531A1B049424,
+	AndroidJNISafe_CallStaticVoidMethod_m82D3FEEC204FB4AC380A38D21F3CBA1C39C96641,
+	AndroidJNISafe_CallStaticObjectMethod_m4D0D7694AF57731B895D3EE6624EEE24B90264B2,
+	AndroidJNISafe_CallStaticStringMethod_mAA0A83FC01520241CE71A63608D0930FD2CCC49B,
+	AndroidJNISafe_CallStaticCharMethod_mA7DABFA2640148CE4D78623C74BD07ADBB798E09,
+	AndroidJNISafe_CallStaticDoubleMethod_m91329AD3D9164B4805FF3129D226F5E176F544F9,
+	AndroidJNISafe_CallStaticFloatMethod_mD2EE2202A22B2DE17B216401EC9806CBDF6A5023,
+	AndroidJNISafe_CallStaticLongMethod_mBEF3828B588E18CE4366429338D06A1D2C7D70E5,
+	AndroidJNISafe_CallStaticShortMethod_m9ECDEE47679B84EF709795E9FCA95BA0153E1D72,
+	AndroidJNISafe_CallStaticSByteMethod_mF76AA217926E57302DB89470B5C089FFE0D667E6,
+	AndroidJNISafe_CallStaticBooleanMethod_m6A4705BF643A65F96244E6CF6FE72AB583049A9E,
+	AndroidJNISafe_CallStaticIntMethod_mE3503898F47B13B069695EB68CA11C93D7B112EB,
+	AndroidJNISafe_SetObjectField_mBD1B995DAF02018A0A544314BE0E0DA9A0F5171C,
+	AndroidJNISafe_SetStringField_m485D3FFD91A4BF2629900B1FB63CCC25BC4191CB,
+	AndroidJNISafe_SetCharField_m6B7DF1E7EA39D7646FF22E9F63DD469C37F37554,
+	AndroidJNISafe_SetDoubleField_m2BDF48FE66AB33385A6BBFFF72680C4591A5E288,
+	AndroidJNISafe_SetFloatField_m00A0FEA9D4E45BC31CAE6C19680E25EBF837B532,
+	AndroidJNISafe_SetLongField_m9971F7F5928B458074164C1DBBE2C6B422809179,
+	AndroidJNISafe_SetShortField_mAC818C765BEA95F71BF943F64AA53D5832489636,
+	AndroidJNISafe_SetSByteField_m5AC7C7E7D316D9E5785A0DA1C134BC1694D001F6,
+	AndroidJNISafe_SetBooleanField_mC9B41F7DD26C36CDBD9C644EE6036BD0979A1F7F,
+	AndroidJNISafe_SetIntField_mF55C710759D8512C175ED69AB4BF736E570DB45A,
+	AndroidJNISafe_GetObjectField_m91545B311AC4DAA8F38A937F0679277917FA7892,
+	AndroidJNISafe_GetStringField_mBC1716407F932E89B1110ECE547770480EEE07CA,
+	AndroidJNISafe_GetCharField_m007EC43BEB159100767F6485C768824DC9EF90B2,
+	AndroidJNISafe_GetDoubleField_mEDE5E15ACDDA40E0F673D88BE62784F5A0A06957,
+	AndroidJNISafe_GetFloatField_m9637EF8B8E964B7F7CF9C23871EDE411A3362746,
+	AndroidJNISafe_GetLongField_mCBB0B800D627FF2A3EBDFB0117B6A5AB1890BC70,
+	AndroidJNISafe_GetShortField_mF275D46B8DA641949E39B250C338F147F8BFB701,
+	AndroidJNISafe_GetSByteField_mB5DD4AA1B8986BD295A8EA4E638E456BCCFAE566,
+	AndroidJNISafe_GetBooleanField_m32AF9A0F0538463F3475B3DF86CAA20482C97EFA,
+	AndroidJNISafe_GetIntField_mC6BE70ED933532599667024D89F5AE1029DDA1E0,
+	AndroidJNISafe_CallVoidMethod_mC2A5489151E3D56467FEA9762684A1FBCC201C76,
+	AndroidJNISafe_CallObjectMethod_m223C63966A73E23145180079470BD49C56D2F9BA,
+	AndroidJNISafe_CallStringMethod_mB268997CA18EF3343019308959A619C4C3820891,
+	AndroidJNISafe_CallCharMethod_mB306445351D496DBAC531F3DAB699A30024AEA07,
+	AndroidJNISafe_CallDoubleMethod_mB5942D848CF372EADF39CCF3CF5B5F4385C927C0,
+	AndroidJNISafe_CallFloatMethod_mB14DBDEB900A35991155EE7C1739C1DEB112B28F,
+	AndroidJNISafe_CallLongMethod_m41D5D8467D274916EC33C33AC7540F88F8F46172,
+	AndroidJNISafe_CallShortMethod_m5FA668201182B432D880AF3F035C1DD542FC6D6B,
+	AndroidJNISafe_CallSByteMethod_m04C4E22429DCA9E3271A905387CBA406DD170F16,
+	AndroidJNISafe_CallBooleanMethod_m3253095C758D3CE4C3C1FCB2E55B956BB6D832A4,
+	AndroidJNISafe_CallIntMethod_m2B2E4495CF5E2135E8F42D3E90F7C0902AD78771,
+	AndroidJNISafe_FromCharArray_m89C34EFEB01E5CD0BE1BC887DCDAFEA08D109CC5,
+	AndroidJNISafe_FromDoubleArray_mE04CDB2DB5C370D911932A6E39129373BCA61F78,
+	AndroidJNISafe_FromFloatArray_m6AAD54CA85C4DDBCE6B97452C70C9499D87C1870,
+	AndroidJNISafe_FromLongArray_mF288E2462595D10E09175957923103B5AA77AE81,
+	AndroidJNISafe_FromShortArray_m967E0145E1CCD91B7A71A8CA1EC571887B637808,
+	AndroidJNISafe_FromByteArray_mD8574154381ED1F115082B1C729FDFB6B38AB452,
+	AndroidJNISafe_FromSByteArray_m09370C783EB0D689FF1BBF662BD14EC6E83967B2,
+	AndroidJNISafe_FromBooleanArray_m59EBFEDF2F02FBBC0E6F5C438DDC1046D792283F,
+	AndroidJNISafe_FromIntArray_m637AA08C7F6FFC5CCE3A548AFC9A5F649139E7FA,
+	AndroidJNISafe_ToObjectArray_mC6B3036691E5731978E2CF792759AA10D7BBC337,
+	AndroidJNISafe_ToCharArray_mCA6E04C48615372BEF89C7FDF2CE7FDD1E001BF4,
+	AndroidJNISafe_ToDoubleArray_mC3E4F76BE9EA0FBF0F9C31D99DAC5A56C30BD58E,
+	AndroidJNISafe_ToFloatArray_m19DFDC1CBE592872AEB7B50021456C265687E07E,
+	AndroidJNISafe_ToLongArray_mE0E955A472A920B2F189B49DDADE22F00E2C8CB8,
+	AndroidJNISafe_ToShortArray_mFA01F104310D594C3884A8BD697A963568D07B91,
+	AndroidJNISafe_ToByteArray_m7843B87143DAC4FC16F3C0B5D44BA44158D7DBCF,
+	AndroidJNISafe_ToSByteArray_mF90F6599E51AA285738E2013753DEA1917C3B224,
+	AndroidJNISafe_ToBooleanArray_m423EA13D4D1D1B253DD04ED7EE2CAA8E916C5DD5,
+	AndroidJNISafe_ToIntArray_m6942A9FD3416839F741B033C85E1ABFDF1549BE4,
+	AndroidJNISafe_GetObjectArrayElement_m58038654EA99F36B2B6E3B992DA845FF340D4B46,
+	AndroidJNISafe_GetArrayLength_m606B22284E0BB24E92FB7A3A8B5A878798281AA8,
 	AndroidJavaRunnable__ctor_m385F79E7C422595C3F8504D588807799A7CF4727,
 	AndroidJavaRunnable_Invoke_m014FD2895FDB86ADBD97D9CEC201592673D9593B,
 	AndroidJavaRunnable_BeginInvoke_mC5CE46E7743D650AFC705153AEACED181B1FC15C,
@@ -1070,7 +1072,7 @@ static Il2CppMethodPointer s_methodPointers[395] =
 	AndroidJavaException_get_StackTrace_m3A87C920F33472028A05370C7C320C0196B209E9,
 	GlobalJavaObjectRef__ctor_mC4872ABD6EDA3531D1012C2FB7B73EE2B1652C5D,
 	GlobalJavaObjectRef_Finalize_m455E5786F72D4A0DBBA209EE67AE763130FBCE3A,
-	GlobalJavaObjectRef_op_Implicit_m7A992ACF399BAD3EFC96D88CE00B235D8B669B33,
+	GlobalJavaObjectRef_op_Implicit_m8573DFC0939E91FAA4E32C87D7652907626D3746,
 	GlobalJavaObjectRef_Dispose_mDAF2DE01EBD608E63CB661954D0B50015D08FF28,
 	AndroidJavaRunnableProxy__ctor_mDF1B01EBE4C312B67A43B452B440303855973A89,
 	AndroidJavaRunnableProxy_run_m7770FE54D2867F05548A29439948B98C987CD0AE,
@@ -1084,7 +1086,7 @@ static Il2CppMethodPointer s_methodPointers[395] =
 	AndroidJavaProxy_toString_m640E93A9A14B25B7558AE587D6CBE6DB945A0504,
 	AndroidJavaProxy_GetProxyObject_mEDC1D96AAE0A4FC2B4E57E1FC3AE5C47C27FDC6A,
 	AndroidJavaProxy_GetRawProxy_m125686B87104A00FD20DEB87F24074A3AD68D354,
-	AndroidJavaProxy__cctor_mB21449F424E38624821E1F87653DA4810F2809D7,
+	AndroidJavaProxy__cctor_m495EBB573F2215B69BE68C609BAFAC202401C488,
 	AndroidJavaObject__ctor_mD77909E8ED7BADA1019AAFA030A3C483E29FDED6,
 	AndroidJavaObject__ctor_m9017EB4B15B88E38FDE6E68EDAD1FF8071E9EC12,
 	AndroidJavaObject__ctor_m61F573E293A5AFFC1103D4F8F7BE212EB63615A0,
@@ -1121,457 +1123,459 @@ static Il2CppMethodPointer s_methodPointers[395] =
 	NULL,
 	NULL,
 	NULL,
-	AndroidJavaObject_AndroidJavaObjectDeleteLocalRef_mB977696EA6F6BB6369A8F783EFB5D99C445C11FD,
-	AndroidJavaObject_AndroidJavaClassDeleteLocalRef_mE5C858ECFE81960EA260B3F112FD8A30C4097842,
+	AndroidJavaObject_AndroidJavaObjectDeleteLocalRef_m894328C5BFEE7BE03298425049B09815D0CAB572,
+	AndroidJavaObject_AndroidJavaClassDeleteLocalRef_mB3FBC86ACFCE28F09F85D5D8777806294C5A2965,
 	NULL,
 	AndroidJavaObject__GetRawObject_mD52629909E16A092896CD884BB710F876BE14975,
 	AndroidJavaObject__GetRawClass_mCEFEDEA158099706B9B2F1CB40C843D2E899932C,
-	AndroidJavaObject__cctor_mF33A7478608B7668DB4EF3D610695E2828A492CE,
+	AndroidJavaObject__cctor_m920EF92A44A20E2EA89BCF989E7855C2A0AF65F5,
 	AndroidJavaClass__ctor_mEFF9F51871F231955D97DABDE9AB4A6B4EDA5541,
 	AndroidJavaClass__AndroidJavaClass_mD69A3836B7DD13F6514499FFE167BCB136A5BBAB,
 	AndroidJavaClass__ctor_m61AE95F9D20CA648AEFC18AE922FE70F0B90786F,
-	AndroidReflection_IsPrimitive_mDD6A4050793DF2FA1EDF58010982C64A3F17376D,
-	AndroidReflection_IsAssignableFrom_m7B46715954FFFBDFA63B681FAF87AEB2ECF0E47C,
-	AndroidReflection_GetStaticMethodID_m36025A22F483A7C1D53BFAA0505DC59A7B503EA1,
-	AndroidReflection_GetMethodID_m99B37E6A752683D8F77DA7319D9956E03BAC322E,
-	AndroidReflection_GetConstructorMember_m4E88C8F6F83DB80D3313835CE760D8E7DC533C02,
-	AndroidReflection_GetMethodMember_m2959FEB7888CE8740DE1CF88C0CCB8A72F9F017B,
-	AndroidReflection_GetFieldMember_m1318EF8ED43B70C70C6A054207ED57C88B846D73,
-	AndroidReflection_GetFieldClass_m9406AFE957E7C743F7F1695EF0ED834597AEB782,
-	AndroidReflection_GetFieldSignature_m3827226FD015DF4C0D4FC370C4589BC7FA8EA2CD,
-	AndroidReflection_NewProxyInstance_m53695E04979F0C45768004C5CC36A95A684C847C,
-	AndroidReflection_SetNativeExceptionOnProxy_m3156C711782C12CDE0E994C37630F762C0FE0808,
-	AndroidReflection__cctor_m2B0369515D9A19D15703B34BD174D7CA683F1546,
-	_AndroidJNIHelper_CreateJavaProxy_mCE38F0AE360145E8ECD9B15364CF570EE1D57D5D,
-	_AndroidJNIHelper_CreateJavaRunnable_m9FEEC38F8F25D8A5E6DBD8329094C3C24D73EC52,
-	_AndroidJNIHelper_InvokeJavaProxyMethod_mEDA5EBF45CEDDBB775BD601270633625DE31CC25,
-	_AndroidJNIHelper_CreateJNIArgArray_m6CAC58535CA8F9F1A7A4458BA1BC855CB46609E2,
-	_AndroidJNIHelper_UnboxArray_m6287C810F0A8190BA7A7D2B104437F28B785FE7F,
-	_AndroidJNIHelper_Unbox_mE00F4AED2AAAACF5C617820A41A4F28F1D501708,
-	_AndroidJNIHelper_Box_m36D8F62AEE89925F24BEB84DD91A5FF771255E28,
-	_AndroidJNIHelper_DeleteJNIArgArray_m1ECC70D98768BD3E5C6C6EABC1162F43B297AD85,
-	_AndroidJNIHelper_ConvertToJNIArray_m8254063CFA125088D840280AEF8C2ACF1B1ED4D9,
+	AndroidReflection_IsPrimitive_m6AC935960F806BD35938B70EB70E9FF90F03521E,
+	AndroidReflection_IsAssignableFrom_mD2754AFA331CB318E960432DB3F4270B860A9284,
+	AndroidReflection_GetStaticMethodID_m4C6530446E01E0CCD82437DC5E0301EA265699F3,
+	AndroidReflection_GetMethodID_m551139A025A4DDC58D0F076FD26E77879F50BA05,
+	AndroidReflection_GetConstructorMember_mB320ED3A0990352093EAA566BAB4A57054FCF973,
+	AndroidReflection_GetMethodMember_mEB2499209A0103545F59AF367168355BE863D93D,
+	AndroidReflection_GetFieldMember_mDF940ADAC9599730E7673B122259222B70937F52,
+	AndroidReflection_GetFieldClass_mE162BDF6E215EF685FEE87558868C0C0A92FF5EB,
+	AndroidReflection_GetFieldSignature_m875FCA6402DFB60FB02EC45DF542525BD4328938,
+	AndroidReflection_NewProxyInstance_m0F4311ECD23AC3EBB415E5A1986F24AACB7F855E,
+	AndroidReflection_SetNativeExceptionOnProxy_m128E0E4E225DE9CE787306D76741E72D25CB1F8E,
+	AndroidReflection__cctor_mF0B578A28D9AE0EDA442E2DB3E5CC549CC221904,
+	_AndroidJNIHelper_CreateJavaProxy_mD55122FBE783E484184BB68E2F982CB521064D69,
+	_AndroidJNIHelper_CreateJavaRunnable_mC9F0EBABCA5C6FAFF1EBCDC6758F915417EEC5F2,
+	_AndroidJNIHelper_InvokeJavaProxyMethod_m61E64CCD15A3694432F887DDE0AFE3ECF1ECC516,
+	_AndroidJNIHelper_CreateJNIArgArray_m1F064AACE1C251B395968F94C16089775E33EFCA,
+	_AndroidJNIHelper_UnboxArray_mEBA7A10DBA37D9BA5308CD68E602DE7B17A1CBC9,
+	_AndroidJNIHelper_Unbox_m9E2B0719D492499720FAC6CA08FF261BB1563FF5,
+	_AndroidJNIHelper_Box_mCA5D1BD48FAAE9BD098E2CC61CA86857D7589F40,
+	_AndroidJNIHelper_DeleteJNIArgArray_m376FFEE6187587454E7E20331B0473DFB1B1351E,
+	_AndroidJNIHelper_ConvertToJNIArray_m25F591EAFE69F17716AFBE9F079F2E259E051ACD,
 	NULL,
-	_AndroidJNIHelper_GetConstructorID_m59BD3F866A86FC0FFDB26FFB820124E830CDB3E7,
-	_AndroidJNIHelper_GetMethodID_m11CB4DA78BA3971AE2D5A1005B77C484C2BC4BA4,
+	_AndroidJNIHelper_GetConstructorID_m2370ACC5A85EBDDBCE5F0C17753887CDCB878F43,
+	_AndroidJNIHelper_GetMethodID_m922CE6031D2DDCF47B5C90931A46EE5C1F23F82A,
 	NULL,
 	NULL,
-	_AndroidJNIHelper_GetConstructorID_m0802B71B149170217E6FE75A7864A4BE7315215F,
-	_AndroidJNIHelper_GetMethodID_m74B615C2438AF4A05F5FDA31F871AA641799CC9C,
-	_AndroidJNIHelper_GetMethodIDFallback_mCAB1BB814895547718E10BA70AEA126CE98AD48C,
-	_AndroidJNIHelper_GetFieldID_mEF3E4C58E7B9F40F7E0BBAE76D82AD2C9FA66D30,
-	_AndroidJNIHelper_GetSignature_m4A272D66518BF9A4C746B02B91AAB1361293232C,
-	_AndroidJNIHelper_GetSignature_m7621549E54EFD6362170628549B996BF5C52FBB7,
+	_AndroidJNIHelper_GetConstructorID_m785D81C52A5063D9B4F308462927BCA1336DCE97,
+	_AndroidJNIHelper_GetMethodID_mE97AC51E9CADFCEE717720FF1FC73779B03152AF,
+	_AndroidJNIHelper_GetMethodIDFallback_mA7CE78D8661C476F05B8FE0C4CC9B14F94E7702A,
+	_AndroidJNIHelper_GetFieldID_m114CD556A40B3AE3BFC1183055B4CD71ECB70BEA,
+	_AndroidJNIHelper_GetSignature_m3A803B2695DB1EB9344C5596B97E8302A71BFD73,
+	_AndroidJNIHelper_GetSignature_m639489618B4D11AD75002B211C607CA794A01C7B,
 	NULL,
 	_AndroidJNIHelper__ctor_m4231F0D297E72EDEEFE54850736BAB69F0BEA367,
 	AndroidAssetPackInfo__ctor_mF3DB45C3AD5F4FB8FD44A32E21989015EAA6DC1E,
 	AndroidAssetPackState__ctor_m898F1E41E26DC9773BF078D9DD637B2C7959D040,
 	AndroidAssetPackUseMobileDataRequestResult__ctor_m09D1A94FF5ABB3E6DE5DAD5F3D558A94C60D194C,
-	AndroidAssetPacks_GetAssetPackManager_m8B012D5102A49E01D14E01BB197B97C8ADCBF9E9,
+	AndroidAssetPacks_GetAssetPackManager_m52F81266B7807A06DA69B7C5441CF7DDFBF30AB1,
 	AssetPackManagerDownloadStatusCallback_onStatusUpdate_m44D883114BD08904CBB400DCE804E717DE8ED013,
 	AssetPackManagerMobileDataConfirmationCallback_onMobileDataConfirmationResult_m42051286478D725B40BE79A858A6259F5B656436,
 	AssetPackManagerStatusQueryCallback_onStatusResult_mAE80EC296017FCE05F410661ADBCA0692A153D95,
 	PermissionCallbacks_onPermissionGranted_mBB916DA5EB099196DD500F6D9267CFE10FEA504D,
 	PermissionCallbacks_onPermissionDenied_mC74555C82B9CCFB6017BCCDD42E25BB1B9D87958,
 	PermissionCallbacks_onPermissionDeniedAndDontAskAgain_m12D7416B65ECDCF9CBB925DDBE73CF9F0C50058B,
+	Permission_GetActivity_m4C2DB9AC19D53AD609D4BAF65E10D5248DE928B2,
 };
-static const int32_t s_InvokerIndices[395] = 
+static const int32_t s_InvokerIndices[396] = 
 {
-	2279,
-	2262,
-	2142,
-	1920,
-	1920,
-	1691,
-	1558,
-	1920,
-	1691,
-	1558,
-	2143,
-	2143,
-	2143,
-	2164,
-	2029,
-	1920,
-	1558,
-	2164,
-	2164,
+	4440,
+	4405,
+	4238,
+	3906,
+	3906,
+	3570,
+	3339,
+	3906,
+	3570,
+	3339,
+	4239,
+	4239,
+	4239,
+	4272,
+	4067,
+	3906,
+	3339,
+	4272,
+	4272,
 	-1,
 	-1,
 	-1,
 	-1,
-	2286,
-	2286,
-	2286,
-	2143,
-	2142,
-	2142,
-	1688,
-	1688,
-	2142,
-	1838,
-	2115,
-	1897,
-	2288,
-	2309,
-	2309,
-	2268,
-	2113,
-	2142,
-	2142,
-	2267,
-	2142,
-	2267,
-	2142,
-	2267,
-	1838,
-	2113,
-	2142,
-	1689,
-	2142,
-	1838,
-	1691,
-	1691,
-	1691,
-	1691,
-	2143,
-	2143,
-	2143,
-	2143,
-	2163,
-	2115,
-	2115,
-	2163,
-	1707,
-	1689,
-	1667,
-	1635,
-	1660,
-	1635,
-	1733,
-	1740,
-	1736,
-	1658,
-	1683,
-	1779,
-	1933,
-	1919,
-	1838,
-	1838,
-	1958,
-	1980,
-	1883,
-	1896,
-	1913,
-	1962,
-	1877,
-	1779,
-	1778,
-	1773,
-	1773,
-	1780,
-	1782,
-	1775,
-	1776,
-	1777,
-	1781,
-	1774,
-	1707,
-	1689,
-	1667,
-	1635,
-	1660,
-	1635,
-	1733,
-	1740,
-	1736,
-	1658,
-	1683,
-	1779,
-	1933,
-	1919,
-	1838,
-	1838,
-	1958,
-	1980,
-	1883,
-	1896,
-	1913,
-	1962,
-	1877,
-	1779,
-	1778,
-	1773,
-	1773,
-	1780,
-	1782,
-	1775,
-	1776,
-	1777,
-	1781,
-	1774,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	1921,
-	2143,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2115,
-	2140,
-	2140,
-	2140,
-	2140,
-	2140,
-	2140,
-	2140,
-	2140,
-	2140,
-	1687,
-	1837,
-	1837,
-	1957,
-	1979,
-	1882,
-	1895,
-	1912,
-	1961,
-	1876,
-	1918,
-	1764,
-	1764,
-	1770,
-	1770,
-	1772,
-	1766,
-	1767,
-	1768,
-	1771,
-	1765,
-	1769,
-	2309,
-	2267,
-	2267,
-	2267,
-	2143,
-	2163,
-	2142,
-	1691,
-	1691,
-	1691,
-	1691,
-	2142,
-	2143,
-	1689,
-	1778,
-	1779,
-	1782,
-	1774,
-	1781,
-	1777,
-	1775,
-	1780,
-	1773,
-	1776,
-	1919,
-	1933,
-	1980,
-	1877,
-	1962,
-	1913,
-	1883,
-	1958,
-	1838,
-	1896,
-	1779,
-	1689,
-	1707,
-	1740,
-	1658,
-	1736,
-	1683,
-	1660,
-	1733,
-	1635,
-	1667,
-	1778,
-	1779,
-	1782,
-	1774,
-	1781,
-	1777,
-	1775,
-	1780,
-	1773,
-	1776,
-	1919,
-	1933,
-	1980,
-	1877,
-	1962,
-	1913,
-	1883,
-	1958,
-	1838,
-	1896,
-	1779,
-	1689,
-	1707,
-	1740,
-	1658,
-	1736,
-	1683,
-	1660,
-	1733,
-	1635,
-	1667,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	2163,
-	1921,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	2143,
-	1918,
-	2115,
-	700,
-	1289,
-	574,
-	1098,
-	701,
-	1255,
-	1089,
-	1289,
-	2143,
-	1289,
-	1098,
-	1289,
-	1098,
-	1098,
-	1289,
-	574,
-	574,
-	822,
-	1243,
-	1255,
-	1255,
-	1245,
-	2309,
-	701,
-	701,
-	701,
-	701,
-	701,
-	701,
-	1289,
+	4450,
+	4450,
+	4450,
+	4239,
+	4238,
+	4238,
+	3566,
+	3566,
+	4238,
+	3799,
+	4207,
+	3880,
+	4452,
+	4478,
+	4478,
+	4412,
+	4205,
+	4238,
+	4238,
+	4411,
+	4238,
+	4411,
+	4238,
+	4411,
+	3799,
+	4205,
+	4238,
+	3568,
+	4238,
+	3799,
+	3570,
+	3570,
+	3570,
+	3570,
+	4239,
+	4239,
+	4239,
+	4239,
+	4271,
+	4207,
+	4207,
+	4271,
+	3592,
+	3568,
+	3535,
+	3473,
+	3519,
+	3473,
+	3636,
+	3648,
+	3639,
+	3514,
+	3557,
+	3711,
+	3923,
+	3905,
+	3799,
+	3799,
+	3971,
+	4001,
+	3864,
+	3879,
+	3899,
+	3979,
+	3856,
+	3711,
+	3710,
+	3705,
+	3705,
+	3712,
+	3714,
+	3707,
+	3708,
+	3709,
+	3713,
+	3706,
+	3592,
+	3568,
+	3535,
+	3473,
+	3519,
+	3473,
+	3636,
+	3648,
+	3639,
+	3514,
+	3557,
+	3711,
+	3923,
+	3905,
+	3799,
+	3799,
+	3971,
+	4001,
+	3864,
+	3879,
+	3899,
+	3979,
+	3856,
+	3711,
+	3710,
+	3705,
+	3705,
+	3712,
+	3714,
+	3707,
+	3708,
+	3709,
+	3713,
+	3706,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	3908,
+	4239,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4207,
+	4236,
+	4236,
+	4236,
+	4236,
+	4236,
+	4236,
+	4236,
+	4236,
+	4236,
+	3562,
+	3798,
+	3798,
+	3970,
+	4000,
+	3863,
+	3878,
+	3898,
+	3978,
+	3855,
+	3904,
+	3696,
+	3696,
+	3702,
+	3702,
+	3704,
+	3698,
+	3699,
+	3700,
+	3703,
+	3697,
+	3701,
+	4478,
+	4411,
+	4411,
+	4411,
+	4239,
+	4271,
+	4238,
+	3570,
+	3570,
+	3570,
+	3570,
+	4238,
+	4239,
+	3568,
+	3710,
+	3711,
+	3714,
+	3706,
+	3713,
+	3709,
+	3707,
+	3712,
+	3705,
+	3708,
+	3905,
+	3923,
+	4001,
+	3856,
+	3979,
+	3899,
+	3864,
+	3971,
+	3799,
+	3879,
+	3711,
+	3568,
+	3592,
+	3648,
+	3514,
+	3639,
+	3557,
+	3519,
+	3636,
+	3473,
+	3535,
+	3710,
+	3711,
+	3714,
+	3706,
+	3713,
+	3709,
+	3707,
+	3712,
+	3705,
+	3708,
+	3905,
+	3923,
+	4001,
+	3856,
+	3979,
+	3899,
+	3864,
+	3971,
+	3799,
+	3879,
+	3711,
+	3568,
+	3592,
+	3648,
+	3514,
+	3639,
+	3557,
+	3519,
+	3636,
+	3473,
+	3535,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	4271,
+	3908,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	4239,
+	3904,
+	4207,
+	1484,
+	2848,
+	1204,
+	2361,
+	1485,
+	2794,
+	2349,
+	2848,
+	4239,
+	2848,
+	2361,
+	2848,
+	2361,
+	2361,
+	2848,
+	1204,
+	1204,
+	1763,
+	2779,
+	2794,
+	2794,
+	2781,
+	4478,
+	1485,
+	1485,
+	1485,
+	1485,
+	1485,
+	1485,
+	2848,
 	-1,
-	701,
+	1485,
 	-1,
-	701,
-	-1,
-	-1,
-	-1,
-	-1,
-	1245,
-	1245,
+	1485,
 	-1,
 	-1,
 	-1,
 	-1,
-	1098,
-	292,
-	701,
-	1089,
-	1289,
-	1289,
-	1063,
-	701,
+	2781,
+	2781,
 	-1,
 	-1,
 	-1,
-	701,
+	-1,
+	2361,
+	649,
+	1485,
+	2349,
+	2848,
+	2848,
+	2304,
+	1485,
 	-1,
 	-1,
 	-1,
-	2163,
-	2163,
-	-1,
-	1245,
-	1245,
-	2309,
-	1098,
-	1098,
-	1089,
-	2055,
-	1843,
-	1693,
-	1693,
-	1920,
-	1558,
-	1558,
-	2142,
-	2163,
-	1919,
-	1783,
-	2309,
-	1920,
-	2143,
-	1692,
-	2164,
-	2164,
-	2164,
-	2164,
-	2029,
-	2143,
-	-1,
-	1920,
-	1558,
+	1485,
 	-1,
 	-1,
-	1920,
-	1558,
-	1558,
-	1558,
-	2164,
-	2164,
 	-1,
-	1289,
-	85,
-	437,
-	1063,
-	2292,
-	83,
-	1063,
-	271,
-	1098,
-	1098,
-	1098,
+	4271,
+	4271,
+	-1,
+	2781,
+	2781,
+	4478,
+	2361,
+	2361,
+	2349,
+	4124,
+	3805,
+	3572,
+	3572,
+	3906,
+	3339,
+	3339,
+	4238,
+	4271,
+	3567,
+	3716,
+	4478,
+	3568,
+	4239,
+	3571,
+	4272,
+	4272,
+	4272,
+	4272,
+	4067,
+	4239,
+	-1,
+	3906,
+	3339,
+	-1,
+	-1,
+	3906,
+	3339,
+	3339,
+	3339,
+	4272,
+	4272,
+	-1,
+	2848,
+	178,
+	946,
+	2304,
+	4456,
+	175,
+	2304,
+	608,
+	2361,
+	2361,
+	2361,
+	4456,
 };
 static const Il2CppTokenRangePair s_rgctxIndices[23] = 
 {
@@ -1601,54 +1605,54 @@ static const Il2CppTokenRangePair s_rgctxIndices[23] =
 };
 static const Il2CppRGCTXDefinition s_rgctxValues[41] = 
 {
-	{ (Il2CppRGCTXDataType)3, 7186 },
-	{ (Il2CppRGCTXDataType)3, 7199 },
-	{ (Il2CppRGCTXDataType)3, 7196 },
-	{ (Il2CppRGCTXDataType)3, 7209 },
-	{ (Il2CppRGCTXDataType)3, 5799 },
-	{ (Il2CppRGCTXDataType)3, 5804 },
-	{ (Il2CppRGCTXDataType)3, 5802 },
-	{ (Il2CppRGCTXDataType)3, 5806 },
-	{ (Il2CppRGCTXDataType)3, 5785 },
-	{ (Il2CppRGCTXDataType)3, 5784 },
-	{ (Il2CppRGCTXDataType)3, 5796 },
-	{ (Il2CppRGCTXDataType)3, 5795 },
-	{ (Il2CppRGCTXDataType)3, 5735 },
+	{ (Il2CppRGCTXDataType)3, 18371 },
+	{ (Il2CppRGCTXDataType)3, 18384 },
+	{ (Il2CppRGCTXDataType)3, 18381 },
+	{ (Il2CppRGCTXDataType)3, 18394 },
+	{ (Il2CppRGCTXDataType)3, 15219 },
+	{ (Il2CppRGCTXDataType)3, 15224 },
+	{ (Il2CppRGCTXDataType)3, 15222 },
+	{ (Il2CppRGCTXDataType)3, 15226 },
+	{ (Il2CppRGCTXDataType)3, 15205 },
+	{ (Il2CppRGCTXDataType)3, 15204 },
+	{ (Il2CppRGCTXDataType)3, 15216 },
+	{ (Il2CppRGCTXDataType)3, 15215 },
+	{ (Il2CppRGCTXDataType)3, 15154 },
 	{ (Il2CppRGCTXDataType)1, 12 },
 	{ (Il2CppRGCTXDataType)2, 12 },
-	{ (Il2CppRGCTXDataType)3, 5767 },
-	{ (Il2CppRGCTXDataType)3, 5729 },
+	{ (Il2CppRGCTXDataType)3, 15186 },
+	{ (Il2CppRGCTXDataType)3, 15148 },
 	{ (Il2CppRGCTXDataType)1, 7 },
 	{ (Il2CppRGCTXDataType)2, 7 },
-	{ (Il2CppRGCTXDataType)3, 5765 },
-	{ (Il2CppRGCTXDataType)3, 5731 },
+	{ (Il2CppRGCTXDataType)3, 15184 },
+	{ (Il2CppRGCTXDataType)3, 15150 },
 	{ (Il2CppRGCTXDataType)1, 18 },
 	{ (Il2CppRGCTXDataType)2, 18 },
-	{ (Il2CppRGCTXDataType)3, 5736 },
+	{ (Il2CppRGCTXDataType)3, 15155 },
 	{ (Il2CppRGCTXDataType)1, 13 },
 	{ (Il2CppRGCTXDataType)2, 13 },
-	{ (Il2CppRGCTXDataType)3, 5768 },
-	{ (Il2CppRGCTXDataType)3, 5730 },
+	{ (Il2CppRGCTXDataType)3, 15187 },
+	{ (Il2CppRGCTXDataType)3, 15149 },
 	{ (Il2CppRGCTXDataType)1, 8 },
 	{ (Il2CppRGCTXDataType)2, 8 },
-	{ (Il2CppRGCTXDataType)3, 5766 },
-	{ (Il2CppRGCTXDataType)3, 5732 },
+	{ (Il2CppRGCTXDataType)3, 15185 },
+	{ (Il2CppRGCTXDataType)3, 15151 },
 	{ (Il2CppRGCTXDataType)1, 19 },
 	{ (Il2CppRGCTXDataType)2, 19 },
-	{ (Il2CppRGCTXDataType)3, 5718 },
+	{ (Il2CppRGCTXDataType)3, 15137 },
 	{ (Il2CppRGCTXDataType)2, 11 },
-	{ (Il2CppRGCTXDataType)1, 181 },
-	{ (Il2CppRGCTXDataType)2, 181 },
-	{ (Il2CppRGCTXDataType)3, 7210 },
-	{ (Il2CppRGCTXDataType)1, 182 },
-	{ (Il2CppRGCTXDataType)1, 184 },
+	{ (Il2CppRGCTXDataType)1, 278 },
+	{ (Il2CppRGCTXDataType)2, 278 },
+	{ (Il2CppRGCTXDataType)3, 18395 },
+	{ (Il2CppRGCTXDataType)1, 279 },
+	{ (Il2CppRGCTXDataType)1, 281 },
 };
 extern const CustomAttributesCacheGenerator g_UnityEngine_AndroidJNIModule_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_AndroidJNIModule_CodeGenModule;
 const Il2CppCodeGenModule g_UnityEngine_AndroidJNIModule_CodeGenModule = 
 {
 	"UnityEngine.AndroidJNIModule.dll",
-	395,
+	396,
 	s_methodPointers,
 	0,
 	NULL,

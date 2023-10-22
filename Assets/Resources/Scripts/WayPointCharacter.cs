@@ -4,19 +4,20 @@ using UnityEngine;
 
 public class WayPointCharacter : MonoBehaviour
 {
+    public GameObject character;
     public Transform target;
     public float speed = 1.0f;
     
      float gravity = -9.81f;
     private Vector3 velocity;
-    public CharacterController controller;
-
-    public Animator animator;
-    
+    private CharacterController controller;
+    private Animator animator;
     private bool stopCharacter = false;
   
     void Start()
     {
+       animator = character.GetComponent <Animator>(); 
+       controller = character.GetComponent <CharacterController>();
     }
 
     void Update()
@@ -41,11 +42,11 @@ public class WayPointCharacter : MonoBehaviour
             Debug.Log("Colision con waypoint");
             target = hit.gameObject.GetComponent<WayPoint>().nextWayPoint;
         }
-
+       
         if (hit.gameObject.CompareTag("EndPoint"))
         {
-            Debug.Log("Colision con endpoint");
-            animator.SetBool("endpoint", true);
+            animator.SetTrigger("Idle");
+            stopCharacter = true;
         }
     }
 }

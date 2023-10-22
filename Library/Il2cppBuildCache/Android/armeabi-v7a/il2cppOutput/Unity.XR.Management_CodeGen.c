@@ -29,7 +29,7 @@ extern void XRGeneralSettings_get_Manager_m5E4819323E32CA8E97058B8ED282558779099
 // 0x00000008 System.Void UnityEngine.XR.Management.XRGeneralSettings::set_Manager(UnityEngine.XR.Management.XRManagerSettings)
 extern void XRGeneralSettings_set_Manager_mD03B32F78152AC3EE2DA737A037DA5895D325D29 (void);
 // 0x00000009 UnityEngine.XR.Management.XRGeneralSettings UnityEngine.XR.Management.XRGeneralSettings::get_Instance()
-extern void XRGeneralSettings_get_Instance_m8D7FC68414773249E7C8EEF06048916FD7E7D68D (void);
+extern void XRGeneralSettings_get_Instance_mC714587778971DCD3EBECF8FC23741ED9A7A23BE (void);
 // 0x0000000A UnityEngine.XR.Management.XRManagerSettings UnityEngine.XR.Management.XRGeneralSettings::get_AssignedSettings()
 extern void XRGeneralSettings_get_AssignedSettings_mA98F4DB18321E6DBFA016F5C3699614C66796541 (void);
 // 0x0000000B System.Boolean UnityEngine.XR.Management.XRGeneralSettings::get_InitManagerOnStart()
@@ -37,15 +37,15 @@ extern void XRGeneralSettings_get_InitManagerOnStart_m21A3FAE9CDFED7D125E0794EFC
 // 0x0000000C System.Void UnityEngine.XR.Management.XRGeneralSettings::Awake()
 extern void XRGeneralSettings_Awake_mA50DA38B1FA224BADC66F689593400F9F77C551E (void);
 // 0x0000000D System.Void UnityEngine.XR.Management.XRGeneralSettings::Quit()
-extern void XRGeneralSettings_Quit_m5C5E8099B3E4105FD09B06D1A15B0D7FB358BA70 (void);
+extern void XRGeneralSettings_Quit_m59149F3C039D358646AB24B47CB9D0F16BBE713C (void);
 // 0x0000000E System.Void UnityEngine.XR.Management.XRGeneralSettings::Start()
 extern void XRGeneralSettings_Start_m192139B0BB00B8D23C6EEBB90290ABB6C4352F29 (void);
 // 0x0000000F System.Void UnityEngine.XR.Management.XRGeneralSettings::OnDestroy()
 extern void XRGeneralSettings_OnDestroy_mADCE8F90BABF1629E10E8BCF6FA19388C169A430 (void);
 // 0x00000010 System.Void UnityEngine.XR.Management.XRGeneralSettings::AttemptInitializeXRSDKOnLoad()
-extern void XRGeneralSettings_AttemptInitializeXRSDKOnLoad_m25C4FF6460E96AB85AD43A0FFFE4569E3618E196 (void);
+extern void XRGeneralSettings_AttemptInitializeXRSDKOnLoad_mEC77FDD509D436BE7E81FB0FE9A7AEBBBB1B7A18 (void);
 // 0x00000011 System.Void UnityEngine.XR.Management.XRGeneralSettings::AttemptStartXRSDKOnBeforeSplashScreen()
-extern void XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m69A4793D7DC90E31D4C00ABB34AB2F18DAFD107C (void);
+extern void XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m306CE397F67670D3B6ACF6C3471BC0DECA5C6E16 (void);
 // 0x00000012 System.Void UnityEngine.XR.Management.XRGeneralSettings::InitXRSDK()
 extern void XRGeneralSettings_InitXRSDK_m8D064A0726709F70957413174C7625C33140DA2C (void);
 // 0x00000013 System.Void UnityEngine.XR.Management.XRGeneralSettings::StartXRSDK()
@@ -57,7 +57,7 @@ extern void XRGeneralSettings_DeInitXRSDK_m393413ABA4D5D4CA976ECB6AF2C04E81685E2
 // 0x00000016 System.Void UnityEngine.XR.Management.XRGeneralSettings::.ctor()
 extern void XRGeneralSettings__ctor_mD3A03E89F7FA70B2DB8E6E4EDF18EFBD24B312F2 (void);
 // 0x00000017 System.Void UnityEngine.XR.Management.XRGeneralSettings::.cctor()
-extern void XRGeneralSettings__cctor_m1A0A5F4C74AB2262794AADF08D2CF0E27BAAD506 (void);
+extern void XRGeneralSettings__cctor_m6E577E088DB4E120D1E6D56B83FC3DF676ABF216 (void);
 // 0x00000018 System.Boolean UnityEngine.XR.Management.XRLoader::Initialize()
 extern void XRLoader_Initialize_mDACAE27E5D38879E691DADB1462769CBE0484C04 (void);
 // 0x00000019 System.Boolean UnityEngine.XR.Management.XRLoader::Start()
@@ -159,21 +159,21 @@ static Il2CppMethodPointer s_methodPointers[73] =
 	XRConfigurationDataAttribute__ctor_m8BC8EB57DFC926006F8E5F70E7A150F7711299BB,
 	XRGeneralSettings_get_Manager_m5E4819323E32CA8E97058B8ED282558779099544,
 	XRGeneralSettings_set_Manager_mD03B32F78152AC3EE2DA737A037DA5895D325D29,
-	XRGeneralSettings_get_Instance_m8D7FC68414773249E7C8EEF06048916FD7E7D68D,
+	XRGeneralSettings_get_Instance_mC714587778971DCD3EBECF8FC23741ED9A7A23BE,
 	XRGeneralSettings_get_AssignedSettings_mA98F4DB18321E6DBFA016F5C3699614C66796541,
 	XRGeneralSettings_get_InitManagerOnStart_m21A3FAE9CDFED7D125E0794EFC2C2B18E3878E53,
 	XRGeneralSettings_Awake_mA50DA38B1FA224BADC66F689593400F9F77C551E,
-	XRGeneralSettings_Quit_m5C5E8099B3E4105FD09B06D1A15B0D7FB358BA70,
+	XRGeneralSettings_Quit_m59149F3C039D358646AB24B47CB9D0F16BBE713C,
 	XRGeneralSettings_Start_m192139B0BB00B8D23C6EEBB90290ABB6C4352F29,
 	XRGeneralSettings_OnDestroy_mADCE8F90BABF1629E10E8BCF6FA19388C169A430,
-	XRGeneralSettings_AttemptInitializeXRSDKOnLoad_m25C4FF6460E96AB85AD43A0FFFE4569E3618E196,
-	XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m69A4793D7DC90E31D4C00ABB34AB2F18DAFD107C,
+	XRGeneralSettings_AttemptInitializeXRSDKOnLoad_mEC77FDD509D436BE7E81FB0FE9A7AEBBBB1B7A18,
+	XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m306CE397F67670D3B6ACF6C3471BC0DECA5C6E16,
 	XRGeneralSettings_InitXRSDK_m8D064A0726709F70957413174C7625C33140DA2C,
 	XRGeneralSettings_StartXRSDK_mA126F57DFAB5A6EE2651ADB6DD28AB41C72DBED8,
 	XRGeneralSettings_StopXRSDK_m5972F9B13CAF086DE0CCFD19E1D84C0D98EEDE9A,
 	XRGeneralSettings_DeInitXRSDK_m393413ABA4D5D4CA976ECB6AF2C04E81685E2183,
 	XRGeneralSettings__ctor_mD3A03E89F7FA70B2DB8E6E4EDF18EFBD24B312F2,
-	XRGeneralSettings__cctor_m1A0A5F4C74AB2262794AADF08D2CF0E27BAAD506,
+	XRGeneralSettings__cctor_m6E577E088DB4E120D1E6D56B83FC3DF676ABF216,
 	XRLoader_Initialize_mDACAE27E5D38879E691DADB1462769CBE0484C04,
 	XRLoader_Start_mE0B66E131569B4D440A52A84771BB9ADCF03FE84,
 	XRLoader_Stop_mBEE0CD2B4ADC3D207F286BC1DCDA05FA4CDECC7C,
@@ -227,79 +227,79 @@ static Il2CppMethodPointer s_methodPointers[73] =
 };
 static const int32_t s_InvokerIndices[73] = 
 {
-	1255,
-	1098,
-	1255,
-	1098,
-	1289,
-	701,
-	1255,
-	1098,
-	2292,
-	1255,
-	1225,
-	1289,
-	2309,
-	1289,
-	1289,
-	2309,
-	2309,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	2309,
-	1225,
-	1225,
-	1225,
-	1225,
+	2794,
+	2361,
+	2794,
+	2361,
+	2848,
+	1485,
+	2794,
+	2361,
+	4456,
+	2794,
+	2743,
+	2848,
+	4478,
+	2848,
+	2848,
+	4478,
+	4478,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	4478,
+	2743,
+	2743,
+	2743,
+	2743,
 	-1,
-	985,
-	1289,
-	-1,
-	-1,
+	2139,
+	2848,
 	-1,
 	-1,
 	-1,
 	-1,
 	-1,
-	1225,
-	1289,
-	1225,
-	1063,
-	1225,
-	1063,
-	1255,
-	1255,
-	1225,
-	1255,
-	1098,
 	-1,
-	1289,
-	1255,
-	822,
-	485,
-	822,
-	822,
-	822,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	1255,
-	1098,
-	1255,
-	1289,
-	1087,
-	1289,
-	1225,
-	1289,
-	1255,
-	1289,
-	1255,
+	-1,
+	2743,
+	2848,
+	2743,
+	2304,
+	2743,
+	2304,
+	2794,
+	2794,
+	2743,
+	2794,
+	2361,
+	-1,
+	2848,
+	2794,
+	1763,
+	1042,
+	1763,
+	1763,
+	1763,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	2794,
+	2361,
+	2794,
+	2848,
+	2347,
+	2848,
+	2743,
+	2848,
+	2794,
+	2848,
+	2794,
 };
 static const Il2CppTokenRangePair s_rgctxIndices[8] = 
 {
@@ -314,25 +314,25 @@ static const Il2CppTokenRangePair s_rgctxIndices[8] =
 };
 static const Il2CppRGCTXDefinition s_rgctxValues[19] = 
 {
-	{ (Il2CppRGCTXDataType)1, 179 },
-	{ (Il2CppRGCTXDataType)2, 179 },
-	{ (Il2CppRGCTXDataType)3, 7165 },
-	{ (Il2CppRGCTXDataType)2, 177 },
-	{ (Il2CppRGCTXDataType)3, 7166 },
-	{ (Il2CppRGCTXDataType)2, 178 },
-	{ (Il2CppRGCTXDataType)3, 7164 },
-	{ (Il2CppRGCTXDataType)2, 176 },
-	{ (Il2CppRGCTXDataType)3, 7115 },
-	{ (Il2CppRGCTXDataType)3, 3558 },
-	{ (Il2CppRGCTXDataType)3, 3557 },
-	{ (Il2CppRGCTXDataType)3, 1825 },
-	{ (Il2CppRGCTXDataType)2, 202 },
-	{ (Il2CppRGCTXDataType)1, 362 },
-	{ (Il2CppRGCTXDataType)3, 1824 },
-	{ (Il2CppRGCTXDataType)2, 656 },
-	{ (Il2CppRGCTXDataType)3, 7170 },
-	{ (Il2CppRGCTXDataType)3, 7171 },
-	{ (Il2CppRGCTXDataType)2, 180 },
+	{ (Il2CppRGCTXDataType)1, 269 },
+	{ (Il2CppRGCTXDataType)2, 269 },
+	{ (Il2CppRGCTXDataType)3, 18323 },
+	{ (Il2CppRGCTXDataType)2, 267 },
+	{ (Il2CppRGCTXDataType)3, 18324 },
+	{ (Il2CppRGCTXDataType)2, 268 },
+	{ (Il2CppRGCTXDataType)3, 18322 },
+	{ (Il2CppRGCTXDataType)2, 266 },
+	{ (Il2CppRGCTXDataType)3, 18184 },
+	{ (Il2CppRGCTXDataType)3, 9267 },
+	{ (Il2CppRGCTXDataType)3, 9266 },
+	{ (Il2CppRGCTXDataType)3, 4992 },
+	{ (Il2CppRGCTXDataType)2, 309 },
+	{ (Il2CppRGCTXDataType)1, 543 },
+	{ (Il2CppRGCTXDataType)3, 4991 },
+	{ (Il2CppRGCTXDataType)2, 1174 },
+	{ (Il2CppRGCTXDataType)3, 18328 },
+	{ (Il2CppRGCTXDataType)3, 18329 },
+	{ (Il2CppRGCTXDataType)2, 270 },
 };
 extern const CustomAttributesCacheGenerator g_Unity_XR_Management_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_Management_CodeGenModule;

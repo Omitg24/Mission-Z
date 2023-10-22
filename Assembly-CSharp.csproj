@@ -36,11 +36,13 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Resources\Scripts\GazeInput.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\GvrPointerEventData.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardProviders\EmulatorKeyboardProvider.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerInput.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\GvrLaserVisual.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardProviders\AndroidNativeKeyboardProvider.cs" />
+     <Compile Include="Assets\Resources\Scripts\LookAround.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Parameter.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableNode.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\EmulatorConfig.cs" />
@@ -50,11 +52,13 @@
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\GvrXREventsSubscriber.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\ControllerProviders\EmulatorControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\InputModule\IGvrEventExecutor.cs" />
+     <Compile Include="Assets\Resources\Scripts\MovementWithConversation.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\ControllerProviders\MouseControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\IControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\Internal\GvrBetaAndroidNativeControllerInputProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\GvrPointerScrollInput.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\EmulatorClientSocket.cs" />
+     <Compile Include="Assets\Resources\Scripts\WayPoint.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\GvrBasePointer.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrVRHelpers.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableConnection.cs" />
@@ -67,14 +71,17 @@
      <Compile Include="Assets\GoogleVR\Scripts\Internal\EditorCameraOriginDict.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Conversation.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrControllerInputDeviceExtension.cs" />
+     <Compile Include="Assets\Resources\Scripts\Chase.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\ArmModel\IGvrArmModelReceiver.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\InputModule\GvrPointerInputModuleImpl.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieFree.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\IGvrControllerInputDeviceReceiver.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\GvrBasePointerRaycaster.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\ControllerState.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\ArmModel\GvrArmModel.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableParameter.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\GvrControllerInputDevice.cs" />
+     <Compile Include="Assets\Resources\Scripts\RemoveChase.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\EditableConversation.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\InstantPreview\Internal\InstantPreviewControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardProviders\DummyKeyboardProvider.cs" />
@@ -83,18 +90,23 @@
      <Compile Include="Assets\GoogleVR\Scripts\PropertyDrawers\GvrInfoDrawer.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\GvrKeyboardIntent.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrDaydreamApi.cs" />
+     <Compile Include="Assets\Resources\Scripts\Movement.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\IGvrPointerHoverHandler.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardState.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\ControllerProviderFactory.cs" />
+     <Compile Include="Assets\Resources\Scripts\TextDialogue.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\InstantPreview\InstantPreviewHelper.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\GvrCardboardHelpers.cs" />
+     <Compile Include="Assets\Resources\Scripts\WayPointCharacter.cs" />
      <Compile Include="Assets\Resources\Scripts\OpenURL.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\UI\ConversationManager.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\GvrControllerInput.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\UI\GvrDropdown.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerState.cs" />
+     <Compile Include="Assets\Resources\Scripts\TextDialogueTwoOptions.cs" />
      <Compile Include="Assets\GoogleVR\Beta\Scripts\GvrBetaControllerVisualMulti.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Cardboard\GvrReticlePointer.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieCameraLogic.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\GvrPointerPhysicsRaycaster.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\GvrControllerReticleVisual.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\IGvrScrollSettings.cs" />
@@ -104,6 +116,7 @@
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Connection.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\EmulatorManager.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
+     <Compile Include="Assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieCharacterControl.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\GvrControllerVisual.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\GvrTrackedController.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\EventSystem\InputModule\IGvrInputModuleController.cs" />
@@ -128,6 +141,7 @@
      <Compile Include="Assets\Resources\Scripts\MainMenu.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\GvrCursorHelper.cs" />
      <Compile Include="Assets\DialogueEditor\Assets\Scripts\Condition.cs" />
+     <Compile Include="Assets\Resources\Scripts\LoadScene.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\Emulator\Generated\PhoneEvent.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\Internal\KeyboardProviderFactory.cs" />
@@ -140,13 +154,10 @@
      <Compile Include="Assets\GoogleVR\Scripts\Keyboard\GvrKeyboardDelegateBase.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\Controller\Internal\ControllerProviders\DummyControllerProvider.cs" />
      <Compile Include="Assets\GoogleVR\Scripts\GvrUnitySdkVersion.cs" />
-     <Compile Include="Assets\Resources\Scripts\LookAround.cs" />
-     <Compile Include="Assets\Resources\Scripts\Movement.cs" />
-     <Compile Include="Assets\Resources\Scripts\GazeInput.cs" />
-     <Compile Include="Assets\Resources\Scripts\WayPoint.cs" />
-     <Compile Include="Assets\Resources\Scripts\WayPointCharacter.cs" />
+     <Compile Include="Assets\Resources\Scripts\ChangeCScene.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+     <None Include="Assets\Supercyan Character Pack Zombie Sample\Shaders\Legacy\CelShader.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\AddOn2\custom terrain Bump fade 4x smooth.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
@@ -166,6 +177,7 @@
      <None Include="Assets\GoogleVR\Shaders\GvrControllerReticle.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\HeightBlendRGB.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\AddOn1\4x UV_Mixing.shader" />
+     <None Include="Assets\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShader.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\HeightBlendSpecularx4.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain Bump fade addpass.shader" />
@@ -185,6 +197,7 @@
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\laxer Assets\Terrain Shader\Shaders\custom terrain Diffuse fade.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
+     <None Include="Assets\Supercyan Character Pack Zombie Sample\Shaders\SupercyanShaderLighting.cginc" />
      <None Include="Assets\GoogleVR\Shaders\GvrUnlitTextureOverlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrController.shader" />
@@ -757,8 +770,14 @@
     <Reference Include="System.Xml.Serialization">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.46f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>M:\UProjects\Mission-Z\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
         <HintPath>M:\UProjects\Mission-Z\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>M:\UProjects\Mission-Z\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
         <HintPath>M:\UProjects\Mission-Z\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>

@@ -107,23 +107,6 @@ public:
 	}
 };
 
-struct String_t_StaticFields
-{
-public:
-	// System.String System.String::Empty
-	String_t* ___Empty_5;
-
-public:
-	inline static int32_t get_offset_of_Empty_5() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_5)); }
-	inline String_t* get_Empty_5() const { return ___Empty_5; }
-	inline String_t** get_address_of_Empty_5() { return &___Empty_5; }
-	inline void set_Empty_5(String_t* value)
-	{
-		___Empty_5 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___Empty_5), (void*)value);
-	}
-};
-
 
 // System.ValueType
 struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
@@ -311,34 +294,6 @@ public:
 	}
 };
 
-struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields
-{
-public:
-	// System.String System.Boolean::TrueString
-	String_t* ___TrueString_5;
-	// System.String System.Boolean::FalseString
-	String_t* ___FalseString_6;
-
-public:
-	inline static int32_t get_offset_of_TrueString_5() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___TrueString_5)); }
-	inline String_t* get_TrueString_5() const { return ___TrueString_5; }
-	inline String_t** get_address_of_TrueString_5() { return &___TrueString_5; }
-	inline void set_TrueString_5(String_t* value)
-	{
-		___TrueString_5 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___TrueString_5), (void*)value);
-	}
-
-	inline static int32_t get_offset_of_FalseString_6() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___FalseString_6)); }
-	inline String_t* get_FalseString_6() const { return ___FalseString_6; }
-	inline String_t** get_address_of_FalseString_6() { return &___FalseString_6; }
-	inline void set_FalseString_6(String_t* value)
-	{
-		___FalseString_6 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___FalseString_6), (void*)value);
-	}
-};
-
 
 // System.CLSCompliantAttribute
 struct CLSCompliantAttribute_tA28EF6D4ADBD3C5C429DE9A70DD1E927C8906249  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
@@ -508,23 +463,6 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF99
 public:
 
 public:
-};
-
-struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields
-{
-public:
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* ___enumSeperatorCharArray_0;
-
-public:
-	inline static int32_t get_offset_of_enumSeperatorCharArray_0() { return static_cast<int32_t>(offsetof(Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields, ___enumSeperatorCharArray_0)); }
-	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* get_enumSeperatorCharArray_0() const { return ___enumSeperatorCharArray_0; }
-	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34** get_address_of_enumSeperatorCharArray_0() { return &___enumSeperatorCharArray_0; }
-	inline void set_enumSeperatorCharArray_0(CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* value)
-	{
-		___enumSeperatorCharArray_0 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___enumSeperatorCharArray_0), (void*)value);
-	}
 };
 
 // Native definition for P/Invoke marshalling of System.Enum
@@ -698,23 +636,6 @@ public:
 	}
 };
 
-struct AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields
-{
-public:
-	// System.AttributeUsageAttribute System.AttributeUsageAttribute::Default
-	AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * ___Default_3;
-
-public:
-	inline static int32_t get_offset_of_Default_3() { return static_cast<int32_t>(offsetof(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields, ___Default_3)); }
-	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * get_Default_3() const { return ___Default_3; }
-	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C ** get_address_of_Default_3() { return &___Default_3; }
-	inline void set_Default_3(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * value)
-	{
-		___Default_3 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___Default_3), (void*)value);
-	}
-};
-
 
 // System.Diagnostics.DebuggableAttribute
 struct DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
@@ -779,6 +700,271 @@ public:
 		____fallbackLoc_1 = value;
 	}
 };
+
+
+// System.Object
+
+
+// System.Object
+
+
+// System.Attribute
+
+
+// System.Attribute
+
+
+// System.String
+
+struct String_t_StaticFields
+{
+public:
+	// System.String System.String::Empty
+	String_t* ___Empty_5;
+
+public:
+	inline static int32_t get_offset_of_Empty_5() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_5)); }
+	inline String_t* get_Empty_5() const { return ___Empty_5; }
+	inline String_t** get_address_of_Empty_5() { return &___Empty_5; }
+	inline void set_Empty_5(String_t* value)
+	{
+		___Empty_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___Empty_5), (void*)value);
+	}
+};
+
+
+// System.String
+
+
+// System.ValueType
+
+
+// System.ValueType
+
+
+// System.Reflection.AssemblyCompanyAttribute
+
+
+// System.Reflection.AssemblyCompanyAttribute
+
+
+// System.Reflection.AssemblyCopyrightAttribute
+
+
+// System.Reflection.AssemblyCopyrightAttribute
+
+
+// System.Reflection.AssemblyDefaultAliasAttribute
+
+
+// System.Reflection.AssemblyDefaultAliasAttribute
+
+
+// System.Reflection.AssemblyDescriptionAttribute
+
+
+// System.Reflection.AssemblyDescriptionAttribute
+
+
+// System.Reflection.AssemblyFileVersionAttribute
+
+
+// System.Reflection.AssemblyFileVersionAttribute
+
+
+// System.Reflection.AssemblyInformationalVersionAttribute
+
+
+// System.Reflection.AssemblyInformationalVersionAttribute
+
+
+// System.Reflection.AssemblyProductAttribute
+
+
+// System.Reflection.AssemblyProductAttribute
+
+
+// System.Reflection.AssemblyTitleAttribute
+
+
+// System.Reflection.AssemblyTitleAttribute
+
+
+// System.Boolean
+
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields
+{
+public:
+	// System.String System.Boolean::TrueString
+	String_t* ___TrueString_5;
+	// System.String System.Boolean::FalseString
+	String_t* ___FalseString_6;
+
+public:
+	inline static int32_t get_offset_of_TrueString_5() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___TrueString_5)); }
+	inline String_t* get_TrueString_5() const { return ___TrueString_5; }
+	inline String_t** get_address_of_TrueString_5() { return &___TrueString_5; }
+	inline void set_TrueString_5(String_t* value)
+	{
+		___TrueString_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___TrueString_5), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_FalseString_6() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___FalseString_6)); }
+	inline String_t* get_FalseString_6() const { return ___FalseString_6; }
+	inline String_t** get_address_of_FalseString_6() { return &___FalseString_6; }
+	inline void set_FalseString_6(String_t* value)
+	{
+		___FalseString_6 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___FalseString_6), (void*)value);
+	}
+};
+
+
+// System.Boolean
+
+
+// System.CLSCompliantAttribute
+
+
+// System.CLSCompliantAttribute
+
+
+// System.Runtime.InteropServices.ComCompatibleVersionAttribute
+
+
+// System.Runtime.InteropServices.ComCompatibleVersionAttribute
+
+
+// System.Runtime.InteropServices.ComVisibleAttribute
+
+
+// System.Runtime.InteropServices.ComVisibleAttribute
+
+
+// System.Runtime.CompilerServices.CompilationRelaxationsAttribute
+
+
+// System.Runtime.CompilerServices.CompilationRelaxationsAttribute
+
+
+// System.Diagnostics.DebuggerDisplayAttribute
+
+
+// System.Diagnostics.DebuggerDisplayAttribute
+
+
+// System.Reflection.DefaultMemberAttribute
+
+
+// System.Reflection.DefaultMemberAttribute
+
+
+// System.Enum
+
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields
+{
+public:
+	// System.Char[] System.Enum::enumSeperatorCharArray
+	CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* ___enumSeperatorCharArray_0;
+
+public:
+	inline static int32_t get_offset_of_enumSeperatorCharArray_0() { return static_cast<int32_t>(offsetof(Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields, ___enumSeperatorCharArray_0)); }
+	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* get_enumSeperatorCharArray_0() const { return ___enumSeperatorCharArray_0; }
+	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34** get_address_of_enumSeperatorCharArray_0() { return &___enumSeperatorCharArray_0; }
+	inline void set_enumSeperatorCharArray_0(CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* value)
+	{
+		___enumSeperatorCharArray_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___enumSeperatorCharArray_0), (void*)value);
+	}
+};
+
+
+// System.Enum
+
+
+// System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
+
+
+// System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
+
+
+// System.Resources.SatelliteContractVersionAttribute
+
+
+// System.Resources.SatelliteContractVersionAttribute
+
+
+// System.Void
+
+
+// System.Void
+
+
+// System.AttributeTargets
+
+
+// System.AttributeTargets
+
+
+// System.Runtime.InteropServices.DllImportSearchPath
+
+
+// System.Runtime.InteropServices.DllImportSearchPath
+
+
+// System.Resources.UltimateResourceFallbackLocation
+
+
+// System.Resources.UltimateResourceFallbackLocation
+
+
+// System.Diagnostics.DebuggableAttribute/DebuggingModes
+
+
+// System.Diagnostics.DebuggableAttribute/DebuggingModes
+
+
+// System.AttributeUsageAttribute
+
+struct AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields
+{
+public:
+	// System.AttributeUsageAttribute System.AttributeUsageAttribute::Default
+	AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * ___Default_3;
+
+public:
+	inline static int32_t get_offset_of_Default_3() { return static_cast<int32_t>(offsetof(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields, ___Default_3)); }
+	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * get_Default_3() const { return ___Default_3; }
+	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C ** get_address_of_Default_3() { return &___Default_3; }
+	inline void set_Default_3(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * value)
+	{
+		___Default_3 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___Default_3), (void*)value);
+	}
+};
+
+
+// System.AttributeUsageAttribute
+
+
+// System.Diagnostics.DebuggableAttribute
+
+
+// System.Diagnostics.DebuggableAttribute
+
+
+// System.Runtime.InteropServices.DefaultDllImportSearchPathsAttribute
+
+
+// System.Runtime.InteropServices.DefaultDllImportSearchPathsAttribute
+
+
+// System.Resources.NeutralResourcesLanguageAttribute
+
+
+// System.Resources.NeutralResourcesLanguageAttribute
 
 #ifdef __clang__
 #pragma clang diagnostic pop

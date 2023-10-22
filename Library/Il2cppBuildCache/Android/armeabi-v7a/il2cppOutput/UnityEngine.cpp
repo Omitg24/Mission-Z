@@ -39,6 +39,26 @@ struct Il2CppArrayBounds;
 
 // System.Array
 
+
+// <Module>
+
+
+// <Module>
+
+
+// System.Object
+
+
+// System.Object
+
+struct Il2CppArrayBounds;
+
+// System.Array
+
+struct Il2CppArrayBounds;
+
+// System.Array
+
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

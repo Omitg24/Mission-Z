@@ -115,23 +115,6 @@ public:
 	}
 };
 
-struct String_t_StaticFields
-{
-public:
-	// System.String System.String::Empty
-	String_t* ___Empty_5;
-
-public:
-	inline static int32_t get_offset_of_Empty_5() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_5)); }
-	inline String_t* get_Empty_5() const { return ___Empty_5; }
-	inline String_t** get_address_of_Empty_5() { return &___Empty_5; }
-	inline void set_Empty_5(String_t* value)
-	{
-		___Empty_5 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___Empty_5), (void*)value);
-	}
-};
-
 
 // System.ValueType
 struct ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52  : public RuntimeObject
@@ -164,34 +147,6 @@ public:
 	inline void set_m_value_0(bool value)
 	{
 		___m_value_0 = value;
-	}
-};
-
-struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields
-{
-public:
-	// System.String System.Boolean::TrueString
-	String_t* ___TrueString_5;
-	// System.String System.Boolean::FalseString
-	String_t* ___FalseString_6;
-
-public:
-	inline static int32_t get_offset_of_TrueString_5() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___TrueString_5)); }
-	inline String_t* get_TrueString_5() const { return ___TrueString_5; }
-	inline String_t** get_address_of_TrueString_5() { return &___TrueString_5; }
-	inline void set_TrueString_5(String_t* value)
-	{
-		___TrueString_5 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___TrueString_5), (void*)value);
-	}
-
-	inline static int32_t get_offset_of_FalseString_6() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___FalseString_6)); }
-	inline String_t* get_FalseString_6() const { return ___FalseString_6; }
-	inline String_t** get_address_of_FalseString_6() { return &___FalseString_6; }
-	inline void set_FalseString_6(String_t* value)
-	{
-		___FalseString_6 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___FalseString_6), (void*)value);
 	}
 };
 
@@ -238,23 +193,6 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF99
 public:
 
 public:
-};
-
-struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields
-{
-public:
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* ___enumSeperatorCharArray_0;
-
-public:
-	inline static int32_t get_offset_of_enumSeperatorCharArray_0() { return static_cast<int32_t>(offsetof(Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields, ___enumSeperatorCharArray_0)); }
-	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* get_enumSeperatorCharArray_0() const { return ___enumSeperatorCharArray_0; }
-	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34** get_address_of_enumSeperatorCharArray_0() { return &___enumSeperatorCharArray_0; }
-	inline void set_enumSeperatorCharArray_0(CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* value)
-	{
-		___enumSeperatorCharArray_0 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___enumSeperatorCharArray_0), (void*)value);
-	}
 };
 
 // Native definition for P/Invoke marshalling of System.Enum
@@ -308,22 +246,6 @@ public:
 	inline void set_m_value_0(void* value)
 	{
 		___m_value_0 = value;
-	}
-};
-
-struct IntPtr_t_StaticFields
-{
-public:
-	// System.IntPtr System.IntPtr::Zero
-	intptr_t ___Zero_1;
-
-public:
-	inline static int32_t get_offset_of_Zero_1() { return static_cast<int32_t>(offsetof(IntPtr_t_StaticFields, ___Zero_1)); }
-	inline intptr_t get_Zero_1() const { return ___Zero_1; }
-	inline intptr_t* get_address_of_Zero_1() { return &___Zero_1; }
-	inline void set_Zero_1(intptr_t value)
-	{
-		___Zero_1 = value;
 	}
 };
 
@@ -621,23 +543,6 @@ public:
 	}
 };
 
-struct AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields
-{
-public:
-	// System.AttributeUsageAttribute System.AttributeUsageAttribute::Default
-	AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * ___Default_3;
-
-public:
-	inline static int32_t get_offset_of_Default_3() { return static_cast<int32_t>(offsetof(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields, ___Default_3)); }
-	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * get_Default_3() const { return ___Default_3; }
-	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C ** get_address_of_Default_3() { return &___Default_3; }
-	inline void set_Default_3(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * value)
-	{
-		___Default_3 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___Default_3), (void*)value);
-	}
-};
-
 
 // System.Diagnostics.DebuggableAttribute
 struct DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
@@ -691,6 +596,290 @@ public:
 		____impl_9 = value;
 	}
 };
+
+
+// System.Object
+
+
+// System.Object
+
+
+// System.Attribute
+
+
+// System.Attribute
+
+
+// System.Reflection.MemberInfo
+
+
+// System.Reflection.MemberInfo
+
+
+// System.String
+
+struct String_t_StaticFields
+{
+public:
+	// System.String System.String::Empty
+	String_t* ___Empty_5;
+
+public:
+	inline static int32_t get_offset_of_Empty_5() { return static_cast<int32_t>(offsetof(String_t_StaticFields, ___Empty_5)); }
+	inline String_t* get_Empty_5() const { return ___Empty_5; }
+	inline String_t** get_address_of_Empty_5() { return &___Empty_5; }
+	inline void set_Empty_5(String_t* value)
+	{
+		___Empty_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___Empty_5), (void*)value);
+	}
+};
+
+
+// System.String
+
+
+// System.ValueType
+
+
+// System.ValueType
+
+
+// System.Boolean
+
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields
+{
+public:
+	// System.String System.Boolean::TrueString
+	String_t* ___TrueString_5;
+	// System.String System.Boolean::FalseString
+	String_t* ___FalseString_6;
+
+public:
+	inline static int32_t get_offset_of_TrueString_5() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___TrueString_5)); }
+	inline String_t* get_TrueString_5() const { return ___TrueString_5; }
+	inline String_t** get_address_of_TrueString_5() { return &___TrueString_5; }
+	inline void set_TrueString_5(String_t* value)
+	{
+		___TrueString_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___TrueString_5), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_FalseString_6() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___FalseString_6)); }
+	inline String_t* get_FalseString_6() const { return ___FalseString_6; }
+	inline String_t** get_address_of_FalseString_6() { return &___FalseString_6; }
+	inline void set_FalseString_6(String_t* value)
+	{
+		___FalseString_6 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___FalseString_6), (void*)value);
+	}
+};
+
+
+// System.Boolean
+
+
+// System.Runtime.CompilerServices.CompilationRelaxationsAttribute
+
+
+// System.Runtime.CompilerServices.CompilationRelaxationsAttribute
+
+
+// System.Runtime.CompilerServices.CompilerGeneratedAttribute
+
+
+// System.Runtime.CompilerServices.CompilerGeneratedAttribute
+
+
+// System.Diagnostics.DebuggerHiddenAttribute
+
+
+// System.Diagnostics.DebuggerHiddenAttribute
+
+
+// System.Enum
+
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields
+{
+public:
+	// System.Char[] System.Enum::enumSeperatorCharArray
+	CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* ___enumSeperatorCharArray_0;
+
+public:
+	inline static int32_t get_offset_of_enumSeperatorCharArray_0() { return static_cast<int32_t>(offsetof(Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields, ___enumSeperatorCharArray_0)); }
+	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* get_enumSeperatorCharArray_0() const { return ___enumSeperatorCharArray_0; }
+	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34** get_address_of_enumSeperatorCharArray_0() { return &___enumSeperatorCharArray_0; }
+	inline void set_enumSeperatorCharArray_0(CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* value)
+	{
+		___enumSeperatorCharArray_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___enumSeperatorCharArray_0), (void*)value);
+	}
+};
+
+
+// System.Enum
+
+
+// UnityEngine.Serialization.FormerlySerializedAsAttribute
+
+
+// UnityEngine.Serialization.FormerlySerializedAsAttribute
+
+
+// UnityEngine.HideInInspector
+
+
+// UnityEngine.HideInInspector
+
+
+// System.IntPtr
+
+struct IntPtr_t_StaticFields
+{
+public:
+	// System.IntPtr System.IntPtr::Zero
+	intptr_t ___Zero_1;
+
+public:
+	inline static int32_t get_offset_of_Zero_1() { return static_cast<int32_t>(offsetof(IntPtr_t_StaticFields, ___Zero_1)); }
+	inline intptr_t get_Zero_1() const { return ___Zero_1; }
+	inline intptr_t* get_address_of_Zero_1() { return &___Zero_1; }
+	inline void set_Zero_1(intptr_t value)
+	{
+		___Zero_1 = value;
+	}
+};
+
+
+// System.IntPtr
+
+
+// System.Runtime.CompilerServices.InternalsVisibleToAttribute
+
+
+// System.Runtime.CompilerServices.InternalsVisibleToAttribute
+
+
+// System.ObsoleteAttribute
+
+
+// System.ObsoleteAttribute
+
+
+// UnityEngine.Scripting.PreserveAttribute
+
+
+// UnityEngine.Scripting.PreserveAttribute
+
+
+// UnityEngine.PropertyAttribute
+
+
+// UnityEngine.PropertyAttribute
+
+
+// System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
+
+
+// System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
+
+
+// UnityEngine.SerializeField
+
+
+// UnityEngine.SerializeField
+
+
+// System.Runtime.CompilerServices.StateMachineAttribute
+
+
+// System.Runtime.CompilerServices.StateMachineAttribute
+
+
+// System.Void
+
+
+// System.Void
+
+
+// System.AttributeTargets
+
+
+// System.AttributeTargets
+
+
+// System.Reflection.BindingFlags
+
+
+// System.Reflection.BindingFlags
+
+
+// System.Runtime.CompilerServices.IteratorStateMachineAttribute
+
+
+// System.Runtime.CompilerServices.IteratorStateMachineAttribute
+
+
+// UnityEngine.RuntimeInitializeLoadType
+
+
+// UnityEngine.RuntimeInitializeLoadType
+
+
+// System.RuntimeTypeHandle
+
+
+// System.RuntimeTypeHandle
+
+
+// UnityEngine.TooltipAttribute
+
+
+// UnityEngine.TooltipAttribute
+
+
+// System.Diagnostics.DebuggableAttribute/DebuggingModes
+
+
+// System.Diagnostics.DebuggableAttribute/DebuggingModes
+
+
+// System.AttributeUsageAttribute
+
+struct AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields
+{
+public:
+	// System.AttributeUsageAttribute System.AttributeUsageAttribute::Default
+	AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * ___Default_3;
+
+public:
+	inline static int32_t get_offset_of_Default_3() { return static_cast<int32_t>(offsetof(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C_StaticFields, ___Default_3)); }
+	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * get_Default_3() const { return ___Default_3; }
+	inline AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C ** get_address_of_Default_3() { return &___Default_3; }
+	inline void set_Default_3(AttributeUsageAttribute_tBB0BAAA82036E6FCDD80A688BBD039F6FFD8EA1C * value)
+	{
+		___Default_3 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___Default_3), (void*)value);
+	}
+};
+
+
+// System.AttributeUsageAttribute
+
+
+// System.Diagnostics.DebuggableAttribute
+
+
+// System.Diagnostics.DebuggableAttribute
+
+
+// UnityEngine.RuntimeInitializeOnLoadMethodAttribute
+
+
+// UnityEngine.RuntimeInitializeOnLoadMethodAttribute
+
+
+// System.Type
 
 struct Type_t_StaticFields
 {
@@ -773,6 +962,9 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___defaultBinder_6), (void*)value);
 	}
 };
+
+
+// System.Type
 
 #ifdef __clang__
 #pragma clang diagnostic pop
@@ -903,14 +1095,14 @@ static void XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAt
 		TooltipAttribute__ctor_m1839ACEC1560968A6D0EA55D7EB4535546588042(tmp, il2cpp_codegen_string_new_wrapper("\x54\x6F\x67\x67\x6C\x69\x6E\x67\x20\x74\x68\x69\x73\x20\x6F\x6E\x2F\x6F\x66\x66\x20\x77\x69\x6C\x6C\x20\x65\x6E\x61\x62\x6C\x65\x2F\x64\x69\x73\x61\x62\x6C\x65\x20\x74\x68\x65\x20\x61\x75\x74\x6F\x6D\x61\x74\x69\x63\x20\x73\x74\x61\x72\x74\x75\x70\x20\x6F\x66\x20\x58\x52\x20\x61\x74\x20\x72\x75\x6E\x20\x74\x69\x6D\x65\x2E"), NULL);
 	}
 }
-static void XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptInitializeXRSDKOnLoad_m25C4FF6460E96AB85AD43A0FFFE4569E3618E196(CustomAttributesCache* cache)
+static void XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptInitializeXRSDKOnLoad_mEC77FDD509D436BE7E81FB0FE9A7AEBBBB1B7A18(CustomAttributesCache* cache)
 {
 	{
 		RuntimeInitializeOnLoadMethodAttribute_tDE87D2AA72896514411AC9F8F48A4084536BDC2D * tmp = (RuntimeInitializeOnLoadMethodAttribute_tDE87D2AA72896514411AC9F8F48A4084536BDC2D *)cache->attributes[0];
 		RuntimeInitializeOnLoadMethodAttribute__ctor_mE79C8FD7B18EC53391334A6E6A66CAF09CDA8516(tmp, 2LL, NULL);
 	}
 }
-static void XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m69A4793D7DC90E31D4C00ABB34AB2F18DAFD107C(CustomAttributesCache* cache)
+static void XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m306CE397F67670D3B6ACF6C3471BC0DECA5C6E16(CustomAttributesCache* cache)
 {
 	{
 		RuntimeInitializeOnLoadMethodAttribute_tDE87D2AA72896514411AC9F8F48A4084536BDC2D * tmp = (RuntimeInitializeOnLoadMethodAttribute_tDE87D2AA72896514411AC9F8F48A4084536BDC2D *)cache->attributes[0];
@@ -1115,8 +1307,8 @@ const CustomAttributesCacheGenerator g_Unity_XR_Management_AttributeGenerators[3
 	XRConfigurationDataAttribute_tC94F83D607B934FF3F894802DF857C51AA165236_CustomAttributesCacheGenerator_XRConfigurationDataAttribute_set_displayName_mFE7B985C02F56D827A5819BC7C622FEF8A34742E,
 	XRConfigurationDataAttribute_tC94F83D607B934FF3F894802DF857C51AA165236_CustomAttributesCacheGenerator_XRConfigurationDataAttribute_get_buildSettingsKey_m0E2C659E5049C4700D88265718DABE39625F4808,
 	XRConfigurationDataAttribute_tC94F83D607B934FF3F894802DF857C51AA165236_CustomAttributesCacheGenerator_XRConfigurationDataAttribute_set_buildSettingsKey_mB3C7DFD97AA98506013E603211DCABDE89694889,
-	XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptInitializeXRSDKOnLoad_m25C4FF6460E96AB85AD43A0FFFE4569E3618E196,
-	XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m69A4793D7DC90E31D4C00ABB34AB2F18DAFD107C,
+	XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptInitializeXRSDKOnLoad_mEC77FDD509D436BE7E81FB0FE9A7AEBBBB1B7A18,
+	XRGeneralSettings_t32A12852D8662239F55902E9FD6A299201C04042_CustomAttributesCacheGenerator_XRGeneralSettings_AttemptStartXRSDKOnBeforeSplashScreen_m306CE397F67670D3B6ACF6C3471BC0DECA5C6E16,
 	XRLoaderHelper_t37A55C343AC31D25BB3EBD203DABFA357F51C013_CustomAttributesCacheGenerator_XRLoaderHelper_CreateIntegratedSubsystem_m9E70E7FE114FC51518203D5F192ACB6AF5D37887,
 	XRLoaderHelper_t37A55C343AC31D25BB3EBD203DABFA357F51C013_CustomAttributesCacheGenerator_XRLoaderHelper_CreateStandaloneSubsystem_mE29B3965173D0959D864790E7DDA945157C950D0,
 	XRManagerSettings_t8F274E413BAFFBB547DAD1B7E50EDD9D7B16E19F_CustomAttributesCacheGenerator_XRManagerSettings_get_activeLoader_mB1950E58B1DD1774EB2798CEBA6D3C371CE8F1D8,

@@ -82,34 +82,6 @@ public:
 	}
 };
 
-struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields
-{
-public:
-	// System.String System.Boolean::TrueString
-	String_t* ___TrueString_5;
-	// System.String System.Boolean::FalseString
-	String_t* ___FalseString_6;
-
-public:
-	inline static int32_t get_offset_of_TrueString_5() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___TrueString_5)); }
-	inline String_t* get_TrueString_5() const { return ___TrueString_5; }
-	inline String_t** get_address_of_TrueString_5() { return &___TrueString_5; }
-	inline void set_TrueString_5(String_t* value)
-	{
-		___TrueString_5 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___TrueString_5), (void*)value);
-	}
-
-	inline static int32_t get_offset_of_FalseString_6() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___FalseString_6)); }
-	inline String_t* get_FalseString_6() const { return ___FalseString_6; }
-	inline String_t** get_address_of_FalseString_6() { return &___FalseString_6; }
-	inline void set_FalseString_6(String_t* value)
-	{
-		___FalseString_6 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___FalseString_6), (void*)value);
-	}
-};
-
 
 // System.Runtime.CompilerServices.CompilationRelaxationsAttribute
 struct CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
@@ -144,23 +116,6 @@ struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF99
 public:
 
 public:
-};
-
-struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields
-{
-public:
-	// System.Char[] System.Enum::enumSeperatorCharArray
-	CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* ___enumSeperatorCharArray_0;
-
-public:
-	inline static int32_t get_offset_of_enumSeperatorCharArray_0() { return static_cast<int32_t>(offsetof(Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields, ___enumSeperatorCharArray_0)); }
-	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* get_enumSeperatorCharArray_0() const { return ___enumSeperatorCharArray_0; }
-	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34** get_address_of_enumSeperatorCharArray_0() { return &___enumSeperatorCharArray_0; }
-	inline void set_enumSeperatorCharArray_0(CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* value)
-	{
-		___enumSeperatorCharArray_0 = value;
-		Il2CppCodeGenWriteBarrier((void**)(&___enumSeperatorCharArray_0), (void*)value);
-	}
 };
 
 // Native definition for P/Invoke marshalling of System.Enum
@@ -241,6 +196,117 @@ public:
 	}
 };
 
+
+// System.Object
+
+
+// System.Object
+
+
+// System.Attribute
+
+
+// System.Attribute
+
+
+// System.ValueType
+
+
+// System.ValueType
+
+
+// System.Boolean
+
+struct Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields
+{
+public:
+	// System.String System.Boolean::TrueString
+	String_t* ___TrueString_5;
+	// System.String System.Boolean::FalseString
+	String_t* ___FalseString_6;
+
+public:
+	inline static int32_t get_offset_of_TrueString_5() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___TrueString_5)); }
+	inline String_t* get_TrueString_5() const { return ___TrueString_5; }
+	inline String_t** get_address_of_TrueString_5() { return &___TrueString_5; }
+	inline void set_TrueString_5(String_t* value)
+	{
+		___TrueString_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___TrueString_5), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_FalseString_6() { return static_cast<int32_t>(offsetof(Boolean_t07D1E3F34E4813023D64F584DFF7B34C9D922F37_StaticFields, ___FalseString_6)); }
+	inline String_t* get_FalseString_6() const { return ___FalseString_6; }
+	inline String_t** get_address_of_FalseString_6() { return &___FalseString_6; }
+	inline void set_FalseString_6(String_t* value)
+	{
+		___FalseString_6 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___FalseString_6), (void*)value);
+	}
+};
+
+
+// System.Boolean
+
+
+// System.Runtime.CompilerServices.CompilationRelaxationsAttribute
+
+
+// System.Runtime.CompilerServices.CompilationRelaxationsAttribute
+
+
+// System.Runtime.CompilerServices.CompilerGeneratedAttribute
+
+
+// System.Runtime.CompilerServices.CompilerGeneratedAttribute
+
+
+// System.Enum
+
+struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields
+{
+public:
+	// System.Char[] System.Enum::enumSeperatorCharArray
+	CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* ___enumSeperatorCharArray_0;
+
+public:
+	inline static int32_t get_offset_of_enumSeperatorCharArray_0() { return static_cast<int32_t>(offsetof(Enum_t23B90B40F60E677A8025267341651C94AE079CDA_StaticFields, ___enumSeperatorCharArray_0)); }
+	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* get_enumSeperatorCharArray_0() const { return ___enumSeperatorCharArray_0; }
+	inline CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34** get_address_of_enumSeperatorCharArray_0() { return &___enumSeperatorCharArray_0; }
+	inline void set_enumSeperatorCharArray_0(CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34* value)
+	{
+		___enumSeperatorCharArray_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___enumSeperatorCharArray_0), (void*)value);
+	}
+};
+
+
+// System.Enum
+
+
+// System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
+
+
+// System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
+
+
+// System.Void
+
+
+// System.Void
+
+
+// System.Diagnostics.DebuggableAttribute/DebuggingModes
+
+
+// System.Diagnostics.DebuggableAttribute/DebuggingModes
+
+
+// System.Diagnostics.DebuggableAttribute
+
+
+// System.Diagnostics.DebuggableAttribute
+
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
@@ -287,28 +353,28 @@ static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesC
 		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
 	}
 }
-static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isInitialized_m22D0EC4CE294402F194A3BBBEEA27ED2993CF227(CustomAttributesCache* cache)
+static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isInitialized_m282E18F66DD3820795A9C00FDB0002D2A2252432(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
 		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
 	}
 }
-static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isInitialized_m54716D2C02CE805F9E2024DA860CBA0F3398E9C6(CustomAttributesCache* cache)
+static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isInitialized_mD1E7FACB0875D08B5295BCF940F5BFE2F383AD04(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
 		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
 	}
 }
-static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isStarted_m5FFF5967AEA3A6207C711ADCCA10119878D632F6(CustomAttributesCache* cache)
+static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isStarted_m37323DE30D8A80200A4832C93F0123505E0A5B1C(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
 		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
 	}
 }
-static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isStarted_m9C0CEB5FF0496335E6A7B9E0F8B7909B210311B1(CustomAttributesCache* cache)
+static void XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isStarted_m907FB1005E059D9AA283C36D2CD5B8C18D8B8AC1(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
@@ -320,10 +386,10 @@ const CustomAttributesCacheGenerator g_Google_XR_Cardboard_AttributeGenerators[7
 {
 	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_U3C_isInitializedU3Ek__BackingField,
 	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_U3C_isStartedU3Ek__BackingField,
-	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isInitialized_m22D0EC4CE294402F194A3BBBEEA27ED2993CF227,
-	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isInitialized_m54716D2C02CE805F9E2024DA860CBA0F3398E9C6,
-	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isStarted_m5FFF5967AEA3A6207C711ADCCA10119878D632F6,
-	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isStarted_m9C0CEB5FF0496335E6A7B9E0F8B7909B210311B1,
+	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isInitialized_m282E18F66DD3820795A9C00FDB0002D2A2252432,
+	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isInitialized_mD1E7FACB0875D08B5295BCF940F5BFE2F383AD04,
+	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_get__isStarted_m37323DE30D8A80200A4832C93F0123505E0A5B1C,
+	XRLoader_tBFC47C70E009A49E411CB3B9BCBBEAF677F3839C_CustomAttributesCacheGenerator_XRLoader_set__isStarted_m907FB1005E059D9AA283C36D2CD5B8C18D8B8AC1,
 	Google_XR_Cardboard_CustomAttributesCacheGenerator,
 };
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void RuntimeCompatibilityAttribute_set_WrapNonExceptionThrows_m8562196F90F3EBCEC23B5708EE0332842883C490_inline (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * __this, bool ___value0, const RuntimeMethod* method)

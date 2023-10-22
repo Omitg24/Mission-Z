@@ -29,7 +29,7 @@ extern void IntegratedSubsystem_Destroy_m5BFEA4F1ABE7EC8D49A8D3EC26F3CFD130B644E
 extern void IntegratedSubsystem__ctor_mCD638F6C367F1B83B1CB62130E570CA64A757DCE (void);
 // 0x0000000B System.Void UnityEngine.IntegratedSubsystem`1::.ctor()
 // 0x0000000C System.Void UnityEngine.SubsystemBindings::DestroySubsystem(System.IntPtr)
-extern void SubsystemBindings_DestroySubsystem_mD1475865CBF08D2F186001E997D23C6DC3B4168B (void);
+extern void SubsystemBindings_DestroySubsystem_mCAFB6426CBC1AFAA2238BC80F09D4E7A5D29F313 (void);
 // 0x0000000D System.String UnityEngine.IntegratedSubsystemDescriptor::get_id()
 extern void IntegratedSubsystemDescriptor_get_id_m0347A7AE998F0210CC7DAD1DA974F788AB2CF879 (void);
 // 0x0000000E UnityEngine.ISubsystem UnityEngine.IntegratedSubsystemDescriptor::UnityEngine.ISubsystemDescriptor.Create()
@@ -41,9 +41,9 @@ extern void IntegratedSubsystemDescriptor__ctor_m06A2C2DB3D3004DFAC7344C2B8FDEF8
 // 0x00000012 TSubsystem UnityEngine.IntegratedSubsystemDescriptor`1::Create()
 // 0x00000013 System.Void UnityEngine.IntegratedSubsystemDescriptor`1::.ctor()
 // 0x00000014 System.IntPtr UnityEngine.SubsystemDescriptorBindings::Create(System.IntPtr)
-extern void SubsystemDescriptorBindings_Create_mB358F97751BB51F223F8E413B06C499A3A10DE3F (void);
+extern void SubsystemDescriptorBindings_Create_m1EAAEB56ACBA037C7EEC0FA5F76A289D24FC73A5 (void);
 // 0x00000015 System.String UnityEngine.SubsystemDescriptorBindings::GetId(System.IntPtr)
-extern void SubsystemDescriptorBindings_GetId_mDEF8D961120A68B1B81C6E3F802CB6C9E8116698 (void);
+extern void SubsystemDescriptorBindings_GetId_m4EE049E0406900218C91037D565289AD91C58344 (void);
 // 0x00000016 System.Void UnityEngine.Subsystem::Start()
 // 0x00000017 System.Void UnityEngine.Subsystem::Stop()
 // 0x00000018 System.Void UnityEngine.Subsystem::Destroy()
@@ -59,41 +59,41 @@ extern void SubsystemDescriptor_UnityEngine_ISubsystemDescriptor_Create_m0AFFA85
 // 0x0000001E System.Void UnityEngine.SubsystemDescriptor::.ctor()
 extern void SubsystemDescriptor__ctor_m6BE761B6ADD71B136BCECB0F54B82801B7222114 (void);
 // 0x0000001F System.Void UnityEngine.Internal_SubsystemDescriptors::Internal_AddDescriptor(UnityEngine.SubsystemDescriptor)
-extern void Internal_SubsystemDescriptors_Internal_AddDescriptor_mB9FD6DBE105FA735294E48F0DE9AA1382AA74F77 (void);
+extern void Internal_SubsystemDescriptors_Internal_AddDescriptor_mE58F93C9BD9EB0B214A035BD2946502E7D6F7F28 (void);
 // 0x00000020 System.Void UnityEngine.SubsystemManager::ReloadSubsystemsStarted()
-extern void SubsystemManager_ReloadSubsystemsStarted_m133404E60993652E87FDF45DA28C87FDC5671D46 (void);
+extern void SubsystemManager_ReloadSubsystemsStarted_mE03EAF84668B7899152ABF20A772A8F730EBE4EC (void);
 // 0x00000021 System.Void UnityEngine.SubsystemManager::ReloadSubsystemsCompleted()
-extern void SubsystemManager_ReloadSubsystemsCompleted_m764A6E65F5ABB205C7E4948E320D3F2558EBE9B3 (void);
+extern void SubsystemManager_ReloadSubsystemsCompleted_m06A346A8997A31C8987097F1BBDCA8D2E50DEF15 (void);
 // 0x00000022 System.Void UnityEngine.SubsystemManager::InitializeIntegratedSubsystem(System.IntPtr,UnityEngine.IntegratedSubsystem)
-extern void SubsystemManager_InitializeIntegratedSubsystem_m6FB689B16CAD4F343859F6CE93BFBC92818D1BDE (void);
+extern void SubsystemManager_InitializeIntegratedSubsystem_m7C561115016DBF4028D144CAE7EB0F7CD2FB414C (void);
 // 0x00000023 System.Void UnityEngine.SubsystemManager::ClearSubsystems()
-extern void SubsystemManager_ClearSubsystems_mBABA311915C4E3302003EA18B4ED6C348289E2C2 (void);
+extern void SubsystemManager_ClearSubsystems_mAB4253ABD8AC74C8D7E2315901E6AAAFD052ADBE (void);
 // 0x00000024 System.Void UnityEngine.SubsystemManager::StaticConstructScriptingClassMap()
-extern void SubsystemManager_StaticConstructScriptingClassMap_m2D54CD8E480B334F4EC0EAAF49DE4186895885EE (void);
+extern void SubsystemManager_StaticConstructScriptingClassMap_m7BCC8951814431E9175831E56D21140102487FB8 (void);
 // 0x00000025 System.Void UnityEngine.SubsystemManager::.cctor()
-extern void SubsystemManager__cctor_m623E9CEA1E2F73608F88CAA9F087A9A9A8A139AB (void);
+extern void SubsystemManager__cctor_m186104F78CF555D1FE2C6E93B0C9F58B5E7A940E (void);
 // 0x00000026 System.Void UnityEngine.SubsystemManager::GetSubsystemDescriptors(System.Collections.Generic.List`1<T>)
 // 0x00000027 UnityEngine.IntegratedSubsystem UnityEngine.SubsystemManager::GetIntegratedSubsystemByPtr(System.IntPtr)
-extern void SubsystemManager_GetIntegratedSubsystemByPtr_mD152809BEEF4343B0AFD44A64EEE832ED90760EA (void);
+extern void SubsystemManager_GetIntegratedSubsystemByPtr_mF7CCFB02956CB6FF9262BF47CF8F914AB78BF086 (void);
 // 0x00000028 System.Void UnityEngine.SubsystemManager::RemoveIntegratedSubsystemByPtr(System.IntPtr)
-extern void SubsystemManager_RemoveIntegratedSubsystemByPtr_m90DE2A764E672B3F1510B54F1AEAF6C210A2707F (void);
+extern void SubsystemManager_RemoveIntegratedSubsystemByPtr_m3D6F6DC3E22489D9053E51E41CE94876069D61D8 (void);
 // 0x00000029 System.Boolean UnityEngine.SubsystemManager::RemoveStandaloneSubsystem(UnityEngine.SubsystemsImplementation.SubsystemWithProvider)
-extern void SubsystemManager_RemoveStandaloneSubsystem_mA14035174B5AB3978905B9672E8ACBAFE0B53065 (void);
+extern void SubsystemManager_RemoveStandaloneSubsystem_m27010F800C618B4E73A798FE3B8B2F692DC334DB (void);
 // 0x0000002A System.Boolean UnityEngine.SubsystemManager::RemoveDeprecatedSubsystem(UnityEngine.Subsystem)
-extern void SubsystemManager_RemoveDeprecatedSubsystem_mEF2D1498A45BD649BEE7AAF7C910BCB40A35AE7B (void);
+extern void SubsystemManager_RemoveDeprecatedSubsystem_m0F8C6930F36F8528678BC3CD4D0B9123AB37C3C3 (void);
 // 0x0000002B System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::InitializeManagedDescriptor(System.IntPtr,UnityEngine.IntegratedSubsystemDescriptor)
-extern void SubsystemDescriptorStore_InitializeManagedDescriptor_mE61A5D7DF72A574A47CFCEF088FE87D28CFBD149 (void);
+extern void SubsystemDescriptorStore_InitializeManagedDescriptor_m4B7C0A3C441DE725F0CA82B53D88B247A4AB9FEB (void);
 // 0x0000002C System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::ClearManagedDescriptors()
-extern void SubsystemDescriptorStore_ClearManagedDescriptors_mF6942653535F926FEED695280935CCF7D5AF1A69 (void);
+extern void SubsystemDescriptorStore_ClearManagedDescriptors_mCA2345CD1E74F02AF1FEEB78F855D52D91953DA4 (void);
 // 0x0000002D System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::ReportSingleSubsystemAnalytics(System.String)
-extern void SubsystemDescriptorStore_ReportSingleSubsystemAnalytics_m8DD2291586A77B073F3AF1E84F66C3AE77F5872D (void);
+extern void SubsystemDescriptorStore_ReportSingleSubsystemAnalytics_mC7D6C2CD8C3AD93F3DCC4CA3CE04B2B95C30DC15 (void);
 // 0x0000002E System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::GetSubsystemDescriptors(System.Collections.Generic.List`1<T>)
 // 0x0000002F System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::AddDescriptorSubset(System.Collections.Generic.List`1<TBaseTypeInList>,System.Collections.Generic.List`1<TQueryType>)
 // 0x00000030 System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::RegisterDescriptor(TDescriptor,System.Collections.Generic.List`1<TBaseTypeInList>)
 // 0x00000031 System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::RegisterDeprecatedDescriptor(UnityEngine.SubsystemDescriptor)
-extern void SubsystemDescriptorStore_RegisterDeprecatedDescriptor_m9AD18069E5C5168A36E15F2E6C3EB3050AAC5C57 (void);
+extern void SubsystemDescriptorStore_RegisterDeprecatedDescriptor_m33D7186142719280B4AB1DAED92AE5D417531333 (void);
 // 0x00000032 System.Void UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::.cctor()
-extern void SubsystemDescriptorStore__cctor_mFD5033CA9CAA5C6D585E425EA1AD94F24B05BA2B (void);
+extern void SubsystemDescriptorStore__cctor_m307A0E309C2618E022D55F55B8491A0180BA03AA (void);
 // 0x00000033 System.String UnityEngine.SubsystemsImplementation.SubsystemDescriptorWithProvider::get_id()
 extern void SubsystemDescriptorWithProvider_get_id_m0341F88D726C677F81277CD2C4A43919EA942861 (void);
 // 0x00000034 UnityEngine.ISubsystem UnityEngine.SubsystemsImplementation.SubsystemDescriptorWithProvider::CreateImpl()
@@ -131,7 +131,7 @@ static Il2CppMethodPointer s_methodPointers[64] =
 	IntegratedSubsystem_Destroy_m5BFEA4F1ABE7EC8D49A8D3EC26F3CFD130B644EB,
 	IntegratedSubsystem__ctor_mCD638F6C367F1B83B1CB62130E570CA64A757DCE,
 	NULL,
-	SubsystemBindings_DestroySubsystem_mD1475865CBF08D2F186001E997D23C6DC3B4168B,
+	SubsystemBindings_DestroySubsystem_mCAFB6426CBC1AFAA2238BC80F09D4E7A5D29F313,
 	IntegratedSubsystemDescriptor_get_id_m0347A7AE998F0210CC7DAD1DA974F788AB2CF879,
 	IntegratedSubsystemDescriptor_UnityEngine_ISubsystemDescriptor_Create_m3DE9FD94E91134C6FA609E1CE456601CB21CE0FA,
 	NULL,
@@ -139,8 +139,8 @@ static Il2CppMethodPointer s_methodPointers[64] =
 	NULL,
 	NULL,
 	NULL,
-	SubsystemDescriptorBindings_Create_mB358F97751BB51F223F8E413B06C499A3A10DE3F,
-	SubsystemDescriptorBindings_GetId_mDEF8D961120A68B1B81C6E3F802CB6C9E8116698,
+	SubsystemDescriptorBindings_Create_m1EAAEB56ACBA037C7EEC0FA5F76A289D24FC73A5,
+	SubsystemDescriptorBindings_GetId_m4EE049E0406900218C91037D565289AD91C58344,
 	NULL,
 	NULL,
 	Subsystem_Destroy_mDAEF3C8FEE45DEAB90452E998E249CAEAB32A329,
@@ -150,26 +150,26 @@ static Il2CppMethodPointer s_methodPointers[64] =
 	SubsystemDescriptor_UnityEngine_ISubsystemDescriptor_Create_m0AFFA85A627D74C7CBC704D12583C710EDC74AE6,
 	NULL,
 	SubsystemDescriptor__ctor_m6BE761B6ADD71B136BCECB0F54B82801B7222114,
-	Internal_SubsystemDescriptors_Internal_AddDescriptor_mB9FD6DBE105FA735294E48F0DE9AA1382AA74F77,
-	SubsystemManager_ReloadSubsystemsStarted_m133404E60993652E87FDF45DA28C87FDC5671D46,
-	SubsystemManager_ReloadSubsystemsCompleted_m764A6E65F5ABB205C7E4948E320D3F2558EBE9B3,
-	SubsystemManager_InitializeIntegratedSubsystem_m6FB689B16CAD4F343859F6CE93BFBC92818D1BDE,
-	SubsystemManager_ClearSubsystems_mBABA311915C4E3302003EA18B4ED6C348289E2C2,
-	SubsystemManager_StaticConstructScriptingClassMap_m2D54CD8E480B334F4EC0EAAF49DE4186895885EE,
-	SubsystemManager__cctor_m623E9CEA1E2F73608F88CAA9F087A9A9A8A139AB,
+	Internal_SubsystemDescriptors_Internal_AddDescriptor_mE58F93C9BD9EB0B214A035BD2946502E7D6F7F28,
+	SubsystemManager_ReloadSubsystemsStarted_mE03EAF84668B7899152ABF20A772A8F730EBE4EC,
+	SubsystemManager_ReloadSubsystemsCompleted_m06A346A8997A31C8987097F1BBDCA8D2E50DEF15,
+	SubsystemManager_InitializeIntegratedSubsystem_m7C561115016DBF4028D144CAE7EB0F7CD2FB414C,
+	SubsystemManager_ClearSubsystems_mAB4253ABD8AC74C8D7E2315901E6AAAFD052ADBE,
+	SubsystemManager_StaticConstructScriptingClassMap_m7BCC8951814431E9175831E56D21140102487FB8,
+	SubsystemManager__cctor_m186104F78CF555D1FE2C6E93B0C9F58B5E7A940E,
 	NULL,
-	SubsystemManager_GetIntegratedSubsystemByPtr_mD152809BEEF4343B0AFD44A64EEE832ED90760EA,
-	SubsystemManager_RemoveIntegratedSubsystemByPtr_m90DE2A764E672B3F1510B54F1AEAF6C210A2707F,
-	SubsystemManager_RemoveStandaloneSubsystem_mA14035174B5AB3978905B9672E8ACBAFE0B53065,
-	SubsystemManager_RemoveDeprecatedSubsystem_mEF2D1498A45BD649BEE7AAF7C910BCB40A35AE7B,
-	SubsystemDescriptorStore_InitializeManagedDescriptor_mE61A5D7DF72A574A47CFCEF088FE87D28CFBD149,
-	SubsystemDescriptorStore_ClearManagedDescriptors_mF6942653535F926FEED695280935CCF7D5AF1A69,
-	SubsystemDescriptorStore_ReportSingleSubsystemAnalytics_m8DD2291586A77B073F3AF1E84F66C3AE77F5872D,
+	SubsystemManager_GetIntegratedSubsystemByPtr_mF7CCFB02956CB6FF9262BF47CF8F914AB78BF086,
+	SubsystemManager_RemoveIntegratedSubsystemByPtr_m3D6F6DC3E22489D9053E51E41CE94876069D61D8,
+	SubsystemManager_RemoveStandaloneSubsystem_m27010F800C618B4E73A798FE3B8B2F692DC334DB,
+	SubsystemManager_RemoveDeprecatedSubsystem_m0F8C6930F36F8528678BC3CD4D0B9123AB37C3C3,
+	SubsystemDescriptorStore_InitializeManagedDescriptor_m4B7C0A3C441DE725F0CA82B53D88B247A4AB9FEB,
+	SubsystemDescriptorStore_ClearManagedDescriptors_mCA2345CD1E74F02AF1FEEB78F855D52D91953DA4,
+	SubsystemDescriptorStore_ReportSingleSubsystemAnalytics_mC7D6C2CD8C3AD93F3DCC4CA3CE04B2B95C30DC15,
 	NULL,
 	NULL,
 	NULL,
-	SubsystemDescriptorStore_RegisterDeprecatedDescriptor_m9AD18069E5C5168A36E15F2E6C3EB3050AAC5C57,
-	SubsystemDescriptorStore__cctor_mFD5033CA9CAA5C6D585E425EA1AD94F24B05BA2B,
+	SubsystemDescriptorStore_RegisterDeprecatedDescriptor_m33D7186142719280B4AB1DAED92AE5D417531333,
+	SubsystemDescriptorStore__cctor_m307A0E309C2618E022D55F55B8491A0180BA03AA,
 	SubsystemDescriptorWithProvider_get_id_m0341F88D726C677F81277CD2C4A43919EA942861,
 	NULL,
 	SubsystemDescriptorWithProvider_UnityEngine_ISubsystemDescriptor_Create_m6CC3F83506713E379B74615A90212328BB07D48A,
@@ -187,70 +187,70 @@ static Il2CppMethodPointer s_methodPointers[64] =
 };
 static const int32_t s_InvokerIndices[64] = 
 {
-	1289,
-	1289,
-	1289,
-	1255,
-	1255,
-	1098,
-	1289,
-	1289,
-	1289,
-	1289,
+	2848,
+	2848,
+	2848,
+	2794,
+	2794,
+	2361,
+	2848,
+	2848,
+	2848,
+	2848,
 	-1,
-	2267,
-	1255,
-	1255,
-	1255,
-	1289,
-	-1,
-	-1,
-	-1,
-	2142,
-	2163,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	1255,
-	1255,
-	1255,
-	1289,
-	2268,
-	2309,
-	2309,
-	2021,
-	2309,
-	2309,
-	2309,
-	-1,
-	2163,
-	2267,
-	2055,
-	2055,
-	2021,
-	2309,
-	2268,
+	4411,
+	2794,
+	2794,
+	2794,
+	2848,
 	-1,
 	-1,
 	-1,
-	2268,
-	2309,
-	1255,
-	1255,
-	1255,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	1289,
-	1225,
-	1063,
-	1255,
-	1289,
+	4238,
+	4271,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	2794,
+	2794,
+	2794,
+	2848,
+	4412,
+	4478,
+	4478,
+	4056,
+	4478,
+	4478,
+	4478,
+	-1,
+	4271,
+	4411,
+	4124,
+	4124,
+	4056,
+	4478,
+	4412,
+	-1,
+	-1,
+	-1,
+	4412,
+	4478,
+	2794,
+	2794,
+	2794,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	2848,
+	2743,
+	2304,
+	2794,
+	2848,
 };
 static const Il2CppTokenRangePair s_rgctxIndices[5] = 
 {
@@ -262,26 +262,26 @@ static const Il2CppTokenRangePair s_rgctxIndices[5] =
 };
 static const Il2CppRGCTXDefinition s_rgctxValues[20] = 
 {
-	{ (Il2CppRGCTXDataType)3, 2828 },
-	{ (Il2CppRGCTXDataType)2, 250 },
-	{ (Il2CppRGCTXDataType)3, 7111 },
-	{ (Il2CppRGCTXDataType)3, 3555 },
-	{ (Il2CppRGCTXDataType)3, 7107 },
-	{ (Il2CppRGCTXDataType)3, 7110 },
-	{ (Il2CppRGCTXDataType)3, 7109 },
-	{ (Il2CppRGCTXDataType)3, 3556 },
-	{ (Il2CppRGCTXDataType)3, 1823 },
-	{ (Il2CppRGCTXDataType)2, 197 },
-	{ (Il2CppRGCTXDataType)2, 357 },
-	{ (Il2CppRGCTXDataType)3, 3602 },
-	{ (Il2CppRGCTXDataType)3, 1822 },
-	{ (Il2CppRGCTXDataType)2, 655 },
-	{ (Il2CppRGCTXDataType)3, 3605 },
-	{ (Il2CppRGCTXDataType)2, 358 },
-	{ (Il2CppRGCTXDataType)2, 198 },
-	{ (Il2CppRGCTXDataType)3, 3606 },
-	{ (Il2CppRGCTXDataType)3, 3604 },
-	{ (Il2CppRGCTXDataType)3, 3603 },
+	{ (Il2CppRGCTXDataType)3, 7389 },
+	{ (Il2CppRGCTXDataType)2, 374 },
+	{ (Il2CppRGCTXDataType)3, 18180 },
+	{ (Il2CppRGCTXDataType)3, 9257 },
+	{ (Il2CppRGCTXDataType)3, 18176 },
+	{ (Il2CppRGCTXDataType)3, 18179 },
+	{ (Il2CppRGCTXDataType)3, 18178 },
+	{ (Il2CppRGCTXDataType)3, 9265 },
+	{ (Il2CppRGCTXDataType)3, 4990 },
+	{ (Il2CppRGCTXDataType)2, 303 },
+	{ (Il2CppRGCTXDataType)2, 537 },
+	{ (Il2CppRGCTXDataType)3, 9318 },
+	{ (Il2CppRGCTXDataType)3, 4989 },
+	{ (Il2CppRGCTXDataType)2, 1173 },
+	{ (Il2CppRGCTXDataType)3, 9321 },
+	{ (Il2CppRGCTXDataType)2, 538 },
+	{ (Il2CppRGCTXDataType)2, 304 },
+	{ (Il2CppRGCTXDataType)3, 9322 },
+	{ (Il2CppRGCTXDataType)3, 9320 },
+	{ (Il2CppRGCTXDataType)3, 9319 },
 };
 extern const CustomAttributesCacheGenerator g_UnityEngine_SubsystemsModule_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_SubsystemsModule_CodeGenModule;

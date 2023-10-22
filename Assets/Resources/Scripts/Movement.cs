@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Security.Cryptography;
 using System.Security;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+
 
 ///--------------------------------
 ///   Author: Victor Alvarez, Ph.D.
@@ -20,7 +20,6 @@ public class Movement : MonoBehaviour
     public Animator anim;
 
     Vector3 velocity;
-   
 
     // Start is called before the first frame update
     void Start()
@@ -47,5 +46,4 @@ public class Movement : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
         controller.Move(velocity * Time.deltaTime);
     }
-
 }

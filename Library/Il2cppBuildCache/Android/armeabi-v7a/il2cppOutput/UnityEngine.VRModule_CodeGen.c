@@ -13,46 +13,46 @@
 
 
 // 0x00000001 System.Boolean UnityEngine.XR.XRSettings::get_enabled()
-extern void XRSettings_get_enabled_m970BB98BF899D943776BE6EB66FE40AA9C12A902 (void);
+extern void XRSettings_get_enabled_m202056F80CE700EB87DD52C213BE30262B8433AE (void);
 // 0x00000002 System.Int32 UnityEngine.XR.XRSettings::get_eyeTextureWidth()
-extern void XRSettings_get_eyeTextureWidth_m6202CB8B350531730FAFBBC6CF64EECCA3CBD860 (void);
+extern void XRSettings_get_eyeTextureWidth_m58A1989DD2F55FCB2C92A712AEA493B6EEA3C55E (void);
 // 0x00000003 System.Int32 UnityEngine.XR.XRSettings::get_eyeTextureHeight()
-extern void XRSettings_get_eyeTextureHeight_m045874DF2D8935D59582C65D8EA9A0A3D96D091A (void);
+extern void XRSettings_get_eyeTextureHeight_mD4F91CDDB07756E9BF313DEFD3D74DFC6737E1A2 (void);
 // 0x00000004 System.String UnityEngine.XR.XRSettings::get_loadedDeviceName()
-extern void XRSettings_get_loadedDeviceName_m1E091DB259635ACAE9C3B77980CDB00AC06B6D4C (void);
+extern void XRSettings_get_loadedDeviceName_mFCE6E2901F4E9D598EB91C5255CA5353A69A34B4 (void);
 // 0x00000005 System.IntPtr UnityEngine.XR.XRDevice::GetNativePtr()
-extern void XRDevice_GetNativePtr_m4ACC65CAD3503CD14ED7682F6682458AA146951D (void);
+extern void XRDevice_GetNativePtr_m46457D4EE4AF0D894A5E2066BC7CBE35E0E1F9ED (void);
 // 0x00000006 System.Void UnityEngine.XR.XRDevice::add_deviceLoaded(System.Action`1<System.String>)
-extern void XRDevice_add_deviceLoaded_m47278AC2DA3262370FFDFF1F7FDAFE5F002DA528 (void);
+extern void XRDevice_add_deviceLoaded_m819CC05F9BE066F4830C18EB0C233601CEB9D290 (void);
 // 0x00000007 System.Void UnityEngine.XR.XRDevice::remove_deviceLoaded(System.Action`1<System.String>)
-extern void XRDevice_remove_deviceLoaded_m8F6F831CFE19F69A5DD1ACFEC34918912302E25E (void);
+extern void XRDevice_remove_deviceLoaded_m98917AA54D79D9ACDA94C9144B7034C31224DE48 (void);
 // 0x00000008 System.Void UnityEngine.XR.XRDevice::InvokeDeviceLoaded(System.String)
-extern void XRDevice_InvokeDeviceLoaded_m3BDF6825A2A56E4923D4E6593C7BA2949B6A3581 (void);
+extern void XRDevice_InvokeDeviceLoaded_m9B8D07480B85A337BE2B947204E50E41149DC77E (void);
 // 0x00000009 System.Void UnityEngine.XR.XRDevice::.cctor()
-extern void XRDevice__cctor_mC83C1293819B81E68EC72D01A5CC107DFE29B98C (void);
+extern void XRDevice__cctor_mB1E8BACD04DBC82739EBC4FC70714E71B9C7F33B (void);
 static Il2CppMethodPointer s_methodPointers[9] = 
 {
-	XRSettings_get_enabled_m970BB98BF899D943776BE6EB66FE40AA9C12A902,
-	XRSettings_get_eyeTextureWidth_m6202CB8B350531730FAFBBC6CF64EECCA3CBD860,
-	XRSettings_get_eyeTextureHeight_m045874DF2D8935D59582C65D8EA9A0A3D96D091A,
-	XRSettings_get_loadedDeviceName_m1E091DB259635ACAE9C3B77980CDB00AC06B6D4C,
-	XRDevice_GetNativePtr_m4ACC65CAD3503CD14ED7682F6682458AA146951D,
-	XRDevice_add_deviceLoaded_m47278AC2DA3262370FFDFF1F7FDAFE5F002DA528,
-	XRDevice_remove_deviceLoaded_m8F6F831CFE19F69A5DD1ACFEC34918912302E25E,
-	XRDevice_InvokeDeviceLoaded_m3BDF6825A2A56E4923D4E6593C7BA2949B6A3581,
-	XRDevice__cctor_mC83C1293819B81E68EC72D01A5CC107DFE29B98C,
+	XRSettings_get_enabled_m202056F80CE700EB87DD52C213BE30262B8433AE,
+	XRSettings_get_eyeTextureWidth_m58A1989DD2F55FCB2C92A712AEA493B6EEA3C55E,
+	XRSettings_get_eyeTextureHeight_mD4F91CDDB07756E9BF313DEFD3D74DFC6737E1A2,
+	XRSettings_get_loadedDeviceName_mFCE6E2901F4E9D598EB91C5255CA5353A69A34B4,
+	XRDevice_GetNativePtr_m46457D4EE4AF0D894A5E2066BC7CBE35E0E1F9ED,
+	XRDevice_add_deviceLoaded_m819CC05F9BE066F4830C18EB0C233601CEB9D290,
+	XRDevice_remove_deviceLoaded_m98917AA54D79D9ACDA94C9144B7034C31224DE48,
+	XRDevice_InvokeDeviceLoaded_m9B8D07480B85A337BE2B947204E50E41149DC77E,
+	XRDevice__cctor_mB1E8BACD04DBC82739EBC4FC70714E71B9C7F33B,
 };
 static const int32_t s_InvokerIndices[9] = 
 {
-	2279,
-	2286,
-	2286,
-	2292,
-	2288,
-	2268,
-	2268,
-	2268,
-	2309,
+	4440,
+	4450,
+	4450,
+	4456,
+	4452,
+	4412,
+	4412,
+	4412,
+	4478,
 };
 extern const CustomAttributesCacheGenerator g_UnityEngine_VRModule_AttributeGenerators[];
 IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_VRModule_CodeGenModule;

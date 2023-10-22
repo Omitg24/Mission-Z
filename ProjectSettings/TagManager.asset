@@ -12,6 +12,7 @@ TagManager:
   - Hitler
   - WayPoint
   - EndPoint
+  - Zombie
   layers:
   - Default
   - TransparentFX

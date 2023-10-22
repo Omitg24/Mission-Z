@@ -7,12 +7,17 @@ public class MainMenu : MonoBehaviour
 {    
 
     public void PlayGame() {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Cinematic");
         Debug.Log("Playing Mission-Z");
     }
 
     public void QuitGame() {
         Application.Quit();
         Debug.Log("Exiting Mission-Z");
+    }
+
+    public void BackMenu() {
+        SceneManager.LoadScene("MainMenu");
+        Debug.Log("Returning to the main menu");
     }
 }
