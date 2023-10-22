@@ -21,6 +21,6 @@
   Para visitar la lista de cambios revisad el archivo <a href="https://github.com/Omitg24/Mission-Z/blob/main/CHANGELIST.md">CHANGELIST.md</a>.
 </p>
 
-<footer>   
-  <img src="designs/footer.svg">
+<footer>
+    <img src="https://github.com/Omitg24/lomap_es3a/raw/master/designs/footer.svg"/>    
 </footer>
